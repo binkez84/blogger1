@@ -1,135 +1,131 @@
 const { chromium, firefox, webkit } = require('playwright');
 const mysql = require('mysql2/promise');
+const { exec } = require('child_process');
+
+// Funkcja do restartu Tor
+const restartTor = () => {
+    return new Promise((resolve, reject) => {
+        exec('sudo systemctl restart tor', (error, stdout, stderr) => {
+            if (error) {
+                console.error('Błąd podczas restartu Tor:', error.message);
+                return reject(error);
+            }
+            console.log('Tor został zrestartowany.');
+            resolve();
+        });
+    });
+};
+
+// Funkcja losująca przeglądarkę
+const getRandomBrowser = () => {
+    const browsers = [chromium, firefox, webkit];
+    return browsers[Math.floor(Math.random() * browsers.length)];
+};
 
 (async () => {
-    // Połącz z bazą danych
-    const connection = await mysql.createConnection({
+    const dbConfig = {
         host: 'localhost',
         user: 'root',
         password: 'Blogger123!',
-        database: 'blog_database'
-    });
+        database: 'blog_database',
+    };
 
+    // Połączenie z bazą danych
+    const connection = await mysql.createConnection(dbConfig);
     console.log('Połączono z bazą danych.');
 
-    // Pobierz wszystkie blogi z tabeli Blogs
+    // Pobierz blogi z bazy danych
     const [blogs] = await connection.execute('SELECT id, url FROM Blogs');
-
     if (!blogs.length) {
         console.log('Brak blogów do przetworzenia.');
         await connection.end();
         return;
     }
 
-        // Start Playwright
-    //const browser = await chromium.launch();
-    const browser = await firefox.launch({ headless: false }); // Dla Firefox
-    //const browser = await webkit.launch(); // Dla WebKit
-   const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
-    viewport: { width: 1920, height: 1080 },
-    deviceScaleFactor: 1,
-    isMobile: false,
-    hasTouch: false,
-    locale: 'pl-PL',
-    timezoneId: 'Europe/Warsaw',
-    platform: 'Win32',
-    permissions: ['geolocation'], // Jeśli serwis sprawdza lokalizację
-    javaScriptEnabled: true,
-  });
-
-  // Przedefiniowanie `navigator` w środowisku przeglądarki
-  await context.addInitScript(() => {
-    Object.defineProperty(navigator, 'platform', { get: () => 'Win32' });
-    Object.defineProperty(navigator, 'oscpu', { get: () => 'Windows NT 10.0; Win64; x64' });
-    Object.defineProperty(navigator, 'userAgent', { get: () => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0' });
-  });
-
     for (const blog of blogs) {
-        console.log(`Przetwarzam blog: ${blog.url}`);
+        console.log(`Przetwarzam blog ID: ${blog.id}, URL: ${blog.url}`);
+        await restartTor(); // Restart Tor przed każdą iteracją
 
-        const page = await browser.newPage();
+        const browserType = getRandomBrowser(); // Losuj przeglądarkę
+        const browser = await browserType.launch({
+            headless: false,
+            proxy: { server: 'socks5://127.0.0.1:9050' }, // Proxy Tor
+        });
+
+        const context = await browser.newContext({
+            viewport: { width: 1920, height: 1080 },
+            locale: 'pl-PL',
+            timezoneId: 'Europe/Warsaw',
+        });
+
+        const page = await context.newPage();
 
         try {
-            // Otwórz stronę bloga
-            await page.goto(blog.url, { waitUntil: 'domcontentloaded' });
+            console.log(`Otwieram stronę: ${blog.url}`);
+            await page.goto(blog.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
-            // Pobierz linki z id="PopularPosts1" lub id="PopularPosts2"
+            console.log('Pobieranie popularnych postów...');
             const popularPosts = await page.evaluate(() => {
                 const containers = [
                     document.getElementById('PopularPosts1'),
-                    document.getElementById('PopularPosts2')
-                ].filter(Boolean); // Filtruje null, jeśli element nie istnieje
+                    document.getElementById('PopularPosts2'),
+                ].filter(Boolean);
 
-                const links = [];
+                const posts = [];
                 containers.forEach(container => {
-                    const anchorTags = container.querySelectorAll('a');
-                    anchorTags.forEach(anchor => {
-                        links.push({
-                            url: anchor.href,
-                            title: anchor.textContent.trim()
+                    const links = container.querySelectorAll('a');
+                    links.forEach(link => {
+                        posts.push({
+                            title: link.textContent.trim(),
+                            url: link.href,
                         });
                     });
                 });
-
-                return links;
+                return posts;
             });
 
-            if (popularPosts.length === 0) {
+            if (!popularPosts.length) {
                 console.log(`Brak popularnych postów dla bloga: ${blog.url}`);
                 continue;
             }
 
-            // Usuń istniejące wpisy w bazie danych dla tego bloga
+            console.log(`Znaleziono ${popularPosts.length} postów.`);
             await connection.execute('DELETE FROM Popular_posts WHERE blog_id = ?', [blog.id]);
 
-            // Normalizuj URL-e (usuń fragmenty #...)
-            const normalizeUrl = (url) => {
-                try {
-                    const parsedUrl = new URL(url);
-                    parsedUrl.hash = ''; // Usuń fragment
-                    return parsedUrl.toString();
-                } catch (error) {
-                    console.error(`Błąd normalizacji URL: ${url}`, error);
-                    return url;
-                }
-            };
+            for (const post of popularPosts) {
+                const { title, url } = post;
 
-            // Filtruj duplikaty lokalnie
-            const uniquePosts = popularPosts
-                .map(post => ({
-                    ...post,
-                    normalizedUrl: normalizeUrl(post.url) // Dodaj znormalizowany URL
-                }))
-                .filter((post, index, self) =>
-                    index === self.findIndex(p => p.normalizedUrl === post.normalizedUrl)
-                );
-
-            // Wstaw unikalne popularne posty do bazy danych
-            for (const post of uniquePosts) {
-                if (post.url.length > 2048) { // Opcjonalne zabezpieczenie przed długimi URL-ami
-                    console.warn(`Pominięto zbyt długi URL: ${post.url}`);
+                // Filtruj puste tytuły lub URL-e
+                if (!title || !url) {
+                    console.warn(`Pominięto post z pustym tytułem lub URL: ${JSON.stringify(post)}`);
                     continue;
                 }
 
+                // Normalizuj URL (usuń fragment #...)
+                const normalizedUrl = new URL(url);
+                normalizedUrl.hash = '';
+
+                // Dodaj wersję mobilną URL
+                const mobileUrl = `${normalizedUrl.toString()}?m=1`;
+
                 try {
                     await connection.execute(
-                        'INSERT INTO Popular_posts (blog_id, url, title) VALUES (?, ?, ?)',
-                        [blog.id, post.url, post.title]
+                        'INSERT INTO Popular_posts (blog_id, url, title, mobile_url) VALUES (?, ?, ?, ?)',
+                        [blog.id, normalizedUrl.toString(), title, mobileUrl]
                     );
-                    console.log(`Dodano popularny post: ${post.title} (${post.url})`);
+                    console.log(`Dodano post: ${title}`);
                 } catch (error) {
-                    console.error(`Nie udało się dodać postu: ${post.title} (${post.url})`, error);
+                    console.error(`Nie udało się dodać postu: ${title}`, error.message);
                 }
             }
         } catch (error) {
-            console.error(`Błąd podczas przetwarzania bloga: ${blog.url}`, error);
+            console.error(`Błąd podczas przetwarzania bloga ID: ${blog.id}`, error.message);
         } finally {
             await page.close();
+            await browser.close();
         }
     }
 
-    await browser.close();
     await connection.end();
     console.log('Przetwarzanie zakończone.');
 })();
