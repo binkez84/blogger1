@@ -21,34 +21,20 @@ const mysql = require('mysql2/promise');
         return;
     }
 
-        // Start Playwright
-    //const browser = await chromium.launch();
+    // Start Playwright z obsługą Tor
+    console.log('Restartowanie Tor...');
     const browser = await firefox.launch({ headless: false }); // Dla Firefox
-    //const browser = await webkit.launch(); // Dla WebKit
-   const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
-    viewport: { width: 1920, height: 1080 },
-    deviceScaleFactor: 1,
-    isMobile: false,
-    hasTouch: false,
-    locale: 'pl-PL',
-    timezoneId: 'Europe/Warsaw',
-    platform: 'Win32',
-    permissions: ['geolocation'], // Jeśli serwis sprawdza lokalizację
-    javaScriptEnabled: true,
-  });
-
-  // Przedefiniowanie `navigator` w środowisku przeglądarki
-  await context.addInitScript(() => {
-    Object.defineProperty(navigator, 'platform', { get: () => 'Win32' });
-    Object.defineProperty(navigator, 'oscpu', { get: () => 'Windows NT 10.0; Win64; x64' });
-    Object.defineProperty(navigator, 'userAgent', { get: () => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0' });
-  });
+    const context = await browser.newContext({
+        userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
+        viewport: { width: 1920, height: 1080 },
+        isMobile: false,
+        javaScriptEnabled: true
+    });
 
     for (const blog of blogs) {
         console.log(`Przetwarzam blog: ${blog.url}`);
 
-        const page = await browser.newPage();
+        const page = await context.newPage();
 
         try {
             // Otwórz stronę bloga
@@ -59,7 +45,7 @@ const mysql = require('mysql2/promise');
                 const containers = [
                     document.getElementById('Label1'),
                     document.getElementById('Label2')
-                ].filter(Boolean); // Filtruje null, jeśli element nie istnieje
+                ].filter(Boolean);
 
                 const extractedLinks = [];
                 containers.forEach(container => {
@@ -72,23 +58,17 @@ const mysql = require('mysql2/promise');
                     });
                 });
 
-                return extractedLinks
-                    .filter(link =>
-                        link.url && // Wyklucz puste URL-e
-                        !/\.(jpg|jpeg|png|gif|webp|svg)$/i.test(link.url) // Wyklucz obrazki
-                    );
+                return extractedLinks.filter(link => link.url && link.title); // Filtruj puste URL i tytuły
             });
 
-            if (!links.length) {
-                console.log(`Brak linków w Label1/Label2 na blogu: ${blog.url}`);
-                continue;
-            }
+            console.log(`Liczba znalezionych linków: ${links.length}`);
 
-            // Normalizuj URL-e (usuń fragmenty #...)
+            if (!links.length) continue;
+
             const normalizeUrl = (url) => {
                 try {
                     const parsedUrl = new URL(url);
-                    parsedUrl.hash = ''; // Usuń fragment
+                    parsedUrl.hash = '';
                     return parsedUrl.toString();
                 } catch (error) {
                     console.error(`Błąd normalizacji URL: ${url}`, error);
@@ -96,56 +76,46 @@ const mysql = require('mysql2/promise');
                 }
             };
 
-            // Wyodrębnij domenę główną bloga
-            const blogBaseUrl = new URL(blog.url).origin;
-
-            // Filtruj duplikaty lokalnie
             const uniqueLinks = links
                 .map(link => ({
                     ...link,
-                    normalizedUrl: normalizeUrl(link.url) // Dodaj znormalizowany URL
+                    normalizedUrl: normalizeUrl(link.url),
+                    mobileUrl: normalizeUrl(link.url) + '?m=1' // Dodaj ?m=1 do wersji mobilnej
                 }))
                 .filter((link, index, self) =>
                     index === self.findIndex(l => l.normalizedUrl === link.normalizedUrl)
                 );
 
-            // Dodaj typ linku i wstaw do tabeli Label_links
             for (const link of uniqueLinks) {
-                const normalizedUrl = link.normalizedUrl;
+                const { normalizedUrl, mobileUrl, title } = link;
 
                 let type;
-                if (normalizedUrl.startsWith(blogBaseUrl)) {
-                    type = 'internal'; // Link wewnętrzny
+                if (normalizedUrl.startsWith(new URL(blog.url).origin)) {
+                    type = 'internal';
                 } else if (normalizedUrl.includes('blogspot.com')) {
-                    type = 'external_inblogger'; // Link do innego bloga Blogger
+                    type = 'external_inblogger';
                 } else {
-                    type = 'external_outblogger'; // Link spoza Bloggera
+                    type = 'external_outblogger';
                 }
 
-                if (normalizedUrl.length > 255) {
-                    console.warn(`Pominięto zbyt długi URL: ${normalizedUrl}`);
+                if (normalizedUrl.length > 255 || title.length > 255) {
+                    console.warn(`Pominięto zbyt długi URL lub tytuł: ${normalizedUrl}`);
                     continue;
                 }
 
-                try {
-                    // Sprawdź, czy wpis już istnieje w bazie danych
-                    const [rows] = await connection.execute(
-                        'SELECT COUNT(*) as count FROM Label_links WHERE blog_id = ? AND url = ?',
-                        [blog.id, normalizedUrl]
-                    );
+                const [rows] = await connection.execute(
+                    'SELECT COUNT(*) as count FROM Label_links WHERE blog_id = ? AND url = ?',
+                    [blog.id, normalizedUrl]
+                );
 
-                    if (rows[0].count === 0) {
-                        // Jeśli nie istnieje, wstaw nowy rekord
-                        await connection.execute(
-                            'INSERT INTO Label_links (blog_id, url, title, type) VALUES (?, ?, ?, ?)',
-                            [blog.id, normalizedUrl, link.title, type]
-                        );
-                        console.log(`Dodano link: ${link.title} (${normalizedUrl}) [${type}]`);
-                    } else {
-                        console.log(`Pominięto duplikat: ${link.title} (${normalizedUrl})`);
-                    }
-                } catch (error) {
-                    console.error(`Nie udało się dodać linku: ${link.title} (${normalizedUrl})`, error);
+                if (rows[0].count === 0) {
+                    await connection.execute(
+                        'INSERT INTO Label_links (blog_id, url, mobile_url, title, type) VALUES (?, ?, ?, ?, ?)',
+                        [blog.id, normalizedUrl, mobileUrl, title, type]
+                    );
+                    console.log(`Dodano link: ${title} (${normalizedUrl}) [${type}]`);
+                } else {
+                    console.log(`Pominięto duplikat: ${title} (${normalizedUrl})`);
                 }
             }
         } catch (error) {

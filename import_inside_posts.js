@@ -1,8 +1,27 @@
 const { chromium, firefox, webkit } = require('playwright');
 const mysql = require('mysql2/promise');
+const { exec } = require('child_process');
+
+async function restartTor() {
+    return new Promise((resolve, reject) => {
+        exec('sudo systemctl restart tor', (error, stdout, stderr) => {
+            if (error) {
+                console.error('Błąd podczas restartu Tor:', stderr);
+                reject(error);
+            } else {
+                console.log('Tor zrestartowany.');
+                resolve(stdout);
+            }
+        });
+    });
+}
+
+function getRandomBrowser() {
+    const browsers = [chromium, firefox, webkit];
+    return browsers[Math.floor(Math.random() * browsers.length)];
+}
 
 (async () => {
-    // Połącz z bazą danych
     const connection = await mysql.createConnection({
         host: 'localhost',
         user: 'root',
@@ -12,7 +31,6 @@ const mysql = require('mysql2/promise');
 
     console.log('Połączono z bazą danych.');
 
-    // Pobierz wszystkie posty z tabeli Posts
     const [posts] = await connection.execute('SELECT id, blog_id, url FROM Posts');
 
     if (!posts.length) {
@@ -21,51 +39,36 @@ const mysql = require('mysql2/promise');
         return;
     }
 
-       // Start Playwright
-    //const browser = await chromium.launch();
-    const browser = await firefox.launch({ headless: false }); // Dla Firefox
-    //const browser = await webkit.launch(); // Dla WebKit
-   const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
-    viewport: { width: 1920, height: 1080 },
-    deviceScaleFactor: 1,
-    isMobile: false,
-    hasTouch: false,
-    locale: 'pl-PL',
-    timezoneId: 'Europe/Warsaw',
-    platform: 'Win32',
-    permissions: ['geolocation'], // Jeśli serwis sprawdza lokalizację
-    javaScriptEnabled: true,
-  });
-
-  // Przedefiniowanie `navigator` w środowisku przeglądarki
-  await context.addInitScript(() => {
-    Object.defineProperty(navigator, 'platform', { get: () => 'Win32' });
-    Object.defineProperty(navigator, 'oscpu', { get: () => 'Windows NT 10.0; Win64; x64' });
-    Object.defineProperty(navigator, 'userAgent', { get: () => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0' });
-  });
+    const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0';
 
     for (const post of posts) {
         console.log(`Przetwarzam post: ${post.url}`);
 
-        const page = await browser.newPage();
+        await restartTor();
+
+        const browserType = getRandomBrowser();
+        const browser = await browserType.launch({
+            headless: false,
+            proxy: {
+                server: 'socks5://127.0.0.1:9050', // Proxy TOR
+            },
+        });
+
+        const context = await browser.newContext({
+            userAgent: userAgent,
+        });
+
+        const page = await context.newPage();
 
         try {
-            // Otwórz stronę posta
-            await page.goto(post.url, { waitUntil: 'domcontentloaded' });
+            await page.goto(post.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
-            // Pobierz linki z sekcji class="post-body", wykluczając linki do obrazków i linki z pustym URL-em
             const links = await page.evaluate(() => {
                 const anchors = Array.from(document.querySelectorAll('.post-body a'));
-                return anchors
-                    .map(anchor => ({
-                        url: anchor.href.trim(),
-                        title: anchor.textContent.trim()
-                    }))
-                    .filter(link => 
-                        link.url && // Wyklucz puste URL-e
-                        !/\.(jpg|jpeg|png|gif|webp|svg)$/i.test(link.url) // Wyklucz linki do obrazków
-                    );
+                return anchors.map(anchor => ({
+                    url: anchor.href.trim(),
+                    title: anchor.textContent.trim()
+                })).filter(link => link.url && link.title);
             });
 
             if (!links.length) {
@@ -73,78 +76,46 @@ const mysql = require('mysql2/promise');
                 continue;
             }
 
-            // Normalizuj URL-e (usuń fragmenty #...)
-            const normalizeUrl = (url) => {
-                try {
-                    const parsedUrl = new URL(url);
-                    parsedUrl.hash = ''; // Usuń fragment
-                    return parsedUrl.toString();
-                } catch (error) {
-                    console.error(`Błąd normalizacji URL: ${url}`, error);
-                    return url;
-                }
-            };
-
-            // Wyodrębnij domenę główną bloga
             const blogBaseUrl = new URL(post.url).origin;
 
-            // Filtruj duplikaty lokalnie
-            const uniqueLinks = links
-                .map(link => ({
-                    ...link,
-                    normalizedUrl: normalizeUrl(link.url) // Dodaj znormalizowany URL
-                }))
-                .filter((link, index, self) =>
-                    index === self.findIndex(l => l.normalizedUrl === link.normalizedUrl)
-                );
+            const uniqueLinks = links.map(link => ({
+                ...link,
+                mobile_url: link.url.includes('?m=1') ? link.url : `${link.url}?m=1`,
+                type: link.url.startsWith(blogBaseUrl)
+                    ? 'internal'
+                    : link.url.includes('blogspot.com')
+                        ? 'external_inblogger'
+                        : 'external_outblogger'
+            }));
 
-            // Dodaj typ linku i wstaw do tabeli Inside_posts
             for (const link of uniqueLinks) {
-                const normalizedUrl = link.normalizedUrl;
-
-                let type;
-                if (normalizedUrl.startsWith(blogBaseUrl)) {
-                    type = 'internal'; // Link wewnętrzny
-                } else if (normalizedUrl.includes('blogspot.com')) {
-                    type = 'external_inblogger'; // Link do innego bloga Blogger
-                } else {
-                    type = 'external_outblogger'; // Link spoza Bloggera
-                }
-
-                if (normalizedUrl.length > 255) {
-                    console.warn(`Pominięto zbyt długi URL: ${normalizedUrl}`);
-                    continue;
-                }
-
-                // Sprawdzanie, czy link już istnieje w tabeli Inside_posts
                 const [rows] = await connection.execute(
                     'SELECT COUNT(*) as count FROM Inside_posts WHERE blog_id = ? AND post_id = ? AND url = ?',
-                    [post.blog_id, post.id, normalizedUrl]
+                    [post.blog_id, post.id, link.url]
                 );
 
-                // Jeśli count jest 0, to znaczy, że linka jeszcze nie ma w tabeli
                 if (rows[0].count === 0) {
                     try {
                         await connection.execute(
-                            'INSERT INTO Inside_posts (blog_id, post_id, url, title, type) VALUES (?, ?, ?, ?, ?)',
-                            [post.blog_id, post.id, normalizedUrl, link.title, type]
+                            'INSERT INTO Inside_posts (blog_id, post_id, url, mobile_url, title, type) VALUES (?, ?, ?, ?, ?, ?)',
+                            [post.blog_id, post.id, link.url, link.mobile_url, link.title, link.type]
                         );
-                        console.log(`Dodano link: ${link.title} (${normalizedUrl}) [${type}]`);
+                        console.log(`Dodano link: ${link.title} (${link.url}) [${link.type}]`);
                     } catch (error) {
-                        console.error(`Nie udało się dodać linku: ${link.title} (${normalizedUrl})`, error);
+                        console.error(`Błąd podczas zapisywania linku: ${link.url}`, error);
                     }
                 } else {
-                    console.log(`Pominięto duplikat: ${link.title} (${normalizedUrl})`);
+                    console.log(`Pominięto duplikat: ${link.url}`);
                 }
             }
         } catch (error) {
             console.error(`Błąd podczas przetwarzania posta: ${post.url}`, error);
         } finally {
             await page.close();
+            await browser.close();
         }
     }
 
-    await browser.close();
     await connection.end();
     console.log('Przetwarzanie zakończone.');
 })();

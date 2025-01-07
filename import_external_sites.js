@@ -1,18 +1,51 @@
 const { chromium, firefox, webkit } = require('playwright');
 const mysql = require('mysql2/promise');
+const { exec } = require('child_process');
+
+// Funkcja do restartowania TOR
+async function restartTor() {
+    return new Promise((resolve, reject) => {
+        exec('sudo systemctl restart tor', (error, stdout, stderr) => {
+            if (error) {
+                console.error('Błąd restartu TOR:', stderr);
+                reject(error);
+            } else {
+                console.log('TOR został zrestartowany.');
+                resolve(stdout);
+            }
+        });
+    });
+}
+
+// Funkcja do normalizacji URL
+function normalizeUrl(url) {
+    try {
+        const parsedUrl = new URL(url);
+        parsedUrl.hash = ''; // Usuń fragment #...
+        return parsedUrl.toString();
+    } catch (error) {
+        console.error(`Błąd normalizacji URL: ${url}`, error);
+        return url;
+    }
+}
+
+// Losowanie przeglądarki
+function getRandomBrowser() {
+    const browsers = [chromium, firefox, webkit];
+    return browsers[Math.floor(Math.random() * browsers.length)];
+}
 
 (async () => {
-    // Połącz z bazą danych
     const connection = await mysql.createConnection({
         host: 'localhost',
         user: 'root',
         password: 'Blogger123!',
-        database: 'blog_database'
+        database: 'blog_database',
     });
 
     console.log('Połączono z bazą danych.');
 
-    // Pobierz wszystkie blogi z tabeli Blogs
+    // Pobierz wszystkie blogi
     const [blogs] = await connection.execute('SELECT id, url FROM Blogs');
 
     if (!blogs.length) {
@@ -21,62 +54,48 @@ const mysql = require('mysql2/promise');
         return;
     }
 
-        // Start Playwright
-    //const browser = await chromium.launch();
-    const browser = await firefox.launch({ headless: false }); // Dla Firefox
-    //const browser = await webkit.launch(); // Dla WebKit
-   const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
-    viewport: { width: 1920, height: 1080 },
-    deviceScaleFactor: 1,
-    isMobile: false,
-    hasTouch: false,
-    locale: 'pl-PL',
-    timezoneId: 'Europe/Warsaw',
-    platform: 'Win32',
-    permissions: ['geolocation'], // Jeśli serwis sprawdza lokalizację
-    javaScriptEnabled: true,
-  });
-
-  // Przedefiniowanie `navigator` w środowisku przeglądarki
-  await context.addInitScript(() => {
-    Object.defineProperty(navigator, 'platform', { get: () => 'Win32' });
-    Object.defineProperty(navigator, 'oscpu', { get: () => 'Windows NT 10.0; Win64; x64' });
-    Object.defineProperty(navigator, 'userAgent', { get: () => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0' });
-  });
-
     for (const blog of blogs) {
         console.log(`Przetwarzam blog: ${blog.url}`);
 
-        const page = await browser.newPage();
+        await restartTor(); // Restart TOR
+
+        const browserType = getRandomBrowser();
+        const browser = await browserType.launch({
+            headless: false,
+            proxy: {
+                server: 'socks5://127.0.0.1:9050', // TOR proxy
+            },
+        });
+
+        const context = await browser.newContext({
+            userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
+        });
+
+        const page = await context.newPage();
 
         try {
             // Otwórz stronę bloga
-            await page.goto(blog.url, { waitUntil: 'domcontentloaded' });
+            await page.goto(blog.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
-            // Pobierz linki z sekcji LinkList1 lub LinkList2
+            // Pobierz linki z sekcji LinkList1 i LinkList2
             const links = await page.evaluate(() => {
                 const containers = [
                     document.getElementById('LinkList1'),
-                    document.getElementById('LinkList2')
-                ].filter(Boolean); // Filtruje null, jeśli element nie istnieje
+                    document.getElementById('LinkList2'),
+                ].filter(Boolean);
 
                 const extractedLinks = [];
-                containers.forEach(container => {
+                containers.forEach((container) => {
                     const anchors = container.querySelectorAll('a');
-                    anchors.forEach(anchor => {
+                    anchors.forEach((anchor) => {
                         extractedLinks.push({
                             url: anchor.href.trim(),
-                            title: anchor.textContent.trim()
+                            title: anchor.textContent.trim(),
                         });
                     });
                 });
 
-                return extractedLinks
-                    .filter(link =>
-                        link.url && // Wyklucz puste URL-e
-                        !/\.(jpg|jpeg|png|gif|webp|svg)$/i.test(link.url) // Wyklucz obrazki
-                    );
+                return extractedLinks.filter((link) => link.url && link.title); // Wyklucz puste linki i tytuły
             });
 
             if (!links.length) {
@@ -84,42 +103,28 @@ const mysql = require('mysql2/promise');
                 continue;
             }
 
-            // Normalizuj URL-e (usuń fragmenty #...)
-            const normalizeUrl = (url) => {
-                try {
-                    const parsedUrl = new URL(url);
-                    parsedUrl.hash = ''; // Usuń fragment
-                    return parsedUrl.toString();
-                } catch (error) {
-                    console.error(`Błąd normalizacji URL: ${url}`, error);
-                    return url;
-                }
-            };
-
-            // Wyodrębnij domenę główną bloga
             const blogBaseUrl = new URL(blog.url).origin;
 
-            // Filtruj duplikaty lokalnie
             const uniqueLinks = links
-                .map(link => ({
+                .map((link) => ({
                     ...link,
-                    normalizedUrl: normalizeUrl(link.url) // Dodaj znormalizowany URL
+                    normalizedUrl: normalizeUrl(link.url),
+                    mobileUrl: `${link.url}?m=1`, // Dodanie mobile_url
                 }))
                 .filter((link, index, self) =>
-                    index === self.findIndex(l => l.normalizedUrl === link.normalizedUrl)
+                    index === self.findIndex((l) => l.normalizedUrl === link.normalizedUrl)
                 );
 
-            // Dodaj typ linku i wstaw do tabeli External_sites
             for (const link of uniqueLinks) {
                 const normalizedUrl = link.normalizedUrl;
 
                 let type;
                 if (normalizedUrl.startsWith(blogBaseUrl)) {
-                    type = 'internal'; // Link wewnętrzny
+                    type = 'internal';
                 } else if (normalizedUrl.includes('blogspot.com')) {
-                    type = 'external_inblogger'; // Link do innego bloga Blogger
+                    type = 'external_inblogger';
                 } else {
-                    type = 'external_outblogger'; // Link spoza Bloggera
+                    type = 'external_outblogger';
                 }
 
                 if (normalizedUrl.length > 255) {
@@ -128,34 +133,32 @@ const mysql = require('mysql2/promise');
                 }
 
                 try {
-                    // Sprawdź, czy wpis już istnieje w bazie danych
                     const [rows] = await connection.execute(
                         'SELECT COUNT(*) as count FROM External_sites WHERE blog_id = ? AND url = ?',
                         [blog.id, normalizedUrl]
                     );
 
                     if (rows[0].count === 0) {
-                        // Jeśli nie istnieje, wstaw nowy rekord
                         await connection.execute(
-                            'INSERT INTO External_sites (blog_id, url, title, type) VALUES (?, ?, ?, ?)',
-                            [blog.id, normalizedUrl, link.title, type]
+                            'INSERT INTO External_sites (blog_id, url, mobile_url, title, type) VALUES (?, ?, ?, ?, ?)',
+                            [blog.id, normalizedUrl, link.mobileUrl, link.title, type]
                         );
                         console.log(`Dodano link: ${link.title} (${normalizedUrl}) [${type}]`);
                     } else {
                         console.log(`Pominięto duplikat: ${link.title} (${normalizedUrl})`);
                     }
                 } catch (error) {
-                    console.error(`Nie udało się dodać linku: ${link.title} (${normalizedUrl})`, error);
+                    console.error(`Błąd podczas zapisywania linku: ${link.title} (${normalizedUrl})`, error);
                 }
             }
         } catch (error) {
             console.error(`Błąd podczas przetwarzania bloga: ${blog.url}`, error);
         } finally {
             await page.close();
+            await browser.close();
         }
     }
 
-    await browser.close();
     await connection.end();
     console.log('Przetwarzanie zakończone.');
 })();
