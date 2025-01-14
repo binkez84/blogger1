@@ -13,6 +13,10 @@ const pool = mysql.createPool({
 
 
 
+
+
+
+
 // Walidacja blog_id
 function validateBlogId(blogId) {
   if (!Number.isInteger(blogId) || blogId <= 0) {
@@ -132,6 +136,164 @@ async function closeConnection() {
   console.log('Połączenie z bazą danych zamknięte !!!.');
 }
 
+
+/////////////////////////////////////////////////////////////////////////////
+///////Funkcje Next action START - pobierz///////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
+
+
+// Funkcja: Losowanie jednego popularnego posta
+async function getRandomPopularPost(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie listy popularnych bezpośrednio z bazy danych
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Popular_posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak postów w bazie danych.');
+    }
+
+    // Losowanie jednego bloga
+    const randomIndex = Math.floor(Math.random() * rows.length);
+    return rows[randomIndex]; // Zwraca jeden losowy blog
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+// Funkcja: Losowanie jednego rekomendowanego posta
+async function getRandomRecommendedPost(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie jednego rekomendowanego posta
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Recommended_posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak postów w bazie danych.');
+    }
+
+    // Losowanie jednego posta
+    const randomIndex = Math.floor(Math.random() * rows.length);
+    return rows[randomIndex]; // Zwraca jeden losowy blog
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+// Funkcja: Losowanie jednego label linksa
+async function getRandomLabelLink(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie jednego label Linka
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Label_links WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak postów w bazie danych.');
+    }
+
+    // Losowanie jednego label linka
+    const randomIndex = Math.floor(Math.random() * rows.length);
+    return rows[randomIndex]; // Zwraca jeden losowy blog
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+// Funkcja: Losowanie jednego sitemain_posta
+async function getRandomSitemainPost(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie jednego label Linka
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Sitemain_posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak postów w bazie danych.');
+    }
+
+    // Losowanie jednego sitemain_post
+    const randomIndex = Math.floor(Math.random() * rows.length);
+    return rows[randomIndex]; // Zwraca jeden losowy blog
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+// Funkcja: Losowanie jednego external_site
+async function getRandomExternalSite(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie jednego label Linka
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM External_sites WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak postów w bazie danych.');
+    }
+
+    // Losowanie jednego external_sites
+    const randomIndex = Math.floor(Math.random() * rows.length);
+    return rows[randomIndex]; 
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+// Funkcja: Losowanie jednego explore_newest_post
+async function getRandomPost(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie jednego Post
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak postów w bazie danych.');
+    }
+
+    // Losowanie jednego post
+    const randomIndex = Math.floor(Math.random() * rows.length);
+    return rows[randomIndex]; 
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+
+// Funkcja: Losowanie jednego explore_page
+async function getRandomPage(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie jednego Page
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Pages WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak postów w bazie danych.');
+    }
+
+    // Losowanie jednego page
+    const randomIndex = Math.floor(Math.random() * rows.length);
+    return rows[randomIndex]; 
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+
+
+/////////////////////////////////////////////////////////////////////
+///////Funkcje Next action STOP /////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Eksport funkcji
 module.exports = {
   getBlogs,
@@ -144,6 +306,16 @@ module.exports = {
   getInternalSites,
   getLabels,
   getPosts,
+  
+  getRandomPopularPost,
+  getRandomRecommendedPost,
+  getRandomLabelLink,
+  getRandomExternalSite,
+  getRandomSitemainPost,
+  getRandomPage,
+  getRandomPost,
+  
   closeConnection,
 };
+
 
