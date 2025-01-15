@@ -31,24 +31,6 @@ async function getBlogs() {
 }
 
 
-// Funkcja: Losowanie jednego bloga bez zależności od innych funkcji
-async function getRandomBlog() {
-  try {
-    // Pobranie listy blogów bezpośrednio z bazy danych
-    const [rows] = await pool.query('SELECT id,url FROM Blogs ORDER BY created_at DESC');
-    
-    if (rows.length === 0) {
-      throw new Error('Brak blogów w bazie danych.');
-    }
-
-    // Losowanie jednego bloga
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; // Zwraca jeden losowy blog
-  } catch (error) {
-    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
-  }
-}
-
 
 // Funkcja: Pobieranie popularnych postów dla blog_id
 async function getPopularPosts(blogId) {
@@ -133,7 +115,7 @@ async function getPosts(blogId) {
 // Funkcja: Zamykanie połączenia z bazą danych
 async function closeConnection() {
   await pool.end();
-  console.log('Połączenie z bazą danych zamknięte !!!.');
+  console.log('Połączenie z bazą danych zamknięte.');
 }
 
 
@@ -142,41 +124,110 @@ async function closeConnection() {
 /////////////////////////////////////////////////////////////////////////////
 
 
-// Funkcja: Losowanie jednego popularnego posta
-async function getRandomPopularPost(blogId) {
-  validateBlogId(blogId);
+
+// Zbiór używanych indeksów, aby unikać powtórzeń
+let usedIndexes = new Set();
+
+async function getRandomBlog() {
   try {
-    // Pobranie listy popularnych bezpośrednio z bazy danych
-    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Popular_posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    // Pobranie listy blogów bezpośrednio z bazy danych
+    const [rows] = await pool.query('SELECT id, url FROM Blogs');
     
     if (rows.length === 0) {
-      throw new Error('Brak postów w bazie danych.');
+      throw new Error('Brak blogów w bazie danych.');
     }
 
-    // Losowanie jednego bloga
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; // Zwraca jeden losowy blog
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+      //console.log('Wszystkie blogi zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+    //console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
   } catch (error) {
     throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
   }
 }
 
+
+
+// Funkcja: Losowanie jednego popularnego posta
+async function getRandomPopularPost(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie listy blogów bezpośrednio z bazy danych
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Popular_posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak popular posts w bazie danych.');
+    }
+
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+     // console.log('Wszystkie popularne posty zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+    //console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+  }
+}
+
+
 // Funkcja: Losowanie jednego rekomendowanego posta
 async function getRandomRecommendedPost(blogId) {
   validateBlogId(blogId);
   try {
-    // Pobranie jednego rekomendowanego posta
+    // Pobranie listy blogów bezpośrednio z bazy danych
     const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Recommended_posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
     
     if (rows.length === 0) {
-      throw new Error('Brak postów w bazie danych.');
+      throw new Error('Brak recommended posts w bazie danych.');
     }
 
-    // Losowanie jednego posta
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; // Zwraca jeden losowy blog
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+      //console.log('Wszystkie rekomendowane posty zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+    //console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
   } catch (error) {
-    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+    throw new Error(`Błąd podczas pobierania rekomendowanych postow: ${error.message}`);
   }
 }
 
@@ -184,18 +235,33 @@ async function getRandomRecommendedPost(blogId) {
 async function getRandomLabelLink(blogId) {
   validateBlogId(blogId);
   try {
-    // Pobranie jednego label Linka
+    // Pobranie listy blogów bezpośrednio z bazy danych
     const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Label_links WHERE blog_id = ${blogId} ORDER BY id DESC`);
     
     if (rows.length === 0) {
-      throw new Error('Brak postów w bazie danych.');
+      throw new Error('Brak label linksow w bazie danych.');
     }
 
-    // Losowanie jednego label linka
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; // Zwraca jeden losowy blog
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+      //console.log('Wszystkie label linksy zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+   // console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
   } catch (error) {
-    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+    throw new Error(`Błąd podczas pobierania label linksow: ${error.message}`);
   }
 }
 
@@ -203,18 +269,33 @@ async function getRandomLabelLink(blogId) {
 async function getRandomSitemainPost(blogId) {
   validateBlogId(blogId);
   try {
-    // Pobranie jednego label Linka
+    // Pobranie listy blogów bezpośrednio z bazy danych
     const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Sitemain_posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
     
     if (rows.length === 0) {
-      throw new Error('Brak postów w bazie danych.');
+      throw new Error('Brak sitemain postow w bazie danych.');
     }
 
-    // Losowanie jednego sitemain_post
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; // Zwraca jeden losowy blog
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+      //console.log('Wszystkie sitemain posty zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+    //console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
   } catch (error) {
-    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+    throw new Error(`Błąd podczas pobierania sitemain_posts: ${error.message}`);
   }
 }
 
@@ -222,18 +303,33 @@ async function getRandomSitemainPost(blogId) {
 async function getRandomExternalSite(blogId) {
   validateBlogId(blogId);
   try {
-    // Pobranie jednego label Linka
+    // Pobranie listy External sites bezpośrednio z bazy danych
     const [rows] = await pool.query(`SELECT id,url,mobile_url FROM External_sites WHERE blog_id = ${blogId} ORDER BY id DESC`);
     
     if (rows.length === 0) {
-      throw new Error('Brak postów w bazie danych.');
+      throw new Error('Brak external sites w bazie danych.');
     }
 
-    // Losowanie jednego external_sites
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; 
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+     // console.log('Wszystkie external sites zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+    //console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
   } catch (error) {
-    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+    throw new Error(`Błąd podczas pobierania external sites: ${error.message}`);
   }
 }
 
@@ -241,18 +337,33 @@ async function getRandomExternalSite(blogId) {
 async function getRandomPost(blogId) {
   validateBlogId(blogId);
   try {
-    // Pobranie jednego Post
+    // Pobranie listy posts bezpośrednio z bazy danych
     const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
     
     if (rows.length === 0) {
-      throw new Error('Brak postów w bazie danych.');
+      throw new Error('Brak posts archiwum w bazie danych.');
     }
 
-    // Losowanie jednego post
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; 
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+      //console.log('Wszystkie sitemain posty zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+    //console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
   } catch (error) {
-    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+    throw new Error(`Błąd podczas pobierania posts archiwum: ${error.message}`);
   }
 }
 
@@ -261,18 +372,33 @@ async function getRandomPost(blogId) {
 async function getRandomPage(blogId) {
   validateBlogId(blogId);
   try {
-    // Pobranie jednego Page
+    // Pobranie listy pages bezpośrednio z bazy danych
     const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Pages WHERE blog_id = ${blogId} ORDER BY id DESC`);
     
     if (rows.length === 0) {
-      throw new Error('Brak postów w bazie danych.');
+      throw new Error('Brak pages w bazie danych.');
     }
 
-    // Losowanie jednego page
-    const randomIndex = Math.floor(Math.random() * rows.length);
-    return rows[randomIndex]; 
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+      //console.log('Wszystkie pagesy zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+   // console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
   } catch (error) {
-    throw new Error(`Błąd podczas pobierania blogów: ${error.message}`);
+    throw new Error(`Błąd podczas pobierania pages: ${error.message}`);
   }
 }
 
@@ -317,5 +443,6 @@ module.exports = {
   
   closeConnection,
 };
+
 
 

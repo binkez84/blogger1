@@ -17,19 +17,21 @@ async function moveAndClickOnLink(page, url, bodySelector1, bodySelector2) {
     }
 
     if (targetLink) {
-      // Przesuń myszkę na znaleziony link
+      // Upewnij się, że element jest widoczny
+      await targetLink.scrollIntoViewIfNeeded();
+      console.log('Przewinięto stronę do elementu.');
+
+      // Pobierz bounding box elementu
       const boundingBox = await targetLink.boundingBox();
       if (boundingBox) {
+        // Przesuń myszkę na znaleziony link
         await page.mouse.move(
           boundingBox.x + boundingBox.width / 2,
           boundingBox.y + boundingBox.height / 2,
           { steps: 10 }
         );
 
-        // Usuń atrybut target, aby wymusić otwarcie w tej samej karcie
-        await page.evaluate((link) => {
-          link.removeAttribute('target');
-        }, targetLink);
+
 
         // Przygotuj monitorowanie różnych scenariuszy
         const previousUrl = page.url();
@@ -37,14 +39,15 @@ async function moveAndClickOnLink(page, url, bodySelector1, bodySelector2) {
         const urlChangePromise = page.waitForURL((newUrl) => newUrl !== previousUrl, { timeout: 5000 }).catch(() => null);
         const newPagePromise = page.context().waitForEvent('page', { timeout: 5000 }).catch(() => null);
 
-        // Kliknij link
-        await targetLink.click();
+
+        // Kliknij element
+        await targetLink.click({ timeout: 10000 });
         console.log(`Kliknięto link: ${url}`);
-
-        // Dodaj opóźnienie, aby strona mogła zareagować
-        await page.waitForTimeout(4000); // Czekaj 3 sekundy na reakcję strony
-
-
+		
+		
+		// Dodaj opóźnienie, aby strona mogła zareagować
+        await page.waitForTimeout(7000);
+		
         // Sprawdź, co się wydarzyło po kliknięciu
         const [navigation, urlChange, newPage] = await Promise.all([
           navigationPromise,
@@ -56,16 +59,28 @@ async function moveAndClickOnLink(page, url, bodySelector1, bodySelector2) {
           // Nowa karta została otwarta
           await newPage.waitForLoadState();
           console.log('Otwarta została nowa karta z URL:', newPage.url());
+
+          // Pobierz tytuł strony z nowej karty
+          const title = await newPage.title();
+          console.log('Tytuł strony w nowej karcie:', title);
+
+          // Zamknij nową kartę, jeśli to konieczne
+          await newPage.close();
         } else if (navigation) {
-          // Strona została przeładowana w tej samej karcie
           console.log('Strona została przeładowana na:', page.url());
         } else if (urlChange) {
-          // URL zmienił się w tej samej karcie
           console.log('URL zmienił się na:', page.url());
         } else {
-          // Żadna zmiana nie nastąpiła
           console.log('Żadna zmiana nie nastąpiła po kliknięciu.');
-        }
+        }		
+		
+		
+		
+		
+		
+		
+		
+		
       } else {
         throw new Error('Nie znaleziono bounding box dla linka.');
       }
@@ -76,8 +91,6 @@ async function moveAndClickOnLink(page, url, bodySelector1, bodySelector2) {
     console.error(`Błąd podczas przesuwania myszy: ${error.message}`);
   }
 }
-
-
 
 
 
@@ -155,6 +168,7 @@ module.exports = {
   
   moveAndClickOnLink,
 };
+
 
 
 
