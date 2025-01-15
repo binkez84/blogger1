@@ -46,7 +46,7 @@ async function moveAndClickOnLink(page, url, bodySelector1, bodySelector2) {
 		
 		
 		// Dodaj opóźnienie, aby strona mogła zareagować
-        await page.waitForTimeout(7000);
+        await page.waitForTimeout(30000);
 		
         // Sprawdź, co się wydarzyło po kliknięciu
         const [navigation, urlChange, newPage] = await Promise.all([
