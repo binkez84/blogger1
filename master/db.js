@@ -338,7 +338,7 @@ async function getRandomPost(blogId) {
   validateBlogId(blogId);
   try {
     // Pobranie listy posts bezpośrednio z bazy danych
-    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Posts WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    const [rows] = await pool.query(`SELECT id, url, mobile_url FROM Posts WHERE blog_id = ${blogId} ORDER BY id ASC LIMIT 5 OFFSET 0;`);
     
     if (rows.length === 0) {
       throw new Error('Brak posts archiwum w bazie danych.');
@@ -443,6 +443,7 @@ module.exports = {
   
   closeConnection,
 };
+
 
 
 
