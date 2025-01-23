@@ -12,7 +12,7 @@ const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
     const maxRetries = 1; // Maksymalna liczba prób przetwarzania bloga
     let retries = 0; // Licznik prób
     let success = false; // Flaga zakończenia operacji sukcesem
-aa
+
     try {
         const randomBlog = await getRandomBlog();
         console.log('Wylosowany blog:', randomBlog.url);
