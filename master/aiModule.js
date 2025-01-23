@@ -9,11 +9,12 @@ const aiModule = {
     // Funkcja decydująca o następnej akcji
     decideNextActionOne: () => {
         const actions = ['explore_popular_post', 'explore_recommended_post', 'explore_label_link', 'explore_sitemain_post',
-						 'explore_external_site','explore_newest_post','explore_page'
+						 'explore_external_site','explore_newest_post','explore_page', 'explore_recommended_blog'
 						];
         return actions[Math.floor(Math.random() * actions.length)];
     }
 };
 
 module.exports = aiModule;
+
 

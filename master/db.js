@@ -404,6 +404,41 @@ async function getRandomPage(blogId) {
 
 
 
+// Funkcja: Losowanie jednego explore_recommended_blogs
+async function getRandomRecommendedBlog(blogId) {
+  validateBlogId(blogId);
+  try {
+    // Pobranie listy recommended blog bezpośrednio z bazy danych
+    const [rows] = await pool.query(`SELECT id,url,mobile_url FROM Recommended_blogs WHERE blog_id = ${blogId} ORDER BY id DESC`);
+    
+    if (rows.length === 0) {
+      throw new Error('Brak recommended blog w bazie danych.');
+    }
+
+    // Sprawdź, czy wszystkie indeksy zostały użyte
+    if (usedIndexes.size === rows.length) {
+      //console.log('Wszystkie pagesy zostały wylosowane. Resetuję zbiór.');
+      usedIndexes.clear(); // Resetuj zbiór używanych indeksów
+    }
+
+    // Losowanie indeksu, który nie został jeszcze użyty
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * rows.length);
+    } while (usedIndexes.has(randomIndex));
+
+    // Dodanie wylosowanego indeksu do zbioru używanych
+    usedIndexes.add(randomIndex);
+
+    // Zwraca losowy blog
+   // console.log(`URL: ${rows[randomIndex].url}`);
+    return rows[randomIndex];
+  } catch (error) {
+    throw new Error(`Błąd podczas pobierania recommended blogs: ${error.message}`);
+  }
+}
+
+
 /////////////////////////////////////////////////////////////////////
 ///////Funkcje Next action STOP /////////////////////////////////////
 /////////////////////////////////////////////////////////////////////
@@ -440,9 +475,10 @@ module.exports = {
   getRandomSitemainPost,
   getRandomPage,
   getRandomPost,
-  
+  getRandomRecommendedBlog,  
   closeConnection,
 };
+
 
 
 

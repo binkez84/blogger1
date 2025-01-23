@@ -1,6 +1,7 @@
 const { chromium, firefox, webkit } = require('playwright');
 const { getBlogs, getRandomBlog, getRandomPopularPost, getRandomRecommendedPost,
     getRandomLabelLink, getRandomSitemainPost, getRandomExternalSite, getRandomPage, getRandomPost,
+	getRandomRecommendedBlog,
     closeConnection } = require('./db');
 const { moveAndClickOnLink } = require('./utils');
 const { restartTor, randomBrowserType, randomUserAgent } = require('./browser');
@@ -8,7 +9,7 @@ const { execSync } = require('child_process');
 const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
 
 (async () => {
-    const maxRetries = 3; // Maksymalna liczba prób przetwarzania bloga
+    const maxRetries = 1; // Maksymalna liczba prób przetwarzania bloga
     let retries = 0; // Licznik prób
     let success = false; // Flaga zakończenia operacji sukcesem
 
@@ -44,8 +45,9 @@ const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
                 await page.waitForTimeout(time_on_page);
 
                 // Decyzja o dalszym działaniu
-                const action_one = aiModule.decideNextActionOne();
-                console.log('Wylosowano akcję:', action_one);
+                //const action_one = aiModule.decideNextActionOne();
+				let action_one = 'explore_recommended_blog';
+ 			   console.log('Wylosowano akcję:', action_one);
 
                 if (action_one === 'explore_popular_post') {
                     const randomPopularPost = await getRandomPopularPost(randomBlog.id);
@@ -68,6 +70,9 @@ const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
                 } else if (action_one === 'explore_page') {
                     const randomPage = await getRandomPage(randomBlog.id);
                     await moveAndClickOnLink(page, randomPage.url, '#PageList1', '#PageList2');
+                } else if (action_one === 'explore_recommended_blog') {
+                    const randomRecommendedBlog = await getRandomRecommendedBlog(randomBlog.id);
+                    await moveAndClickOnLink(page, randomRecommendedBlog.url, '#BlogList1');
                 }
 
                 // Jeśli wszystko zakończyło się sukcesem
@@ -96,4 +101,5 @@ const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
         console.log('Skrypt zakończony.');
     }
 })();
+
 
