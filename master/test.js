@@ -45,8 +45,8 @@ const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
                 await page.waitForTimeout(time_on_page);
 
                 // Decyzja o dalszym działaniu
-                //const action_one = aiModule.decideNextActionOne();
-				let action_one = 'explore_recommended_blog';
+                const action_one = aiModule.decideNextActionOne();
+				//let action_one = 'explore_recommended_blog';
  			   console.log('Wylosowano akcję:', action_one);
 
                 if (action_one === 'explore_popular_post') {
