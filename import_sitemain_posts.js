@@ -43,6 +43,10 @@ const getRandomBrowser = () => {
         return;
     }
 
+
+    await connection.execute('DELETE FROM Sitemain_posts');
+    await connection.execute('ALTER TABLE Sitemain_posts AUTO_INCREMENT = 1');
+
     for (const blog of blogs) {
         console.log(`Przetwarzam blog: ${blog.url}`);
 
@@ -91,6 +95,8 @@ const getRandomBrowser = () => {
                 continue;
             }
 
+            
+
             console.log(`Znaleziono ${posts.length} postów.`);
 
             // Normalizacja URL
@@ -115,16 +121,18 @@ const getRandomBrowser = () => {
                     continue;
                 }
 
+
                 // Sprawdź, czy rekord już istnieje
-                const [existing] = await connection.execute(
+                const [existingRecord] = await connection.execute(
                     'SELECT COUNT(*) AS count FROM Sitemain_posts WHERE blog_id = ? AND url = ?',
                     [blog.id, normalizedUrl]
                 );
 
-                if (existing[0].count > 0) {
+                if (existingRecord[0].count > 0) {
                     console.log(`Rekord już istnieje w bazie: ${normalizedUrl}`);
-                    continue;
+                    continue; // Pomijamy zapis
                 }
+
 
                 try {
                     await connection.execute(
@@ -147,4 +155,5 @@ const getRandomBrowser = () => {
     await connection.end();
     console.log('Przetwarzanie zakończone.');
 })();
+
 

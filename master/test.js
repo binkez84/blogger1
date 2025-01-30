@@ -9,7 +9,7 @@ const { execSync } = require('child_process');
 const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
 
 (async () => {
-    const maxRetries = 1; // Maksymalna liczba prób przetwarzania bloga
+    const maxRetries = 3; // Maksymalna liczba prób przetwarzania bloga
     let retries = 0; // Licznik prób
     let success = false; // Flaga zakończenia operacji sukcesem
 

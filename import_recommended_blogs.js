@@ -42,6 +42,11 @@ const getRandomBrowser = () => {
         return;
     }
 
+
+    await connection.execute('DELETE FROM Recommended_blogs');
+    await connection.execute('ALTER TABLE Recommended_blogs AUTO_INCREMENT = 1');
+
+
     for (const blog of blogs) {
         console.log(`Przetwarzam blog ID: ${blog.id}, URL: ${blog.url}`);
         await restartTor(); // Restart Tor przed każdą iteracją
@@ -89,7 +94,7 @@ const getRandomBrowser = () => {
             }
 
             console.log(`Znaleziono ${recommendedBlogs.length} blogow.`);
-            await connection.execute('DELETE FROM Recommended_blogs WHERE blog_id = ?', [blog.id]);
+
 
             for (const post of recommendedBlogs) {
                 const { title, url } = post;
@@ -128,5 +133,6 @@ const getRandomBrowser = () => {
     await connection.end();
     console.log('Przetwarzanie zakończone.');
 })();
+
 
 

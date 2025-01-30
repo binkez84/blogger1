@@ -57,6 +57,10 @@ const normalizeUrl = (url) => {
         return;
     }
 
+
+    await connection.execute('DELETE FROM Recommended_posts');
+    await connection.execute('ALTER TABLE Recommended_posts AUTO_INCREMENT = 1');
+
     for (const blog of blogs) {
         console.log(`Przetwarzam blog: ${blog.url}`);
         await restartTor(); // Restart Tor przed każdą iteracją
@@ -110,7 +114,6 @@ const normalizeUrl = (url) => {
             }
 
             console.log(`Znaleziono ${recommendedPosts.length} postów.`);
-            await connection.execute('DELETE FROM Recommended_posts WHERE blog_id = ?', [blog.id]);
 
             // Przetwórz posty
             for (const post of recommendedPosts) {
@@ -156,4 +159,5 @@ const normalizeUrl = (url) => {
     await connection.end();
     console.log('Przetwarzanie zakończone.');
 })();
+
 
