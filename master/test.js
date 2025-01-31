@@ -29,27 +29,40 @@ const pool = mysql.createPool({
   queueLimit: 0,
 });
 
-// Funkcja do zapisu czasu uruchomienia skryptu
 async function logScriptExecution() {
   let connection;
   try {
     connection = await pool.getConnection();
     const scriptName = path.basename(__filename);
 
-    await connection.execute(
-      `INSERT INTO Active_scripts (script_name, last_datetime) 
-       VALUES (?, NOW()) 
-       ON DUPLICATE KEY UPDATE last_datetime = NOW()`,
+    // Sprawdzenie, czy rekord już istnieje
+    const [rows] = await connection.execute(
+      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
       [scriptName]
     );
 
-    console.log(`Zaktualizowano czas uruchomienia dla skryptu: ${scriptName}`);
+    if (rows.length > 0) {
+      // Jeśli istnieje, aktualizujemy czas
+      await connection.execute(
+        `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ?`,
+        [scriptName]
+      );
+      console.log(`Zaktualizowano czas uruchomienia dla skryptu: ${scriptName}`);
+    } else {
+      // Jeśli nie istnieje, wstawiamy nowy rekord
+      await connection.execute(
+        `INSERT INTO Active_scripts (script_name, last_datetime) VALUES (?, NOW())`,
+        [scriptName]
+      );
+      console.log(`Dodano nowy wpis dla skryptu: ${scriptName}`);
+    }
   } catch (error) {
     console.error("Błąd podczas zapisu do Active_scripts:", error.message);
   } finally {
     if (connection) connection.release();
   }
 }
+
 
 (async () => {
   await logScriptExecution();
@@ -160,4 +173,5 @@ async function logScriptExecution() {
     process.exit(0); // Wymuszone zakończenie skryptu
   }
 })();
+
 

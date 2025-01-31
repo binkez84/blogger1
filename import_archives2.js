@@ -1,5 +1,6 @@
-const { chromium, firefox, webkit } = require('playwright');
-const mysql = require('mysql2/promise');
+const { chromium, firefox, webkit } = require("playwright");
+const mysql = require("mysql2/promise");
+const path = require("path");
 const { execSync } = require('child_process');
 
 // Lista User-Agent
@@ -11,7 +12,56 @@ const userAgents = [
     'Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1'
 ];
 
+
+// Konfiguracja puli połączeń
+const pool = mysql.createPool({
+  host: "localhost",
+  user: "root",
+  password: "Blogger123!",
+  database: "blog_database",
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 0,
+});
+
+async function logScriptExecution() {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+    const scriptName = path.basename(__filename);
+
+    // Sprawdzenie, czy rekord już istnieje
+    const [rows] = await connection.execute(
+      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
+      [scriptName]
+    );
+
+    if (rows.length > 0) {
+      // Jeśli istnieje, aktualizujemy czas
+      await connection.execute(
+        `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ?`,
+        [scriptName]
+      );
+      console.log(`Zaktualizowano czas uruchomienia dla skryptu: ${scriptName}`);
+    } else {
+      // Jeśli nie istnieje, wstawiamy nowy rekord
+      await connection.execute(
+        `INSERT INTO Active_scripts (script_name, last_datetime) VALUES (?, NOW())`,
+        [scriptName]
+      );
+      console.log(`Dodano nowy wpis dla skryptu: ${scriptName}`);
+    }
+  } catch (error) {
+    console.error("Błąd podczas zapisu do Active_scripts:", error.message);
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
+
 (async () => {
+    await logScriptExecution();
+
     // Konfiguracja bazy danych
     const dbConfig = {
         host: 'localhost',
@@ -127,12 +177,24 @@ const userAgents = [
         } catch (browserError) {
             console.error(`Error launching browser for blog ID: ${blogId}: ${browserError.message}`);
         } finally {
+            // Zamknięcie zasobów w finally
+          
             if (context) await context.close();
             if (browser) await browser.close();
         }
     }
 
     await connection.end();
-    console.log('All blogs processed.');
+    
+    try {
+      await pool.end();
+      console.log("Pula połączeń do bazy danych zamknięta.");
+    } catch (error) {
+      console.error("Błąd przy zamykaniu puli połączeń:", error.message);
+    }
+
+    console.log("Skrypt zakończony.");
+    process.exit(0); // Wymuszone zakończenie skryptu
 })();
+
 
