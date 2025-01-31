@@ -1,14 +1,61 @@
-const { chromium, firefox, webkit } = require('playwright');
-const { getBlogs, getRandomBlog, getRandomPopularPost, getRandomRecommendedPost,
-    getRandomLabelLink, getRandomSitemainPost, getRandomExternalSite, getRandomPage, getRandomPost,
-	getRandomRecommendedBlog,
-    closeConnection } = require('./db');
-const { moveAndClickOnLink } = require('./utils');
-const { restartTor, randomBrowserType, randomUserAgent } = require('./browser');
-const { execSync } = require('child_process');
-const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
+const { chromium, firefox, webkit } = require("playwright");
+const mysql = require("mysql2/promise");
+const path = require("path");
+const {
+  getBlogs,
+  getRandomBlog,
+  getRandomPopularPost,
+  getRandomRecommendedPost,
+  getRandomLabelLink,
+  getRandomSitemainPost,
+  getRandomExternalSite,
+  getRandomPage,
+  getRandomPost,
+  getRandomRecommendedBlog,
+  closeConnection,
+} = require("./db");
+const { moveAndClickOnLink } = require("./utils");
+const { restartTor, randomBrowserType, randomUserAgent } = require("./browser");
+const aiModule = require("./aiModule");
+
+// Konfiguracja puli połączeń
+const pool = mysql.createPool({
+  host: "localhost",
+  user: "root",
+  password: "Blogger123!",
+  database: "blog_database",
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 0,
+});
+
+// Funkcja do zapisu czasu uruchomienia skryptu
+async function logScriptExecution() {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+    const scriptName = path.basename(__filename); // Pobranie nazwy pliku
+
+    await connection.execute(
+      `INSERT INTO Active_scripts (script_name, last_datetime) 
+       VALUES (?, NOW()) 
+       ON DUPLICATE KEY UPDATE last_datetime = NOW()`,
+      [scriptName]
+    );
+
+    console.log(`Zaktualizowano czas uruchomienia dla skryptu: ${scriptName}`);
+  } catch (error) {
+    console.error("Błąd podczas zapisu do Active_scripts:", error.message);
+  } finally {
+    if (connection) connection.release(); // Zwrócenie połączenia do puli
+  }
+}
+
+
 
 (async () => {
+    await logScriptExecution(); // Zapis uruchomienia skryptu
+
     const maxRetries = 3; // Maksymalna liczba prób przetwarzania bloga
     let retries = 0; // Licznik prób
     let success = false; // Flaga zakończenia operacji sukcesem
@@ -96,10 +143,13 @@ const aiModule = require('./aiModule'); // Moduł AI odpowiedzialny za decyzje
     } catch (error) {
         console.error('Błąd główny:', error.message);
     } finally {
+
+
         // Zamknięcie połączenia z bazą danych
         await closeConnection();
         console.log('Skrypt zakończony.');
     }
 })();
+
 
 
