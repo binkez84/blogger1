@@ -1,5 +1,6 @@
-const { chromium, firefox, webkit } = require('playwright');
-const mysql = require('mysql2/promise');
+const { chromium, firefox, webkit } = require("playwright");
+const mysql = require("mysql2/promise");
+const path = require("path");
 const { exec } = require('child_process');
 
 // Funkcja restartująca Tor
@@ -23,7 +24,89 @@ const getRandomBrowser = () => {
     return browsers[Math.floor(Math.random() * browsers.length)];
 };
 
+
+
+
+// Konfiguracja puli połączeń
+const pool = mysql.createPool({
+  host: "localhost",
+  user: "root",
+  password: "Blogger123!",
+  database: "blog_database",
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 0,
+});
+
+async function logScriptExecution() {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+    const scriptName = path.basename(__filename);
+
+    // Sprawdzenie, czy rekord już istnieje
+    const [rows] = await connection.execute(
+      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
+      [scriptName]
+    );
+
+    if (rows.length > 0) {
+      // Jeśli istnieje, aktualizujemy czas
+      await connection.execute(
+        `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ?`,
+        [scriptName]
+      );
+      console.log(`Zaktualizowano czas uruchomienia (start) dla skryptu: ${scriptName}`);
+    } else {
+      // Jeśli nie istnieje, wstawiamy nowy rekord
+      await connection.execute(
+        `INSERT INTO Active_scripts (script_name, last_datetime) VALUES (?, NOW())`,
+        [scriptName]
+      );
+      console.log(`Dodano nowy wpis (start) dla skryptu: ${scriptName}`);
+    }
+  } catch (error) {
+    console.error("Błąd podczas zapisu (start) do Active_scripts:", error.message);
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
+
+
+
+async function logScriptExecutionEnd() {
+  let connection;
+  try {
+    connection = await pool.getConnection();
+    const scriptName = path.basename(__filename);
+
+    // Sprawdzenie, czy rekord już istnieje
+    const [rows] = await connection.execute(
+      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
+      [scriptName]
+    );
+
+    if (rows.length > 0) {
+      // Jeśli istnieje, aktualizujemy czas
+      await connection.execute(
+        `UPDATE Active_scripts SET end_datetime = NOW() WHERE script_name = ?`,
+        [scriptName]
+      );
+      console.log(`Zaktualizowano czas uruchomienia (end) dla skryptu: ${scriptName}`);
+    } 
+  } catch (error) {
+    console.error("Błąd podczas zapisu (end) do Active_scripts:", error.message);
+  } finally {
+    if (connection) connection.release();
+  }
+}
+
+
+
 (async () => {
+    await logScriptExecution();
+
     // Połączenie z bazą danych
     const connection = await mysql.createConnection({
         host: 'localhost',
@@ -35,6 +118,7 @@ const getRandomBrowser = () => {
     console.log('Połączono z bazą danych.');
 
     // Pobierz wszystkie blogi z tabeli Blogs
+    //const [blogs] = await connection.execute('SELECT id, url FROM Blogs LIMIT 2');
     const [blogs] = await connection.execute('SELECT id, url FROM Blogs');
 
     if (!blogs.length) {
@@ -149,11 +233,31 @@ const getRandomBrowser = () => {
         } finally {
             await page.close();
             await browser.close();
+            //await logScriptExecutionEnd(); 
         }
     }
 
+
+
     await connection.end();
+  
+
+    try {
+      await pool.end();
+      console.log("Pula połączeń do bazy danych zamknięta.");
+    } catch (error) {
+      console.error("Błąd przy zamykaniu puli połączeń:", error.message);
+    }
+
+    console.log("Skrypt zakończony.");
+
+    
+
+    process.exit(0); // Wymuszone zakończenie skryptu
     console.log('Przetwarzanie zakończone.');
+
+
 })();
+
 
 
