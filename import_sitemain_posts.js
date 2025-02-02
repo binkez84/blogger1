@@ -28,15 +28,43 @@ const getRandomBrowser = () => {
 
 
 // Konfiguracja puli połączeń
-const pool = mysql.createPool({
+let pool = mysql.createPool({
   host: "localhost",
   user: "root",
   password: "Blogger123!",
   database: "blog_database",
   waitForConnections: true,
-  connectionLimit: 10,
+  connectionLimit: 0,
   queueLimit: 0,
+  multipleStatements: false
 });
+
+
+// Funkcja czyszczenia puli połączeń
+async function clearPool() {
+  await pool.end();
+  await delay(7000); // Opóźnienie 1 sekundy przed ponownym użyciem puli
+  
+  pool = mysql.createPool({
+    host: "localhost",
+    user: "root",
+    password: "Blogger123!",
+    database: "blog_database",
+    waitForConnections: true,
+    connectionLimit: 0,
+    queueLimit: 0,
+    multipleStatements: false
+  });
+  console.log("Pula połączeń została wyczyszczona i ponownie utworzona.");
+
+}
+
+// Funkcja opóźnienia
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+
 
 async function logScriptExecution() {
   let connection;
@@ -53,7 +81,7 @@ async function logScriptExecution() {
     if (rows.length > 0) {
       // Jeśli istnieje, aktualizujemy czas
       await connection.execute(
-        `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ?`,
+        `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ? `,
         [scriptName]
       );
       console.log(`Zaktualizowano czas uruchomienia (start) dla skryptu: ${scriptName}`);
@@ -75,9 +103,15 @@ async function logScriptExecution() {
 
 
 
-async function logScriptExecutionEnd() {
+async function logScriptExecutionEndzik() {
   let connection;
+
+    // Wywołanie funkcji czyszczenia puli połączeń
+    clearPool();
+  
   try {
+
+    
     connection = await pool.getConnection();
     const scriptName = path.basename(__filename);
 
@@ -98,7 +132,9 @@ async function logScriptExecutionEnd() {
   } catch (error) {
     console.error("Błąd podczas zapisu (end) do Active_scripts:", error.message);
   } finally {
+   
     if (connection) connection.release();
+
   }
 }
 
@@ -118,8 +154,8 @@ async function logScriptExecutionEnd() {
     console.log('Połączono z bazą danych.');
 
     // Pobierz wszystkie blogi z tabeli Blogs
-    //const [blogs] = await connection.execute('SELECT id, url FROM Blogs LIMIT 2');
-    const [blogs] = await connection.execute('SELECT id, url FROM Blogs');
+    const [blogs] = await connection.execute('SELECT id, url FROM Blogs LIMIT 2');
+    //const [blogs] = await connection.execute('SELECT id, url FROM Blogs');
 
     if (!blogs.length) {
         console.log('Brak blogów do przetworzenia.');
@@ -233,18 +269,19 @@ async function logScriptExecutionEnd() {
         } finally {
             await page.close();
             await browser.close();
-            //await logScriptExecutionEnd(); 
+ 
         }
     }
 
 
-
+    await logScriptExecutionEndzik();
     await connection.end();
   
 
     try {
       await pool.end();
       console.log("Pula połączeń do bazy danych zamknięta.");
+
     } catch (error) {
       console.error("Błąd przy zamykaniu puli połączeń:", error.message);
     }
@@ -258,6 +295,7 @@ async function logScriptExecutionEnd() {
 
 
 })();
+
 
 
 
