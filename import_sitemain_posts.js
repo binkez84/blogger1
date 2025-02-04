@@ -27,49 +27,22 @@ const getRandomBrowser = () => {
 
 
 
-// Konfiguracja puli połączeń
-let pool = mysql.createPool({
-  host: "localhost",
-  user: "root",
-  password: "Blogger123!",
-  database: "blog_database",
-  waitForConnections: true,
-  connectionLimit: 0,
-  queueLimit: 0,
-  multipleStatements: false
-});
 
 
-// Funkcja czyszczenia puli połączeń
-async function clearPool() {
-  await pool.end();
-  await delay(7000); // Opóźnienie 1 sekundy przed ponownym użyciem puli
-  
-  pool = mysql.createPool({
-    host: "localhost",
-    user: "root",
-    password: "Blogger123!",
-    database: "blog_database",
-    waitForConnections: true,
-    connectionLimit: 0,
-    queueLimit: 0,
-    multipleStatements: false
-  });
-  console.log("Pula połączeń została wyczyszczona i ponownie utworzona.");
+(async () => {
+    
 
-}
+    // Połączenie z bazą danych
+    const connection = await mysql.createConnection({
+        host: 'localhost',
+        user: 'root',
+        password: 'Blogger123!',
+        database: 'blog_database'
+    });
 
-// Funkcja opóźnienia
-function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
+    console.log('Połączono z bazą danych.');
 
-
-
-async function logScriptExecution() {
-  let connection;
-  try {
-    connection = await pool.getConnection();
+    //wpisz start skryptu
     const scriptName = path.basename(__filename);
 
     // Sprawdzenie, czy rekord już istnieje
@@ -93,65 +66,10 @@ async function logScriptExecution() {
       );
       console.log(`Dodano nowy wpis (start) dla skryptu: ${scriptName}`);
     }
-  } catch (error) {
-    console.error("Błąd podczas zapisu (start) do Active_scripts:", error.message);
-  } finally {
-    if (connection) connection.release();
-  }
-}
 
 
 
 
-async function logScriptExecutionEndzik() {
-  let connection;
-
-    // Wywołanie funkcji czyszczenia puli połączeń
-    clearPool();
-  
-  try {
-
-    
-    connection = await pool.getConnection();
-    const scriptName = path.basename(__filename);
-
-    // Sprawdzenie, czy rekord już istnieje
-    const [rows] = await connection.execute(
-      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
-      [scriptName]
-    );
-
-    if (rows.length > 0) {
-      // Jeśli istnieje, aktualizujemy czas
-      await connection.execute(
-        `UPDATE Active_scripts SET end_datetime = NOW() WHERE script_name = ?`,
-        [scriptName]
-      );
-      console.log(`Zaktualizowano czas uruchomienia (end) dla skryptu: ${scriptName}`);
-    } 
-  } catch (error) {
-    console.error("Błąd podczas zapisu (end) do Active_scripts:", error.message);
-  } finally {
-   
-    if (connection) connection.release();
-
-  }
-}
-
-
-
-(async () => {
-    await logScriptExecution();
-
-    // Połączenie z bazą danych
-    const connection = await mysql.createConnection({
-        host: 'localhost',
-        user: 'root',
-        password: 'Blogger123!',
-        database: 'blog_database'
-    });
-
-    console.log('Połączono z bazą danych.');
 
     // Pobierz wszystkie blogi z tabeli Blogs
     const [blogs] = await connection.execute('SELECT id, url FROM Blogs LIMIT 2');
@@ -272,19 +190,40 @@ async function logScriptExecutionEndzik() {
  
         }
     }
+    
 
-
-    await logScriptExecutionEndzik();
     await connection.end();
+
+
+    // Połączenie z bazą danych
+    const con = await mysql.createConnection({
+        host: 'localhost',
+        user: 'root',
+        password: 'Blogger123!',
+        database: 'blog_database'
+    });
+
+    console.log('Połączono z bazą danych.');
+
   
+    //zapisz end
+    // Sprawdzenie, czy rekord już istnieje
+    const [r] = await con.execute(
+      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
+      [scriptName]
+    );
 
-    try {
-      await pool.end();
-      console.log("Pula połączeń do bazy danych zamknięta.");
+    if (r.length > 0) {
+      // Jeśli istnieje, aktualizujemy czas
+      await con.execute(
+        `UPDATE Active_scripts SET end_datetime = NOW() WHERE script_name = ?`,
+        [scriptName]
+      );
+      console.log(`Zaktualizowano czas uruchomienia (end) dla skryptu: ${scriptName}`);
+    } 
 
-    } catch (error) {
-      console.error("Błąd przy zamykaniu puli połączeń:", error.message);
-    }
+
+    await con.end();
 
     console.log("Skrypt zakończony.");
 
@@ -295,6 +234,7 @@ async function logScriptExecutionEndzik() {
 
 
 })();
+
 
 
 
