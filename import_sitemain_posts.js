@@ -42,7 +42,7 @@ const getRandomBrowser = () => {
 
     console.log('Połączono z bazą danych.');
 
-    //wpisz start skryptu
+    /////////////wpisz start skryptu
     const scriptName = path.basename(__filename);
 
     // Sprawdzenie, czy rekord już istnieje
@@ -72,7 +72,7 @@ const getRandomBrowser = () => {
 
 
     // Pobierz wszystkie blogi z tabeli Blogs
-    const [blogs] = await connection.execute('SELECT id, url FROM Blogs LIMIT 2');
+    const [blogs] = await connection.execute('SELECT id, url FROM Blogs');
     //const [blogs] = await connection.execute('SELECT id, url FROM Blogs');
 
     if (!blogs.length) {

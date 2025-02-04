@@ -33,45 +33,39 @@ const pool = mysql.createPool({
     queueLimit: 0,
 });
 
-async function logScriptExecution() {
-    let connection;
-    try {
-        connection = await pool.getConnection();
-        const scriptName = path.basename(__filename);
 
-        // Sprawdzenie, czy rekord już istnieje
-        const [rows] = await connection.execute(
-            `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
-            [scriptName]
-        );
-
-        if (rows.length > 0) {
-            // Jeśli istnieje, aktualizujemy czas
-            await connection.execute(
-                `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ?`,
-                [scriptName]
-            );
-            console.log(`Zaktualizowano czas uruchomienia dla skryptu: ${scriptName}`);
-        } else {
-            // Jeśli nie istnieje, wstawiamy nowy rekord
-            await connection.execute(
-                `INSERT INTO Active_scripts (script_name, last_datetime) VALUES (?, NOW())`,
-                [scriptName]
-            );
-            console.log(`Dodano nowy wpis dla skryptu: ${scriptName}`);
-        }
-    } catch (error) {
-        console.error("Błąd podczas zapisu do Active_scripts:", error.message);
-    } finally {
-        if (connection) connection.release();
-    }
-}
 
 (async () => {
-    await logScriptExecution();
+
 
     const connection = await pool.getConnection();
     console.log("Połączono z bazą danych.");
+
+
+/////////////wpisz start skryptu
+    const scriptName = path.basename(__filename);
+
+    // Sprawdzenie, czy rekord już istnieje
+    const [rows] = await connection.execute(
+      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
+      [scriptName]
+    );
+
+    if (rows.length > 0) {
+      // Jeśli istnieje, aktualizujemy czas
+      await connection.execute(
+        `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ? `,
+        [scriptName]
+      );
+      console.log(`Zaktualizowano czas uruchomienia (start) dla skryptu: ${scriptName}`);
+    } else {
+      // Jeśli nie istnieje, wstawiamy nowy rekord
+      await connection.execute(
+        `INSERT INTO Active_scripts (script_name, last_datetime) VALUES (?, NOW())`,
+        [scriptName]
+      );
+      console.log(`Dodano nowy wpis (start) dla skryptu: ${scriptName}`);
+    }
 
     // Pobranie listy blog_id z tabeli Blogs
     const [blogs] = await connection.execute("SELECT id FROM Blogs");
@@ -184,7 +178,39 @@ async function logScriptExecution() {
         console.error("Błąd przy zamykaniu puli połączeń:", error.message);
     }
 
+
+   ///////////zapisz end
+   // Połączenie z bazą danych
+    const con = await mysql.createConnection({
+        host: 'localhost',
+        user: 'root',
+        password: 'Blogger123!',
+        database: 'blog_database'
+    });
+
+    console.log('Połączono z bazą danych.');
+
+    // Sprawdzenie, czy rekord już istnieje
+    const [r] = await con.execute(
+      `SELECT 1 FROM Active_scripts WHERE script_name = ?`,
+      [scriptName]
+    );
+
+    if (r.length > 0) {
+      // Jeśli istnieje, aktualizujemy czas
+      await con.execute(
+        `UPDATE Active_scripts SET end_datetime = NOW() WHERE script_name = ?`,
+        [scriptName]
+      );
+      console.log(`Zaktualizowano czas uruchomienia (end) dla skryptu: ${scriptName}`);
+    } 
+
+    await con.end();
+
+    
+
     console.log("Skrypt zakończony.");
     process.exit(0);
 })();
+
 
