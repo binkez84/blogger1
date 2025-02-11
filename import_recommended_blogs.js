@@ -58,7 +58,7 @@ const getRandomBrowser = () => {
         `UPDATE Active_scripts SET last_datetime = NOW() WHERE script_name = ? `,
         [scriptName]
       );
-      console.log(`Zaktualizowano czas uruchomienia (start) dla skryptu: ${scriptName}`);
+      console.log(`Zaktualizowano czas uruchomienia (start) dla skryptu: ${scriptName} - ${new Date().toISOString()}`);
     } else {
       // Jeśli nie istnieje, wstawiamy nowy rekord
       await connection.execute(
@@ -193,7 +193,7 @@ const getRandomBrowser = () => {
         `UPDATE Active_scripts SET end_datetime = NOW() WHERE script_name = ?`,
         [scriptName]
       );
-      console.log(`Zaktualizowano czas uruchomienia (end) dla skryptu: ${scriptName}`);
+      console.log(`Zaktualizowano czas uruchomienia (end) dla skryptu: ${scriptName} - ${new Date().toISOString()}`);
     } 
 
     await con.end();
@@ -205,6 +205,7 @@ const getRandomBrowser = () => {
     console.log('Przetwarzanie zakończone.');
     
 })();
+
 
 
 
