@@ -61,7 +61,7 @@ const aiModule = require("./aiModule");
     }
 
 
-  const maxRetries = 3;
+  const maxRetries = 4;
   let retries = 0;
   let success = false;
   let browser, context, page;
@@ -195,6 +195,7 @@ const aiModule = require("./aiModule");
     process.exit(0); // Wymuszone zakończenie skryptu
   }
 })();
+
 
 
 
