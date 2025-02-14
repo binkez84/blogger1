@@ -11,6 +11,34 @@ const userAgents = [
 
 
 
+const fs = require('fs');
+const lockfile = '/tmp/tor_restart.lock';
+
+const restartTor = () => {
+    try {
+        if (fs.existsSync(lockfile)) {
+            console.log('Tor jest już restartowany.');
+            return;
+        }
+
+        fs.writeFileSync(lockfile, '');
+        console.log("Restartowanie Tora...");
+        execSync('sudo systemctl restart tor');
+        console.log("Tor został zrestartowany.");
+    } catch (error) {
+        console.error("Błąd podczas restartowania Tora:", error.message);
+    } finally {
+        fs.unlinkSync(lockfile);
+    }
+};
+
+
+
+
+
+
+
+
 
 (async () => {
     // Konfiguracja bazy danych
@@ -62,15 +90,7 @@ const userAgents = [
         const { id: blogId, mobile_url: blogMobileUrl } = blog;
         console.log(`Przetwarzanie bloga ID: ${blogId}, URL: ${blogMobileUrl}`);
 
-        // Restart Tor
-        try {
-            console.log('Restartowanie Tor...');
-            execSync('sudo systemctl restart tor');
-            console.log('Tor zrestartowany pomyślnie.');
-        } catch (error) {
-            console.error('Błąd podczas restartowania Tor:', error.message);
-            continue;
-        }
+        restartTor();
 
         const userAgent = getRandomUserAgent();
 
@@ -78,7 +98,7 @@ const userAgents = [
             console.log(`Uruchamianie przeglądarki z User-Agent: ${userAgent}`);
             const browser = await chromium.launch({
                 headless: true,
-                proxy: { server: 'socks5://127.0.0.1:9050' }
+                proxy: { server: 'socks5://127.0.0.1:9052' }
             });
 
             const context = await browser.newContext({
@@ -88,6 +108,7 @@ const userAgents = [
             });
 
             const page = await context.newPage();
+           
 
             try {
                 console.log(`Otwieranie strony: ${blogMobileUrl}`);
@@ -169,8 +190,10 @@ const userAgents = [
 
 
     console.log("Skrypt zakończony.");
+    console.log("-----------------------------------------------------------------------------------------");
     process.exit(0); // Wymuszone zakończenie skryptu
 
 
 })();
+
 
