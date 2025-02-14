@@ -1,0 +1,276 @@
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_kom.js - 2025-02-14T07:52:04.725Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-02-14T07:52:04.727Z
+Znaleziono 9 blogów z ads do przetworzenia.
+Znaleziono 9 blogów z ads do przetworzenia.
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://rumien.blogspot.com/?m=1
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Strona załadowana pomyślnie.
+Klikam pierwszy link dotykiem: https://rumien.blogspot.com/2025/02/co-to-jest-rumien-rodzaje-i-podstawowe.html?m=1
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Błąd podczas przetwarzania bloga ID: 2: elementHandle.tap: Timeout 30000ms exceeded.
+Call log:
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <button tabindex="0" role="button" aria-label="Consent" class="fc-button fc-cta-consent fc-primary-button">…</button> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+    - retrying tap action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p>…</p> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+  2 × retrying tap action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="fc-dialog-overlay"></div> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+  12 × retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <button tabindex="0" role="button" aria-label="Consent" class="fc-button fc-cta-consent fc-primary-button">…</button> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+     - retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <p>…</p> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+     - retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="fc-dialog-overlay"></div> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+     - retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="fc-dialog-overlay"></div> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+  - retrying tap action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <button tabindex="0" role="button" aria-label="Consent" class="fc-button fc-cta-consent fc-primary-button">…</button> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+  - retrying tap action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <p>…</p> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+  - retrying tap action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="fc-dialog-overlay"></div> from <div class="fc-consent-root">…</div> subtree intercepts pointer events
+  - retrying tap action
+    - waiting 500ms
+
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/?m=1
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tor...
+Błąd podczas przetwarzania bloga ID: 3: page.goto: net::ERR_CONNECTION_RESET at https://recenzjawiadomosci.blogspot.com/?m=1
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/?m=1", waiting until "domcontentloaded"
+
+Tor zrestartowany pomyślnie.
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Otwieranie strony: https://strefainternetu.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Strona załadowana pomyślnie.
+Klikam pierwszy link dotykiem: https://strefainternetu.blogspot.com/2025/02/jak-skutecznie-prowadzic-kampanie.html?m=1
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Błąd podczas przetwarzania bloga ID: 7: elementHandle.tap: Timeout 30000ms exceeded.
+Call log:
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <iframe vspace="0" hspace="0" width="375" tabindex="0" id="aswift_3" height="100%" scrolling="no" name="aswift_3" frameborder="0" marginwidth="0" marginheight="0" title="Advertisement" allowtransparency="true" data-load-complete="true" aria-label="Advertisement" data-google-container-id="a!4" allow="attribution-reporting; run-ad-auction" data-google-query-id="CLfn57HXwosDFTOeUAYdR5AfCw" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigatio…></iframe> from <ins data-ad-status="filled" data-anchor-shown="true" data-adsbygoogle-status="done" data-anchor-status="displayed" class="adsbygoogle adsbygoogle-noablate">…</ins> subtree intercepts pointer events
+    - retrying tap action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <iframe vspace="0" hspace="0" width="375" tabindex="0" id="aswift_3" height="100%" scrolling="no" name="aswift_3" frameborder="0" marginwidth="0" marginheight="0" title="Advertisement" allowtransparency="true" data-load-complete="true" aria-label="Advertisement" data-google-container-id="a!4" allow="attribution-reporting; run-ad-auction" data-google-query-id="CLfn57HXwosDFTOeUAYdR5AfCw" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigatio…></iframe> from <ins data-ad-status="filled" data-anchor-shown="true" data-adsbygoogle-status="done" data-anchor-status="displayed" class="adsbygoogle adsbygoogle-noablate">…</ins> subtree intercepts pointer events
+  2 × retrying tap action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <span class="cookie-choices-text">Diese Website verwendet Cookies von Google, um Di…</span> from <div id="cookieChoiceInfo" class="cookie-choices-info singleton-element">…</div> subtree intercepts pointer events
+  12 × retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <iframe vspace="0" hspace="0" width="375" tabindex="0" id="aswift_3" height="100%" scrolling="no" name="aswift_3" frameborder="0" marginwidth="0" marginheight="0" title="Advertisement" allowtransparency="true" data-load-complete="true" aria-label="Advertisement" data-google-container-id="a!4" allow="attribution-reporting; run-ad-auction" data-google-query-id="CLfn57HXwosDFTOeUAYdR5AfCw" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigatio…></iframe> from <ins data-ad-status="filled" data-anchor-shown="true" data-adsbygoogle-status="done" data-anchor-status="displayed" class="adsbygoogle adsbygoogle-noablate">…</ins> subtree intercepts pointer events
+     - retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <iframe vspace="0" hspace="0" width="375" tabindex="0" id="aswift_3" height="100%" scrolling="no" name="aswift_3" frameborder="0" marginwidth="0" marginheight="0" title="Advertisement" allowtransparency="true" data-load-complete="true" aria-label="Advertisement" data-google-container-id="a!4" allow="attribution-reporting; run-ad-auction" data-google-query-id="CLfn57HXwosDFTOeUAYdR5AfCw" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigatio…></iframe> from <ins data-ad-status="filled" data-anchor-shown="true" data-adsbygoogle-status="done" data-anchor-status="displayed" class="adsbygoogle adsbygoogle-noablate">…</ins> subtree intercepts pointer events
+     - retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class="cookie-choices-text">Diese Website verwendet Cookies von Google, um Di…</span> from <div id="cookieChoiceInfo" class="cookie-choices-info singleton-element">…</div> subtree intercepts pointer events
+     - retrying tap action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <span class="cookie-choices-text">Diese Website verwendet Cookies von Google, um Di…</span> from <div id="cookieChoiceInfo" class="cookie-choices-info singleton-element">…</div> subtree intercepts pointer events
+  - retrying tap action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <iframe vspace="0" hspace="0" width="375" tabindex="0" id="aswift_3" height="100%" scrolling="no" name="aswift_3" frameborder="0" marginwidth="0" marginheight="0" title="Advertisement" allowtransparency="true" data-load-complete="true" aria-label="Advertisement" data-google-container-id="a!4" allow="attribution-reporting; run-ad-auction" data-google-query-id="CLfn57HXwosDFTOeUAYdR5AfCw" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigatio…></iframe> from <ins data-ad-status="filled" data-anchor-shown="true" data-adsbygoogle-status="done" data-anchor-status="displayed" class="adsbygoogle adsbygoogle-noablate">…</ins> subtree intercepts pointer events
+  - retrying tap action
+    - waiting 500ms
+
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://twojamodlitwa.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Otwieranie strony: https://choraskora.blogspot.com/
+Klikam pierwszy link dotykiem: https://twojamodlitwa.blogspot.com/2025/02/litania-do-najswietszego-imienia-jezus.html?m=1
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://poszedlem.blogspot.com/?m=1
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 20, URL: https://tynkowy.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Błąd podczas przetwarzania bloga ID: 15: page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://poszedlem.blogspot.com/?m=1
+Call log:
+  - navigating to "https://poszedlem.blogspot.com/?m=1", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://aptekazielona.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Otwieranie strony: https://tynkowy.blogspot.com/
+Klikam pierwszy link dotykiem: https://aptekazielona.blogspot.com/2025/01/sliwa-tarnina.html?m=1
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://choraskora.blogspot.com/?m=1
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Błąd podczas przetwarzania bloga ID: 19: page.goto: net::ERR_SOCKS_CONNECTION_FAILED at https://choraskora.blogspot.com/?m=1
+Call log:
+  - navigating to "https://choraskora.blogspot.com/?m=1", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 20, URL: https://tynkowy.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://tynkowy.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Klikam pierwszy link dotykiem: https://tynkowy.blogspot.com/2014/06/images.html?m=1
+Przeglądarka zamknięta.
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/?m=1
+Restartowanie Tor...
+Tor zrestartowany pomyślnie.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-02-14T07:54:36.691Z
+Skrypt zakończony.
+Otwieranie strony: https://ptasiejajo.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Klikam pierwszy link dotykiem: https://ptasiejajo.blogspot.com/2025/02/degustacja-win-na-co-zwrocic-uwage.html?m=1
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas zakończenia (end) dla skryptu: meet_ads_kom.js - 2025-02-14T07:54:51.552Z
+Skrypt zakończony.

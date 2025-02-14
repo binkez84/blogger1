@@ -1,4 +1,4 @@
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_blogs.js - 2025-02-11T22:00:03.233Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_blogs.js - 2025-02-13T22:00:03.195Z
 Blog już istnieje w bazie: Ryby akwariowe, akwarystyka, akwarium (Desktop: https://akwariuminhome.blogspot.com/, Mobile: https://akwariuminhome.blogspot.com/?m=1)
 Blog już istnieje w bazie: Rumień - leczenie, przyczyny, objawy (Desktop: https://rumien.blogspot.com/, Mobile: https://rumien.blogspot.com/?m=1)
 Blog już istnieje w bazie: Notatki publiczne - recenzje wiadomości (Desktop: https://recenzjawiadomosci.blogspot.com/, Mobile: https://recenzjawiadomosci.blogspot.com/?m=1)
@@ -29,9 +29,333 @@ Blog już istnieje w bazie: Herbalism, herbs, Remedies from God's pharmacy (Desk
 Blog już istnieje w bazie: Meandry osobowości, światopogląd, humor, żart (Desktop: https://ptasiejajo.blogspot.com/, Mobile: https://ptasiejajo.blogspot.com/?m=1)
 Blog już istnieje w bazie: Linux, system operacyjny, Windows, Android (Desktop: https://linuxonhome.blogspot.com/, Mobile: https://linuxonhome.blogspot.com/?m=1)
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_blogs.js - 2025-02-11T22:00:59.716Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_blogs.js - 2025-02-13T22:00:46.935Z
 Skrypt zakończony.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_archives1.js - 2025-02-11T22:10:03.277Z
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_exist.js - 2025-02-13T22:09:02.391Z
+Przetwarzam blog: https://akwariuminhome.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Jest Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://rumien.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Brak Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://recenzjawiadomosci.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Jest Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Jest Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://worldclones.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Jest Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://technologiawieku.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Brak Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://swiatgrzybow.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Brak Recommended_posts.
+Jest Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://strefainternetu.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Jest Inside_posts.
+Brak Label_links.
+Brak Pages.
+Jest Popular_posts.
+Brak Recommended_posts.
+Jest Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://norwayinhome.blogspot.com/
+Brak Eksternal_sites.
+Jest Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Brak Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://domoweziololecznictwo.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://alternatywnamedycyna.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Brak Popular_posts.
+Brak Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://twojamodlitwa.blogspot.com/
+Jest Eksternal_sites.
+Jest Inside_pages.
+Jest Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Brak Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://gruzlica.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Brak Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://tytonie.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Brak Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://survivalinhome.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://poszedlem.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Brak Label_links.
+Brak Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://aptekazielona.blogspot.com/
+Brak Eksternal_sites.
+Jest Inside_pages.
+Jest Inside_posts.
+Brak Label_links.
+Jest Pages.
+Jest Popular_posts.
+Brak Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://panelfotowoltaiczny.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://cryptocurrencyinhome.blogspot.com/
+Brak Eksternal_sites.
+Jest Inside_pages.
+Jest Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://choraskora.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Jest Inside_posts.
+Jest Label_links.
+Jest Pages.
+Brak Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://tynkowy.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Brak Label_links.
+Jest Pages.
+Brak Popular_posts.
+Brak Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://wyleczdepresje.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://grzybicastop.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Brak Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://moldawiainhome.blogspot.com/
+Brak Eksternal_sites.
+Jest Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Brak Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://homeherbalmedicine.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Jest Inside_posts.
+Jest Label_links.
+Brak Pages.
+Brak Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://ptasiejajo.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Jest Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Brak Recommended_posts.
+Jest Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://linuxonhome.blogspot.com/
+Brak Eksternal_sites.
+Jest Inside_pages.
+Jest Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://strategygamesinhome.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
+Jest Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Jest Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Jest Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
+Brak Eksternal_sites.
+Brak Inside_pages.
+Brak Inside_posts.
+Jest Label_links.
+Brak Pages.
+Jest Popular_posts.
+Jest Recommended_posts.
+Brak Recommended_blogs.
+Jest Sitemain_posts.
+Jest Posts.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_exist.js - 2025-02-13T22:09:03.334Z
+Skrypt zakończony.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_archives1.js - 2025-02-13T22:10:02.739Z
 Znaleziono 29 blogów do przetworzenia.
 Przetwarzanie bloga ID: 1, URL: https://akwariuminhome.blogspot.com/
 Restartowanie Tora...
@@ -43,8 +367,9 @@ Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 2
-Pobrano 1 postów dla bloga ID: 2
+Pobrano 2 postów dla bloga ID: 2
 Post już istnieje: Klarytromycyna - leczenie
+Post już istnieje: Co to jest rumień? Rodzaje i podstawowe informacje
 Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -64,7 +389,8 @@ Przetwarzanie bloga ID: 5, URL: https://technologiawieku.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 5
-Pobrano 3 postów dla bloga ID: 5
+Pobrano 4 postów dla bloga ID: 5
+Post już istnieje: Internet rzeczy (IoT) – jak urządzenia łączą się z...
 Post już istnieje: Sztuczna inteligencja w analizie danych – jak AI z...
 Post już istnieje: Blockchain – od kryptowalut do zastosowań w biznesie
 Post już istnieje: Rozwój i zastosowania technologii 5G
@@ -78,7 +404,8 @@ Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 7
-Pobrano 1 postów dla bloga ID: 7
+Pobrano 2 postów dla bloga ID: 7
+Zapisano nowy post: Jak skutecznie prowadzić kampanie reklamowe w inte...
 Post już istnieje: SEO 2024: Najnowsze trendy i techniki optymalizacji
 Przetwarzanie bloga ID: 8, URL: https://norwayinhome.blogspot.com/
 Restartowanie Tora...
@@ -122,7 +449,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 14
 Pobrano 2 postów dla bloga ID: 14
-Zapisano nowy post: How to Navigate Using a Compass and Map
+Post już istnieje: How to Navigate Using a Compass and Map
 Post już istnieje: How to Make a Survival Kit
 Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
 Restartowanie Tora...
@@ -173,7 +500,8 @@ Przetwarzanie bloga ID: 21, URL: https://wyleczdepresje.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 21
-Pobrano 1 postów dla bloga ID: 21
+Pobrano 2 postów dla bloga ID: 21
+Post już istnieje: Wpływ stylu życia na zdrowie psychiczne: dieta, ru...
 Post już istnieje: Jak radzić sobie z porannym uczuciem smutku i apatii?
 Przetwarzanie bloga ID: 22, URL: https://grzybicastop.blogspot.com/
 Restartowanie Tora...
@@ -198,13 +526,15 @@ Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 25
-Pobrano 1 postów dla bloga ID: 25
+Pobrano 2 postów dla bloga ID: 25
+Zapisano nowy post: Degustacja win – na co zwrócić uwagę
 Post już istnieje: Jak zachować się w renomowanej restauracji? Savoir...
 Przetwarzanie bloga ID: 26, URL: https://linuxonhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 26
-Pobrano 3 postów dla bloga ID: 26
+Pobrano 4 postów dla bloga ID: 26
+Post już istnieje: Najlepsze środowiska graficzne na Linuxa: Wybierz ...
 Post już istnieje: Najlepsze aplikacje open-source na Androida: Alter...
 Post już istnieje: Jak wybrać najlepszą dystrybucję Linuxa?
 Post już istnieje: Jak zainstalować Linuksa obok Windowsa? Podwójny r...
@@ -213,33 +543,35 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 27
 Pobrano 1 postów dla bloga ID: 27
-Post już istnieje: Civilization IV (2005): A Masterpiece in Strategy ...
+Zapisano nowy post: StarCraft (1998): The RTS That Changed Gaming Forever
 Przetwarzanie bloga ID: 28, URL: https://vegatablesandfruits.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 28
-Pobrano 2 postów dla bloga ID: 28
+Pobrano 3 postów dla bloga ID: 28
+Zapisano nowy post: Deer Tongue
 Post już istnieje: Batavia Lettuce (Summer Crisp)
 Post już istnieje: Crisphead Lettuce (Iceberg)
 Przetwarzanie bloga ID: 29, URL: https://chineseheroesinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 29
-Pobrano 1 postów dla bloga ID: 29
+Pobrano 2 postów dla bloga ID: 29
+Zapisano nowy post: 項羽（西楚霸王）
 Post już istnieje: 花木蘭是中國古代傳說中的巾幗英雄
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_archives1.js - 2025-02-11T22:13:24.850Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_archives1.js - 2025-02-13T22:13:25.355Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_posts2.js - 2025-02-11T22:25:03.295Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_posts2.js - 2025-02-13T22:25:03.075Z
 Przetwarzanie postów dla blog_id: 1
 Przetwarzam post: https://akwariuminhome.blogspot.com/2025/02/bazenek-amphiprion-ocellaris.html
 Tor zrestartowany.
 Brak linków w sekcji "post-body" dla posta: https://akwariuminhome.blogspot.com/2025/02/bazenek-amphiprion-ocellaris.html
 Przetwarzanie postów dla blog_id: 2
-Przetwarzam post: https://rumien.blogspot.com/2025/02/klarytromycyna-leczenie.html
+Przetwarzam post: https://rumien.blogspot.com/2025/02/co-to-jest-rumien-rodzaje-i-podstawowe.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://rumien.blogspot.com/2025/02/klarytromycyna-leczenie.html
+Brak linków w sekcji "post-body" dla posta: https://rumien.blogspot.com/2025/02/co-to-jest-rumien-rodzaje-i-podstawowe.html
 Przetwarzanie postów dla blog_id: 3
 Przetwarzam post: https://recenzjawiadomosci.blogspot.com/2025/01/magdalena-biejat-opis-kandydata-polska.html
 Tor zrestartowany.
@@ -249,17 +581,17 @@ Przetwarzam post: https://worldclones.blogspot.com/2025/02/ku-nowej-epoce.html
 Tor zrestartowany.
 Brak linków w sekcji "post-body" dla posta: https://worldclones.blogspot.com/2025/02/ku-nowej-epoce.html
 Przetwarzanie postów dla blog_id: 5
-Przetwarzam post: https://technologiawieku.blogspot.com/2025/02/sztuczna-inteligencja-w-analizie-danych.html
+Przetwarzam post: https://technologiawieku.blogspot.com/2025/02/internet-rzeczy-iot-jak-urzadzenia-acza.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://technologiawieku.blogspot.com/2025/02/sztuczna-inteligencja-w-analizie-danych.html
+Brak linków w sekcji "post-body" dla posta: https://technologiawieku.blogspot.com/2025/02/internet-rzeczy-iot-jak-urzadzenia-acza.html
 Przetwarzanie postów dla blog_id: 6
 Przetwarzam post: https://swiatgrzybow.blogspot.com/2025/02/smardz-jadalny-morchella-esculenta.html
 Tor zrestartowany.
 Brak linków w sekcji "post-body" dla posta: https://swiatgrzybow.blogspot.com/2025/02/smardz-jadalny-morchella-esculenta.html
 Przetwarzanie postów dla blog_id: 7
-Przetwarzam post: https://strefainternetu.blogspot.com/2025/02/seo-2024-najnowsze-trendy-i-techniki.html
+Przetwarzam post: https://strefainternetu.blogspot.com/2025/02/jak-skutecznie-prowadzic-kampanie.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://strefainternetu.blogspot.com/2025/02/seo-2024-najnowsze-trendy-i-techniki.html
+Brak linków w sekcji "post-body" dla posta: https://strefainternetu.blogspot.com/2025/02/jak-skutecznie-prowadzic-kampanie.html
 Przetwarzanie postów dla blog_id: 8
 Przetwarzam post: https://norwayinhome.blogspot.com/2025/02/norweska-kuchnia-co-warto-sprobowac-co.html
 Tor zrestartowany.
@@ -313,9 +645,9 @@ Przetwarzam post: https://tynkowy.blogspot.com/2014/06/images.html
 Tor zrestartowany.
 Brak linków w sekcji "post-body" dla posta: https://tynkowy.blogspot.com/2014/06/images.html
 Przetwarzanie postów dla blog_id: 21
-Przetwarzam post: https://wyleczdepresje.blogspot.com/2025/02/jak-radzic-sobie-z-porannym-uczuciem.html
+Przetwarzam post: https://wyleczdepresje.blogspot.com/2025/02/wpyw-stylu-zycia-na-zdrowie-psychiczne.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://wyleczdepresje.blogspot.com/2025/02/jak-radzic-sobie-z-porannym-uczuciem.html
+Brak linków w sekcji "post-body" dla posta: https://wyleczdepresje.blogspot.com/2025/02/wpyw-stylu-zycia-na-zdrowie-psychiczne.html
 Przetwarzanie postów dla blog_id: 22
 Przetwarzam post: https://grzybicastop.blogspot.com/2025/02/jak-zapobiegac-grzybicy-praktyczne.html
 Tor zrestartowany.
@@ -329,42 +661,37 @@ Przetwarzam post: https://homeherbalmedicine.blogspot.com/2025/02/rugosa-rose.ht
 Tor zrestartowany.
 Pominięto duplikat: https://vegatablesandfruits.blogspot.com/2025/01/sungold-tomatoes.html
 Przetwarzanie postów dla blog_id: 25
-Przetwarzam post: https://ptasiejajo.blogspot.com/2025/02/jak-zachowac-sie-w-renomowanej.html
+Przetwarzam post: https://ptasiejajo.blogspot.com/2025/02/degustacja-win-na-co-zwrocic-uwage.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://ptasiejajo.blogspot.com/2025/02/jak-zachowac-sie-w-renomowanej.html
+Brak linków w sekcji "post-body" dla posta: https://ptasiejajo.blogspot.com/2025/02/degustacja-win-na-co-zwrocic-uwage.html
 Przetwarzanie postów dla blog_id: 26
-Przetwarzam post: https://linuxonhome.blogspot.com/2025/02/najlepsze-aplikacje-open-source-na.html
+Przetwarzam post: https://linuxonhome.blogspot.com/2025/02/najlepsze-srodowiska-graficzne-na.html
 Tor zrestartowany.
-Pominięto duplikat: https://www.bromite.org/
-Pominięto duplikat: https://signal.org/
-Pominięto duplikat: https://osmand.net/
-Pominięto duplikat: https://k9mail.app/
-Pominięto duplikat: https://bitwarden.com/
-Pominięto duplikat: https://f-droid.org/
+Brak linków w sekcji "post-body" dla posta: https://linuxonhome.blogspot.com/2025/02/najlepsze-srodowiska-graficzne-na.html
 Przetwarzanie postów dla blog_id: 27
-Przetwarzam post: https://strategygamesinhome.blogspot.com/2025/02/civilization-iv-2005-masterpiece-in.html
+Przetwarzam post: https://strategygamesinhome.blogspot.com/2025/02/starcraft-1998-rts-that-changed-gaming.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://strategygamesinhome.blogspot.com/2025/02/civilization-iv-2005-masterpiece-in.html
+Brak linków w sekcji "post-body" dla posta: https://strategygamesinhome.blogspot.com/2025/02/starcraft-1998-rts-that-changed-gaming.html
 Przetwarzanie postów dla blog_id: 28
-Przetwarzam post: https://vegatablesandfruits.blogspot.com/2025/02/batavia-lettuce-summer-crisp.html
+Przetwarzam post: https://vegatablesandfruits.blogspot.com/2025/02/deer-tongue.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://vegatablesandfruits.blogspot.com/2025/02/batavia-lettuce-summer-crisp.html
+Brak linków w sekcji "post-body" dla posta: https://vegatablesandfruits.blogspot.com/2025/02/deer-tongue.html
 Przetwarzanie postów dla blog_id: 29
-Przetwarzam post: https://chineseheroesinhome.blogspot.com/2025/02/blog-post.html
+Przetwarzam post: https://chineseheroesinhome.blogspot.com/2025/02/blog-post_13.html
 Tor zrestartowany.
-Brak linków w sekcji "post-body" dla posta: https://chineseheroesinhome.blogspot.com/2025/02/blog-post.html
+Brak linków w sekcji "post-body" dla posta: https://chineseheroesinhome.blogspot.com/2025/02/blog-post_13.html
 Pula połączeń do bazy danych zamknięta.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_posts2.js - 2025-02-11T22:28:35.939Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_posts2.js - 2025-02-13T22:28:33.333Z
 Skrypt zakończony.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_pages.js - 2025-02-11T22:45:02.630Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_pages.js - 2025-02-13T22:45:02.940Z
 Znaleziono 29 blogów do przetworzenia.
 Przetwarzanie bloga ID: 1, URL: https://akwariuminhome.blogspot.com/
 Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://akwariuminhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -378,18 +705,24 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://rumien.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 0 stron dla bloga ID: 2
+Pobrano 6 stron dla bloga ID: 2
+Strona już istnieje: Strona główna
+Strona już istnieje: Co to jest rumien
+Strona już istnieje: Przyczyny rumienia
+Strona już istnieje: Objawy rumienia
+Strona już istnieje: Leczenie rumienia
+Strona już istnieje: Gdzie o pomoc
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
 Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -400,7 +733,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://worldclones.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -411,7 +744,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://technologiawieku.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -437,7 +770,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://strefainternetu.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -475,7 +808,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://domoweziololecznictwo.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -486,7 +819,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://alternatywnamedycyna.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -514,29 +847,39 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://gruzlica.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 0 stron dla bloga ID: 12
+Pobrano 6 stron dla bloga ID: 12
+Strona już istnieje: Strona główna
+Strona już istnieje: Co to jest gruźlica
+Strona już istnieje: Przyczyny gruźlicy
+Strona już istnieje: Objawy gruźlicy
+Strona już istnieje: Leczenie gruźlicy
+Strona już istnieje: Gdzie o pomoc
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 13, URL: https://tytonie.blogspot.com/
 Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://tytonie.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 0 stron dla bloga ID: 13
+Pobrano 4 stron dla bloga ID: 13
+Strona już istnieje: Strona główna
+Strona już istnieje: Akcesoria do robienia papierosów
+Strona już istnieje: Historia tytoniu
+Strona już istnieje: Różności
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 14, URL: https://survivalinhome.blogspot.com/
 Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://survivalinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -547,7 +890,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://poszedlem.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -558,7 +901,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://aptekazielona.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -570,18 +913,22 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://panelfotowoltaiczny.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 0 stron dla bloga ID: 17
+Pobrano 4 stron dla bloga ID: 17
+Strona już istnieje: Strona główna
+Strona już istnieje: Co to jest fotowoltaika
+Strona już istnieje: Jakie koszty instalacji
+Strona już istnieje: Zwrot inwestycji
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 18, URL: https://cryptocurrencyinhome.blogspot.com/
 Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://cryptocurrencyinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -596,18 +943,24 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://choraskora.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 0 stron dla bloga ID: 19
+Pobrano 6 stron dla bloga ID: 19
+Strona już istnieje: Strona główna
+Strona już istnieje: Co to jest łuszczyca
+Strona już istnieje: Objawy
+Strona już istnieje: Przyczyny
+Strona już istnieje: Leczenie
+Strona już istnieje: Gdzie o pomoc
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 20, URL: https://tynkowy.blogspot.com/
 Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://tynkowy.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -644,7 +997,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://grzybicastop.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -661,7 +1014,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://moldawiainhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -685,7 +1038,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
 Otwieranie strony: https://homeherbalmedicine.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -696,7 +1049,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://ptasiejajo.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -707,7 +1060,7 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://linuxonhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -751,17 +1104,17 @@ Restartowanie Tor...
 Tor zrestartowany pomyślnie.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://chineseheroesinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
 Pobrano 0 stron dla bloga ID: 29
 Przeglądarka zamknięta.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_pages.js - 2025-02-11T22:49:22.733Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_pages.js - 2025-02-13T22:49:17.778Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_pages.js - 2025-02-11T23:01:03.423Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_pages.js - 2025-02-13T23:01:03.374Z
 Przetwarzam stronę: http://akwariuminhome.blogspot.com/
 Tor zrestartowany.
 Strona załadowana: http://akwariuminhome.blogspot.com/
@@ -1039,7 +1392,7 @@ Strona załadowana: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.htm
 Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.html
 Przetwarzam stronę: 
 Tor zrestartowany.
-Błąd podczas przetwarzania strony:  page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Błąd podczas przetwarzania strony:  page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
 Call log:
   - navigating to "", waiting until "domcontentloaded"
 
@@ -1059,8 +1412,6 @@ Pominięto duplikat: OsmAnd (https://osmand.net/)
 Pominięto duplikat: K-9 Mail (https://k9mail.app/)
 Pominięto duplikat: Bitwarden (https://bitwarden.com/)
 Pominięto duplikat: Oficjalna strona (https://f-droid.org/)
-Pominięto duplikat: Ubuntu Download (https://ubuntu.com/download)
-Pominięto duplikat: oficjalnej strony (https://rufus.ie/)
 Przetwarzam stronę: https://linuxonhome.blogspot.com/p/systemy-operacyjne.html
 Tor zrestartowany.
 Strona załadowana: https://linuxonhome.blogspot.com/p/systemy-operacyjne.html
@@ -1217,10 +1568,10 @@ Tor zrestartowany.
 Strona załadowana: https://moldawiainhome.blogspot.com/p/kultura-modawii.html?m=1
 Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/kultura-modawii.html?m=1
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_pages.js - 2025-02-11T23:12:53.216Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_pages.js - 2025-02-13T23:12:25.334Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_popular_posts.js - 2025-02-11T23:25:02.827Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_popular_posts.js - 2025-02-13T23:25:02.858Z
 Przetwarzam blog ID: 1, URL: https://akwariuminhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://akwariuminhome.blogspot.com/
@@ -1287,12 +1638,12 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzyb
 Dodano post: Czubajka kania (Macrolepiota procera)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/kozlarz-czerwony-leccinum-aurantiacum.html"}
 Dodano post: Koźlarz czerwony (Leccinum aurantiacum)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/borowik-szlachetny-boletus-edulis.html"}
+Dodano post: Borowik szlachetny (Boletus edulis)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/kozlarz-babka-leccinum-scabrum.html"}
 Dodano post: Koźlarz babka (Leccinum scabrum)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/01/gaska-zielonka-tricholoma-equestre.html"}
 Dodano post: Gąska zielonka (Tricholoma equestre)
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/borowik-szlachetny-boletus-edulis.html"}
-Dodano post: Borowik szlachetny (Boletus edulis)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/01/goabek-zielonawy-russula-virescens.html"}
 Dodano post: Gołąbek zielonawy (Russula virescens)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/opienka-miodowa-armillaria-mellea.html"}
@@ -1416,8 +1767,8 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.
 Dodano post: Wizyta w Palmiarni w Poznaniu
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2024/12/spacer-nad-balatonem-w-trzebinii.html"}
 Dodano post: Spacer nad Balatonem w Trzebinii: Leżakowanie i zapiekanka
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2024/12/plazowanie-w-koobrzegu-od-chmurki-do.html"}
-Dodano post: Plażowanie w Kołobrzegu: Od chmurki do słońca
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2025/01/wycieczka-do-koobrzegu-spacer-nad.html"}
+Dodano post: Wycieczka do Kołobrzegu: Spacer nad morzem i wizyta w muzeum lotnictwa
 Przetwarzam blog ID: 16, URL: https://aptekazielona.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://aptekazielona.blogspot.com/
@@ -1444,23 +1795,23 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotow
 Dodano post: Jak działa instalacja fotowoltaiczna? Proste wyjaśnienie dla każdego
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/ile-mozna-zaoszczedzic-dzieki.html"}
 Dodano post: Ile można zaoszczędzić dzięki fotowoltaice?
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/budowa-panela-fotowoltaicznego.html"}
-Dodano post: Budowa panela fotowoltaicznego
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/koszt-instalacji-fotowoltaicznej-od.html"}
+Dodano post: Koszt instalacji fotowoltaicznej – od czego zależy?
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/jak-dziaa-instalacja-fotowoltaiczna.html"}
 Dodano post: Jak działa instalacja fotowoltaiczna? Proste wyjaśnienie dla każdego
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/ile-mozna-zaoszczedzic-dzieki.html"}
 Dodano post: Ile można zaoszczędzić dzięki fotowoltaice?
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/budowa-panela-fotowoltaicznego.html"}
-Dodano post: Budowa panela fotowoltaicznego
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/koszt-instalacji-fotowoltaicznej-od.html"}
+Dodano post: Koszt instalacji fotowoltaicznej – od czego zależy?
 Przetwarzam blog ID: 18, URL: https://cryptocurrencyinhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://cryptocurrencyinhome.blogspot.com/
 Pobieranie popularnych postów...
 Znaleziono 6 postów.
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://cryptocurrencyinhome.blogspot.com/2024/12/czym-sa-altcoiny-5-mniej-znanych.html"}
-Dodano post: Czym są altcoiny? 5 mniej znanych kryptowalut, które mogą zyskać na wartości
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://cryptocurrencyinhome.blogspot.com/2024/12/mining-kryptowalut-czy-to-jeszcze.html"}
 Dodano post: Mining kryptowalut – czy to jeszcze opłacalne? Przegląd sprzętu i kosztów w 2024 roku
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://cryptocurrencyinhome.blogspot.com/2024/12/czym-sa-altcoiny-5-mniej-znanych.html"}
+Dodano post: Czym są altcoiny? 5 mniej znanych kryptowalut, które mogą zyskać na wartości
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://cryptocurrencyinhome.blogspot.com/2024/12/najpopularniejsze-kryptowaluty-w-2024.html"}
 Dodano post: Najpopularniejsze kryptowaluty w 2024 roku – co warto wiedzieć o Bitcoinie, Ethereum i innych?
 Przetwarzam blog ID: 19, URL: https://choraskora.blogspot.com/
@@ -1531,8 +1882,8 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://linuxonhom
 Dodano post: Instalacja Linux na wirtualnej maszynie | VIRTUAL BOX
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://linuxonhome.blogspot.com/2024/12/antix-dystrybucja-linux-na-debianie.html"}
 Dodano post: Antix - dystrybucja Linux na Debianie | ALTERNATYWA
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://linuxonhome.blogspot.com/2024/12/conky-w-antix-jak-wyaczyc-antix.html"}
-Dodano post: Conky w Antix - jak wyłączyć | ANTIX
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://linuxonhome.blogspot.com/2024/12/jak-zainstalowac-ubuntu-na-starym.html"}
+Dodano post: Jak zainstalować Ubuntu na starym laptopie?
 Przetwarzam blog ID: 27, URL: https://strategygamesinhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://strategygamesinhome.blogspot.com/
@@ -1553,8 +1904,8 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://vegatables
 Dodano post: Sungold Tomatoes
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://vegatablesandfruits.blogspot.com/2025/01/growing-sweet-100-tomatoes-at-home.html"}
 Dodano post: Growing Sweet 100 Tomatoes at Home
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://vegatablesandfruits.blogspot.com/2025/01/romaine-lettuce.html"}
-Dodano post: Romaine Lettuce
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://vegatablesandfruits.blogspot.com/2025/02/batavia-lettuce-summer-crisp.html"}
+Dodano post: Batavia Lettuce (Summer Crisp)
 Przetwarzam blog ID: 29, URL: https://chineseheroesinhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://chineseheroesinhome.blogspot.com/
@@ -1564,13 +1915,13 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseher
 Dodano post: 諸葛亮（181年－234年）
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/01/551-479.html"}
 Dodano post: 孔子（公元前551年-公元前479年）
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/01/18661925.html"}
-Dodano post: 孫中山（1866年－1925年）
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/02/blog-post.html"}
+Dodano post: 花木蘭是中國古代傳說中的巾幗英雄
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_popular_posts.js - 2025-02-11T23:28:29.610Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_popular_posts.js - 2025-02-13T23:28:17.881Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_posts.js - 2025-02-11T23:40:03.135Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_posts.js - 2025-02-13T23:40:03.425Z
 Przetwarzam blog: https://akwariuminhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://akwariuminhome.blogspot.com/
@@ -1671,7 +2022,7 @@ Przetwarzam blog: https://wyleczdepresje.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://wyleczdepresje.blogspot.com/
 Znaleziono 1 postów.
-Dodano polecany post: Jak radzić sobie z porannym uczuciem smutku i apatii?
+Dodano polecany post: Wpływ stylu życia na zdrowie psychiczne: dieta, ruch i sen.
 Przetwarzam blog: https://grzybicastop.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://grzybicastop.blogspot.com/
@@ -1699,12 +2050,12 @@ Przetwarzam blog: https://linuxonhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://linuxonhome.blogspot.com/
 Znaleziono 1 postów.
-Dodano polecany post: Najlepsze aplikacje open-source na Androida: Alternatywy dla popularnych aplikacji
+Dodano polecany post: Najlepsze środowiska graficzne na Linuxa: Wybierz idealny interfejs dla siebie
 Przetwarzam blog: https://strategygamesinhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://strategygamesinhome.blogspot.com/
 Znaleziono 1 postów.
-Dodano polecany post: Civilization IV (2005): A Masterpiece in Strategy Gaming
+Dodano polecany post: StarCraft (1998): The RTS That Changed Gaming Forever
 Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://vegatablesandfruits.blogspot.com/
@@ -1714,24 +2065,23 @@ Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://chineseheroesinhome.blogspot.com/
 Znaleziono 1 postów.
-Dodano polecany post: 花木蘭是中國古代傳說中的巾幗英雄
+Dodano polecany post: 項羽（西楚霸王）
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_posts.js - 2025-02-11T23:43:28.376Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_posts.js - 2025-02-13T23:43:24.332Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_blogs.js - 2025-02-11T23:58:03.040Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_blogs.js - 2025-02-13T23:58:02.853Z
 Przetwarzam blog ID: 1, URL: https://akwariuminhome.blogspot.com/
 Tor został zrestartowany.
 Otwieram stronę: https://akwariuminhome.blogspot.com/
 Pobieranie recommended blogs...
 Znaleziono 10 blogow.
+Dodano blogs: Meandry osobowości, światopogląd, humor, żart
+Dodano blogs: Degustacja win – na co zwrócić uwagę
 Dodano blogs: Grzyby jadalne, niejadalne, trujące grzybki
 Dodano blogs: Smardz jadalny (Morchella esculenta)
 Dodano blogs: Norwegia, praca, życie, przyroda w Norwegii
 Dodano blogs: Norweska kuchnia: co warto spróbować, a co może zaskoczyć?
-Dodano blogs: Meandry osobowości, światopogląd, humor, żart
-Dodano blogs: Jak zachować się w renomowanej restauracji? Savoir-vivre i praktyczne 
-wskazówki
 Dodano blogs: Podróże, poznawanie świata, wąchanie przestrzeni
 Dodano blogs: Wycieczka do Kołobrzegu: Spacer nad morzem i wizyta w muzeum lotnictwa
 Dodano blogs: O roślinach, ziołach i bylinach - zastosowanie w leczeniu
@@ -1758,8 +2108,7 @@ Pobieranie recommended blogs...
 Znaleziono 9 blogow.
 Dodano blogs: Meandry osobowości, światopogląd, humor, żart
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://ptasiejajo.blogspot.com/"}
-Dodano blogs: Jak zachować się w renomowanej restauracji? Savoir-vivre i praktyczne 
-wskazówki
+Dodano blogs: Degustacja win – na co zwrócić uwagę
 Dodano blogs: O roślinach, ziołach i bylinach
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/"}
 Dodano blogs: Śliwa tarnina
@@ -1789,11 +2138,10 @@ Pobieranie recommended blogs...
 Znaleziono 18 blogow.
 Dodano blogs: Blog - tworzenie stron, pozycjonowanie, marketing, SEO, social media
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/"}
-Dodano blogs: SEO 2024: Najnowsze trendy i techniki optymalizacji
+Dodano blogs: Jak skutecznie prowadzić kampanie reklamowe w internecie?
 Dodano blogs: Meandry osobowości, światopogląd, humor, żart
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://ptasiejajo.blogspot.com/"}
-Dodano blogs: Jak zachować się w renomowanej restauracji? Savoir-vivre i praktyczne 
-wskazówki
+Dodano blogs: Degustacja win – na co zwrócić uwagę
 Dodano blogs: Modlitwy na każdy dzień
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/"}
 Dodano blogs: Litania do Najświętszego Imienia Jezus
@@ -1925,7 +2273,7 @@ Pobieranie recommended blogs...
 Znaleziono 6 blogow.
 Dodano blogs: Games strategy, the best game on the world
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://strategygamesinhome.blogspot.com/"}
-Dodano blogs: Civilization IV (2005): A Masterpiece in Strategy Gaming
+Dodano blogs: StarCraft (1998): The RTS That Changed Gaming Forever
 Dodano blogs: Herbalism, herbs, Remedies from God's pharmacy
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://homeherbalmedicine.blogspot.com/"}
 Dodano blogs: Rugosa rose (Rosa rugosa)
@@ -1935,10 +2283,10 @@ Otwieram stronę: https://chineseheroesinhome.blogspot.com/
 Pobieranie recommended blogs...
 Brak recommended blogs dla bloga: https://chineseheroesinhome.blogspot.com/
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_blogs.js - 2025-02-12T00:01:24.673Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_blogs.js - 2025-02-14T00:01:29.457Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_label_links.js - 2025-02-12T00:15:03.305Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_label_links.js - 2025-02-14T00:15:03.100Z
 Restartowanie Tor...
 Przetwarzam blog: https://akwariuminhome.blogspot.com/
 Liczba znalezionych linków: 11
@@ -1954,7 +2302,7 @@ Pominięto duplikat: Skalar (https://akwariuminhome.blogspot.com/search/label/Sk
 Pominięto duplikat: Tęczanka neonowa (https://akwariuminhome.blogspot.com/search/label/T%C4%99czanka%20neonowa)
 Pominięto duplikat: zbrojnik pospolity glonojad (https://akwariuminhome.blogspot.com/search/label/zbrojnik%20pospolity%20glonojad)
 Przetwarzam blog: https://rumien.blogspot.com/
-Liczba znalezionych linków: 22
+Liczba znalezionych linków: 23
 Pominięto duplikat: Amoksycylina (https://rumien.blogspot.com/search/label/Amoksycylina)
 Pominięto duplikat: apteka (https://rumien.blogspot.com/search/label/apteka)
 Pominięto duplikat: Betametazon (https://rumien.blogspot.com/search/label/Betametazon)
@@ -1966,6 +2314,7 @@ Pominięto duplikat: farmakoterapia (https://rumien.blogspot.com/search/label/fa
 Pominięto duplikat: Hydrokortyzon (https://rumien.blogspot.com/search/label/Hydrokortyzon)
 Pominięto duplikat: Hydroksychlorochina (https://rumien.blogspot.com/search/label/Hydroksychlorochina)
 Pominięto duplikat: Ibuprofen (https://rumien.blogspot.com/search/label/Ibuprofen)
+Pominięto duplikat: informacje (https://rumien.blogspot.com/search/label/informacje)
 Pominięto duplikat: Klarytromycyna (https://rumien.blogspot.com/search/label/Klarytromycyna)
 Pominięto duplikat: leczenie (https://rumien.blogspot.com/search/label/leczenie)
 Pominięto duplikat: lekarz (https://rumien.blogspot.com/search/label/lekarz)
@@ -2264,8 +2613,8 @@ Przetwarzam blog: https://survivalinhome.blogspot.com/
 Liczba znalezionych linków: 25
 Pominięto duplikat: battery (https://survivalinhome.blogspot.com/search/label/battery)
 Pominięto duplikat: burns (https://survivalinhome.blogspot.com/search/label/burns)
-Dodano link: compass (https://survivalinhome.blogspot.com/search/label/compass) [internal]
-Dodano link: earth's magnetic north (https://survivalinhome.blogspot.com/search/label/earth%27s%20magnetic%20north) [internal]
+Pominięto duplikat: compass (https://survivalinhome.blogspot.com/search/label/compass)
+Pominięto duplikat: earth's magnetic north (https://survivalinhome.blogspot.com/search/label/earth%27s%20magnetic%20north)
 Pominięto duplikat: essential items (https://survivalinhome.blogspot.com/search/label/essential%20items)
 Pominięto duplikat: find water (https://survivalinhome.blogspot.com/search/label/find%20water)
 Pominięto duplikat: fire (https://survivalinhome.blogspot.com/search/label/fire)
@@ -2274,8 +2623,8 @@ Pominięto duplikat: first aid kit (https://survivalinhome.blogspot.com/search/l
 Pominięto duplikat: flashlight (https://survivalinhome.blogspot.com/search/label/flashlight)
 Pominięto duplikat: flint (https://survivalinhome.blogspot.com/search/label/flint)
 Pominięto duplikat: knife (https://survivalinhome.blogspot.com/search/label/knife)
-Dodano link: map (https://survivalinhome.blogspot.com/search/label/map) [internal]
-Dodano link: navigation (https://survivalinhome.blogspot.com/search/label/navigation) [internal]
+Pominięto duplikat: map (https://survivalinhome.blogspot.com/search/label/map)
+Pominięto duplikat: navigation (https://survivalinhome.blogspot.com/search/label/navigation)
 Pominięto duplikat: poncho (https://survivalinhome.blogspot.com/search/label/poncho)
 Pominięto duplikat: purification water (https://survivalinhome.blogspot.com/search/label/purification%20water)
 Pominięto duplikat: shelter (https://survivalinhome.blogspot.com/search/label/shelter)
@@ -2357,7 +2706,7 @@ Pominięto duplikat: zmiany skórne (https://choraskora.blogspot.com/search/labe
 Przetwarzam blog: https://tynkowy.blogspot.com/
 Liczba znalezionych linków: 0
 Przetwarzam blog: https://wyleczdepresje.blogspot.com/
-Liczba znalezionych linków: 18
+Liczba znalezionych linków: 19
 Pominięto duplikat: Amitryptylina (https://wyleczdepresje.blogspot.com/search/label/Amitryptylina)
 Pominięto duplikat: citalopram (https://wyleczdepresje.blogspot.com/search/label/citalopram)
 Pominięto duplikat: depresja (https://wyleczdepresje.blogspot.com/search/label/depresja)
@@ -2371,6 +2720,7 @@ Pominięto duplikat: objawy (https://wyleczdepresje.blogspot.com/search/label/ob
 Pominięto duplikat: Paroksetyna (https://wyleczdepresje.blogspot.com/search/label/Paroksetyna)
 Pominięto duplikat: porady (https://wyleczdepresje.blogspot.com/search/label/porady)
 Pominięto duplikat: przyczyny (https://wyleczdepresje.blogspot.com/search/label/przyczyny)
+Pominięto duplikat: sen (https://wyleczdepresje.blogspot.com/search/label/sen)
 Pominięto duplikat: sertralina (https://wyleczdepresje.blogspot.com/search/label/sertralina)
 Pominięto duplikat: statystyki (https://wyleczdepresje.blogspot.com/search/label/statystyki)
 Pominięto duplikat: wenflaksyna (https://wyleczdepresje.blogspot.com/search/label/wenflaksyna)
@@ -2453,7 +2803,7 @@ Pominięto duplikat: scots pine (https://homeherbalmedicine.blogspot.com/search/
 Pominięto duplikat: sweet violet (https://homeherbalmedicine.blogspot.com/search/label/sweet%20violet)
 Pominięto duplikat: White Dead-Nettle (https://homeherbalmedicine.blogspot.com/search/label/White%20Dead-Nettle)
 Przetwarzam blog: https://ptasiejajo.blogspot.com/
-Liczba znalezionych linków: 119
+Liczba znalezionych linków: 120
 Pominięto duplikat: agresja (https://ptasiejajo.blogspot.com/search/label/agresja)
 Pominięto duplikat: badania (https://ptasiejajo.blogspot.com/search/label/badania)
 Pominięto duplikat: bagaże (https://ptasiejajo.blogspot.com/search/label/baga%C5%BCe)
@@ -2473,6 +2823,7 @@ Pominięto duplikat: choroby (https://ptasiejajo.blogspot.com/search/label/choro
 Pominięto duplikat: ciało (https://ptasiejajo.blogspot.com/search/label/cia%C5%82o)
 Pominięto duplikat: ciekawostki (https://ptasiejajo.blogspot.com/search/label/ciekawostki)
 Pominięto duplikat: cywilizacja (https://ptasiejajo.blogspot.com/search/label/cywilizacja)
+Dodano link: degustacja win (https://ptasiejajo.blogspot.com/search/label/degustacja%20win) [internal]
 Pominięto duplikat: diabły (https://ptasiejajo.blogspot.com/search/label/diab%C5%82y)
 Pominięto duplikat: dom (https://ptasiejajo.blogspot.com/search/label/dom)
 Pominięto duplikat: drabina (https://ptasiejajo.blogspot.com/search/label/drabina)
@@ -2604,7 +2955,7 @@ Pominięto duplikat: virtual Box (https://linuxonhome.blogspot.com/search/label/
 Pominięto duplikat: wersje (https://linuxonhome.blogspot.com/search/label/wersje)
 Pominięto duplikat: wnidows (https://linuxonhome.blogspot.com/search/label/wnidows)
 Przetwarzam blog: https://strategygamesinhome.blogspot.com/
-Liczba znalezionych linków: 8
+Liczba znalezionych linków: 9
 Pominięto duplikat: Age of Empires (1997) (https://strategygamesinhome.blogspot.com/search/label/Age%20of%20Empires%20%281997%29)
 Pominięto duplikat: Age of Empires II: The Age of Kings (1999) (https://strategygamesinhome.blogspot.com/search/label/Age%20of%20Empires%20II%3A%20The%20Age%20of%20Kings%20%281999%29)
 Pominięto duplikat: Age of Empires III (2005): A Bold Leap Forward (https://strategygamesinhome.blogspot.com/search/label/Age%20of%20Empires%20III%20%282005%29%3A%20A%20Bold%20Leap%20Forward)
@@ -2613,23 +2964,25 @@ Pominięto duplikat: Civilization (1991) (https://strategygamesinhome.blogspot.c
 Pominięto duplikat: Civilization II (1996) (https://strategygamesinhome.blogspot.com/search/label/Civilization%20II%20%281996%29)
 Pominięto duplikat: Civilization III (2001) (https://strategygamesinhome.blogspot.com/search/label/Civilization%20III%20%282001%29)
 Pominięto duplikat: Civilization IV (2005) (https://strategygamesinhome.blogspot.com/search/label/Civilization%20IV%20%282005%29)
+Dodano link: StarCraft (1998) (https://strategygamesinhome.blogspot.com/search/label/StarCraft%20%281998%29) [internal]
 Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
 Liczba znalezionych linków: 3
 Pominięto duplikat: Cucumbers (https://vegatablesandfruits.blogspot.com/search/label/Cucumbers)
 Pominięto duplikat: Lettuce (https://vegatablesandfruits.blogspot.com/search/label/Lettuce)
 Pominięto duplikat: Tomatoes (https://vegatablesandfruits.blogspot.com/search/label/Tomatoes)
 Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
-Liczba znalezionych linków: 5
+Liczba znalezionych linków: 6
 Pominięto duplikat: 孔子 (https://chineseheroesinhome.blogspot.com/search/label/%E5%AD%94%E5%AD%90)
 Pominięto duplikat: 毛澤東 (https://chineseheroesinhome.blogspot.com/search/label/%E6%AF%9B%E6%BE%A4%E6%9D%B1)
 Pominięto duplikat: 花木蘭是中國古代傳說中的巾幗英雄 (https://chineseheroesinhome.blogspot.com/search/label/%E8%8A%B1%E6%9C%A8%E8%98%AD%E6%98%AF%E4%B8%AD%E5%9C%8B%E5%8F%A4%E4%BB%A3%E5%82%B3%E8%AA%AA%E4%B8%AD%E7%9A%84%E5%B7%BE%E5%B9%97%E8%8B%B1%E9%9B%84)
 Pominięto duplikat: 孫中山 (https://chineseheroesinhome.blogspot.com/search/label/%E5%AD%AB%E4%B8%AD%E5%B1%B1)
+Dodano link: 項羽（西楚霸王） (https://chineseheroesinhome.blogspot.com/search/label/%E9%A0%85%E7%BE%BD%EF%BC%88%E8%A5%BF%E6%A5%9A%E9%9C%B8%E7%8E%8B%EF%BC%89) [internal]
 Pominięto duplikat: 諸葛亮 (https://chineseheroesinhome.blogspot.com/search/label/%E8%AB%B8%E8%91%9B%E4%BA%AE)
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_label_links.js - 2025-02-12T00:16:34.690Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_label_links.js - 2025-02-14T00:16:29.300Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_sitemain_posts.js - 2025-02-12T00:30:03.363Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_sitemain_posts.js - 2025-02-14T00:30:02.911Z
 Przetwarzam blog: https://akwariuminhome.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 3 postów.
@@ -2639,10 +2992,10 @@ Dodano post: Tęczanka neonowa (Melanotaenia praecox)
 Przetwarzam blog: https://rumien.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 4 postów.
+Dodano post: Co to jest rumień? Rodzaje i podstawowe informacje
 Dodano post: Klarytromycyna - leczenie
 Dodano post: Leczenie rumienia za pomocą Penicylina
 Dodano post: Amoksycylina w leczeniu rumienia
-Dodano post: Doksacyklina w leczeniu rumienia
 Przetwarzam blog: https://recenzjawiadomosci.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 4 postów.
@@ -2661,9 +3014,9 @@ Dodano post: Przełamanie barier
 Przetwarzam blog: https://technologiawieku.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Internet rzeczy (IoT) – jak urządzenia łączą się ze sobą, by poprawić nasze życie
 Dodano post: Sztuczna inteligencja w analizie danych – jak AI zmienia sposób podejmowania decyzji
 Dodano post: Blockchain – od kryptowalut do zastosowań w biznesie
-Dodano post: Rozwój i zastosowania technologii 5G
 Przetwarzam blog: https://swiatgrzybow.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 3 postów.
@@ -2673,10 +3026,10 @@ Dodano post: Gąska niekształtna (Tricholoma portentosum)
 Przetwarzam blog: https://strefainternetu.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 4 postów.
+Dodano post: Jak skutecznie prowadzić kampanie reklamowe w internecie?
 Dodano post: SEO 2024: Najnowsze trendy i techniki optymalizacji
 Dodano post: Tworzenie responsywnych stron www – krok po kroku
 Dodano post: E-marketing w praktyce: Jak przyciągnąć klientów online
-Dodano post: Optymalizacja stron www: Klucz do sukcesu w SEO
 Przetwarzam blog: https://norwayinhome.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 7 postów.
@@ -2783,9 +3136,9 @@ Dodano post: Zdjęcia poglądowe
 Przetwarzam blog: https://wyleczdepresje.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Wpływ stylu życia na zdrowie psychiczne: dieta, ruch i sen.
 Dodano post: Jak radzić sobie z porannym uczuciem smutku i apatii?
 Dodano post: 10 objawów depresji, których nie powinno się ignorować.
-Dodano post: Zaburzenia osobowości a ryzyko wystąpienia depresji.
 Przetwarzam blog: https://grzybicastop.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 2 postów.
@@ -2812,35 +3165,36 @@ Dodano post: Common Lady's Mantle (Alchemilla vulgaris)
 Przetwarzam blog: https://ptasiejajo.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Degustacja win – na co zwrócić uwagę
 Dodano post: Jak zachować się w renomowanej restauracji? Savoir-vivre i praktyczne wskazówki
 Dodano post: Przegląd architektury: walizki podróżne
-Dodano post: Jak upolować dobrą szynkę na promocji, moje przejścia marketowe;)
 Przetwarzam blog: https://linuxonhome.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Najlepsze środowiska graficzne na Linuxa: Wybierz idealny interfejs dla siebie
 Dodano post: Najlepsze aplikacje open-source na Androida: Alternatywy dla popularnych aplikacji
 Dodano post: Jak wybrać najlepszą dystrybucję Linuxa?
-Dodano post: Jak zainstalować Linuksa obok Windowsa? Podwójny rozruch krok po kroku
 Przetwarzam blog: https://strategygamesinhome.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: StarCraft (1998): The RTS That Changed Gaming Forever
 Dodano post: Civilization IV (2005): A Masterpiece in Strategy Gaming
 Dodano post: Civilization III (2001): A New Era of Strategy and Diplomacy
 Dodano post: Civilization II (1996): A Worthy Successor to a Legend
 Dodano post: Civilization (1991): The Birth of a Legendary Strategy Series
 Dodano post: Age of Mythology (2002): Where Legends Come to Life
 Dodano post: Age of Empires III (2005): A Bold Leap Forward
-Dodano post: Age of Empires II: The Age of Kings (1999) – A True Masterpiece of Strategy Gaming
 Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
 Tor został zrestartowany.
 Znaleziono 4 postów.
+Dodano post: Deer Tongue
 Dodano post: Batavia Lettuce (Summer Crisp)
 Dodano post: Crisphead Lettuce (Iceberg)
 Dodano post: Butterhead Lettuce
-Dodano post: Romaine Lettuce
 Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
 Tor został zrestartowany.
-Znaleziono 6 postów.
+Znaleziono 7 postów.
+Dodano post: 項羽（西楚霸王）
 Dodano post: 花木蘭是中國古代傳說中的巾幗英雄
 Dodano post: 諸葛亮（181年－234年）
 Dodano post: 諸葛亮（181年－234年）
@@ -2848,10 +3202,10 @@ Dodano post: 孫中山（1866年－1925年）
 Dodano post: 毛澤東
 Dodano post: 孔子（公元前551年-公元前479年）
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_sitemain_posts.js - 2025-02-12T00:33:35.963Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_sitemain_posts.js - 2025-02-14T00:33:14.987Z
 Skrypt zakończony.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_external_sites.js - 2025-02-12T00:45:02.561Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_external_sites.js - 2025-02-14T00:45:02.516Z
 Przetwarzam blog: https://akwariuminhome.blogspot.com/
 TOR został zrestartowany.
 Brak linków w LinkList1/LinkList2 na blogu: https://akwariuminhome.blogspot.com/
@@ -2920,6 +3274,7 @@ Pominięto duplikat: Notatki publiczne (https://recenzjawiadomosci.blogspot.com/
 Pominięto duplikat: Seo marketing (https://strefainternetu.blogspot.com/)
 Pominięto duplikat: Modlitwa na każdy dzień (https://twojamodlitwa.blogspot.com/)
 Pominięto duplikat: Tynki (https://tynkowy.blogspot.com/)
+Dodano link: Rumień (https://rumien.blogspot.com/) [external_inblogger]
 Przetwarzam blog: https://aptekazielona.blogspot.com/
 TOR został zrestartowany.
 Brak linków w LinkList1/LinkList2 na blogu: https://aptekazielona.blogspot.com/
@@ -2979,5 +3334,5 @@ Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
 TOR został zrestartowany.
 Brak linków w LinkList1/LinkList2 na blogu: https://chineseheroesinhome.blogspot.com/
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_external_sites.js - 2025-02-12T00:48:17.643Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_external_sites.js - 2025-02-14T00:48:14.843Z
 Skrypt zakończony.
