@@ -14,19 +14,38 @@ const userAgents = [
 
 
 
+const fs = require('fs');
+const lockfile = '/tmp/tor_restart.lock';
+
+const restartTor = () => {
+    try {
+        if (fs.existsSync(lockfile)) {
+            console.log('Tor jest już restartowany.');
+            return;
+        }
+
+        fs.writeFileSync(lockfile, '');
+        console.log("Restartowanie Tora...");
+        execSync('sudo systemctl restart tor');
+        console.log("Tor został zrestartowany.");
+    } catch (error) {
+        console.error("Błąd podczas restartowania Tora:", error.message);
+    } finally {
+        fs.unlinkSync(lockfile);
+    }
+};
+
+
+
+
+
+
+
+
 
 (async () => {
 
-    // Restart Tor przed przetwarzaniem każdego bloga
-    const restartTor = () => {
-        try {
-            console.log("Restartowanie Tora...");
-            execSync('sudo systemctl restart tor');
-            console.log("Tor został zrestartowany.");
-        } catch (error) {
-            console.error("Błąd podczas restartowania Tora:", error.message);
-        }
-    };
+
 
     // Konfiguracja bazy danych
     const dbConfig = {
@@ -72,6 +91,9 @@ const userAgents = [
     console.log(`Znaleziono ${blogs.length} blogów do przetworzenia.`);
 
     for (const blog of blogs) {
+
+        restartTor();
+
         const { id: blogId, url: blogUrl } = blog;
         console.log(`Przetwarzanie bloga ID: ${blogId}, URL: ${blogUrl}`);
 
@@ -87,7 +109,7 @@ const userAgents = [
             // Inicjalizacja przeglądarki
             browser = await browserType.launch({
                 headless: false,
-                proxy: { server: 'socks5://127.0.0.1:9050' }
+                proxy: { server: 'socks5://127.0.0.1:9053' }
             });
             context = await browser.newContext({
                 userAgent: userAgent,
@@ -175,9 +197,13 @@ const userAgents = [
     await con.end();
 
     console.log("Skrypt zakończony.");
+    console.log("-----------------------------------------------------------------------------------");
+
+    
     process.exit(0); // Wymuszone zakończenie skryptu
 
 })();
+
 
 
 

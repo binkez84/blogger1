@@ -1,20 +1,27 @@
 const { chromium, firefox, webkit } = require("playwright");
 const mysql = require("mysql2/promise");
 const path = require("path");
-const { exec } = require('child_process');
+const { execSync } = require('child_process');
 
-// Funkcja do restartu Tor
+const fs = require('fs');
+const lockfile = '/tmp/tor_restart.lock';
+
 const restartTor = () => {
-    return new Promise((resolve, reject) => {
-        exec('sudo systemctl restart tor', (error, stdout, stderr) => {
-            if (error) {
-                console.error('Błąd podczas restartu Tor:', error.message);
-                return reject(error);
-            }
-            console.log('Tor został zrestartowany.');
-            resolve();
-        });
-    });
+    try {
+        if (fs.existsSync(lockfile)) {
+            console.log('Tor jest już restartowany.');
+            return;
+        }
+
+        fs.writeFileSync(lockfile, '');
+        console.log("Restartowanie Tora...");
+        execSync('sudo systemctl restart tor');
+        console.log("Tor został zrestartowany.");
+    } catch (error) {
+        console.error("Błąd podczas restartowania Tora:", error.message);
+    } finally {
+        fs.unlinkSync(lockfile);
+    }
 };
 
 // Funkcja losująca przeglądarkę
@@ -86,12 +93,13 @@ const getRandomBrowser = () => {
 
     for (const blog of blogs) {
         console.log(`Przetwarzam blog ID: ${blog.id}, URL: ${blog.url}`);
-        await restartTor(); // Restart Tor przed każdą iteracją
+        
+        restartTor(); // Restart Tor przed każdą iteracją
 
         const browserType = getRandomBrowser(); // Losuj przeglądarkę
         const browser = await browserType.launch({
             headless: false,
-            proxy: { server: 'socks5://127.0.0.1:9050' }, // Proxy Tor
+            proxy: { server: 'socks5://127.0.0.1:9060' }, // Proxy Tor
         });
 
         const context = await browser.newContext({
@@ -202,10 +210,13 @@ const getRandomBrowser = () => {
 
     console.log("Skrypt zakończony.");
     process.exit(0); // Wymuszone zakończenie skryptu
-    console.log('Przetwarzanie zakończone.');
+    console.log("-----------------------------------------------------------------------------------");
+
+
 
     
 })();
+
 
 
 

@@ -1,21 +1,28 @@
 const { chromium, firefox, webkit } = require("playwright");
 const mysql = require("mysql2/promise");
 const path = require("path");
-const { exec } = require('child_process');
+const { execSync } = require('child_process');
 
-async function restartTor() {
-    return new Promise((resolve, reject) => {
-        exec('sudo systemctl restart tor', (error, stdout, stderr) => {
-            if (error) {
-                console.error('Błąd podczas restartu Tor:', stderr);
-                reject(error);
-            } else {
-                console.log('Tor zrestartowany.');
-                resolve(stdout);
-            }
-        });
-    });
-}
+const fs = require('fs');
+const lockfile = '/tmp/tor_restart.lock';
+
+const restartTor = () => {
+    try {
+        if (fs.existsSync(lockfile)) {
+            console.log('Tor jest już restartowany.');
+            return;
+        }
+
+        fs.writeFileSync(lockfile, '');
+        console.log("Restartowanie Tora...");
+        execSync('sudo systemctl restart tor');
+        console.log("Tor został zrestartowany.");
+    } catch (error) {
+        console.error("Błąd podczas restartowania Tora:", error.message);
+    } finally {
+        fs.unlinkSync(lockfile);
+    }
+};
 
 function getRandomBrowser() {
     const browsers = [chromium, firefox, webkit];
@@ -81,13 +88,13 @@ function getRandomBrowser() {
     for (const post of posts) {
         console.log(`Przetwarzam post: ${post.url}`);
 
-        await restartTor();
+        restartTor();
 
         const browserType = getRandomBrowser();
         const browser = await browserType.launch({
             headless: false,
             proxy: {
-                server: 'socks5://127.0.0.1:9050', // Proxy TOR
+                server: 'socks5://127.0.0.1:9056', // Proxy TOR
             },
         });
 
@@ -185,10 +192,13 @@ function getRandomBrowser() {
 
 
     console.log("Skrypt zakończony.");
+    console.log("-----------------------------------------------------------------------------------");
+    
     process.exit(0); // Wymuszone zakończenie skryptu
-    console.log('Przetwarzanie zakończone.');
+
     
 })();
+
 
 
 

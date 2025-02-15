@@ -1,22 +1,28 @@
 const { chromium, firefox, webkit } = require("playwright");
 const mysql = require("mysql2/promise");
 const path = require("path");
-const { exec } = require('child_process');
+const { execSync } = require('child_process');
 
-// Funkcja do restartowania TOR
-async function restartTor() {
-    return new Promise((resolve, reject) => {
-        exec('sudo systemctl restart tor', (error, stdout, stderr) => {
-            if (error) {
-                console.error('Błąd restartu TOR:', stderr);
-                reject(error);
-            } else {
-                console.log('TOR został zrestartowany.');
-                resolve(stdout);
-            }
-        });
-    });
-}
+const fs = require('fs');
+const lockfile = '/tmp/tor_restart.lock';
+
+const restartTor = () => {
+    try {
+        if (fs.existsSync(lockfile)) {
+            console.log('Tor jest już restartowany.');
+            return;
+        }
+
+        fs.writeFileSync(lockfile, '');
+        console.log("Restartowanie Tora...");
+        execSync('sudo systemctl restart tor');
+        console.log("Tor został zrestartowany.");
+    } catch (error) {
+        console.error("Błąd podczas restartowania Tora:", error.message);
+    } finally {
+        fs.unlinkSync(lockfile);
+    }
+};
 
 // Funkcja do normalizacji URL
 function normalizeUrl(url) {
@@ -92,13 +98,13 @@ function getRandomBrowser() {
     for (const blog of blogs) {
         console.log(`Przetwarzam blog: ${blog.url}`);
 
-        await restartTor(); // Restart TOR
+        restartTor(); // Restart TOR
 
         const browserType = getRandomBrowser();
         const browser = await browserType.launch({
             headless: false,
             proxy: {
-                server: 'socks5://127.0.0.1:9050', // TOR proxy
+                server: 'socks5://127.0.0.1:9055', // TOR proxy
             },
         });
 
@@ -226,9 +232,11 @@ function getRandomBrowser() {
     await con.end();
 
     console.log("Skrypt zakończony.");
+    console.log("-----------------------------------------------------------------------------------");
     process.exit(0); // Wymuszone zakończenie skryptu   
 
 })();
+
 
 
 

@@ -1,7 +1,7 @@
 const { chromium, firefox, webkit } = require("playwright");
 const mysql = require("mysql2/promise");
 const path = require("path");
-const { exec } = require('child_process');
+const { execSync } = require('child_process');
 
 // Lista User-Agent
 const userAgents = [
@@ -10,6 +10,34 @@ const userAgents = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
 ];
+
+
+
+const fs = require('fs');
+const lockfile = '/tmp/tor_restart.lock';
+
+const restartTor = () => {
+    try {
+        if (fs.existsSync(lockfile)) {
+            console.log('Tor jest już restartowany.');
+            return;
+        }
+
+        fs.writeFileSync(lockfile, '');
+        console.log("Restartowanie Tora...");
+        execSync('sudo systemctl restart tor');
+        console.log("Tor został zrestartowany.");
+    } catch (error) {
+        console.error("Błąd podczas restartowania Tora:", error.message);
+    } finally {
+        fs.unlinkSync(lockfile);
+    }
+};
+
+
+
+
+
 
 
 
@@ -69,22 +97,7 @@ const userAgents = [
     for (const pageRecord of pages) {
         console.log(`Przetwarzam stronę: ${pageRecord.url}`);
 
-        // Restart Tor
-        try {
-            await new Promise((resolve, reject) => {
-                exec('sudo systemctl restart tor', (error, stdout, stderr) => {
-                    if (error) {
-                        console.error(`Błąd restartu Tor: ${stderr}`);
-                        return reject(error);
-                    }
-                    console.log('Tor zrestartowany.');
-                    resolve();
-                });
-            });
-        } catch (error) {
-            console.error(`Nie udało się zrestartować Tor: ${error.message}`);
-            continue;
-        }
+        restartTor();
 
         // Losuj przeglądarkę i User-Agent
         const browserType = getRandomBrowser();
@@ -95,7 +108,7 @@ const userAgents = [
             browser = await browserType.launch({
                 headless: false,
                 proxy: {
-                    server: 'socks5://127.0.0.1:9050',
+                    server: 'socks5://127.0.0.1:9056',
                 },
             });
 
@@ -197,9 +210,13 @@ const userAgents = [
     await con.end();
 
     console.log("Skrypt zakończony.");
+    console.log("-----------------------------------------------------------------------------------");
+
+
     process.exit(0); // Wymuszone zakończenie skryptu
-    console.log('Przetwarzanie zakończone.');
+
 })();
+
 
 
 

@@ -14,6 +14,33 @@ const userAgents = [
 
 
 
+const fs = require('fs');
+const lockfile = '/tmp/tor_restart.lock';
+
+const restartTor = () => {
+    try {
+        if (fs.existsSync(lockfile)) {
+            console.log('Tor jest już restartowany.');
+            return;
+        }
+
+        fs.writeFileSync(lockfile, '');
+        console.log("Restartowanie Tora...");
+        execSync('sudo systemctl restart tor');
+        console.log("Tor został zrestartowany.");
+    } catch (error) {
+        console.error("Błąd podczas restartowania Tora:", error.message);
+    } finally {
+        fs.unlinkSync(lockfile);
+    }
+};
+
+
+
+
+
+
+
 
 
 (async () => {
@@ -66,15 +93,7 @@ const userAgents = [
         const { id: blogId, url: blogUrl } = blog;
         console.log(`Przetwarzanie bloga ID: ${blogId}, URL: ${blogUrl}`);
 
-        // Restart Tor
-        try {
-            console.log('Restartowanie Tor...');
-            execSync('sudo systemctl restart tor');
-            console.log('Tor zrestartowany pomyślnie.');
-        } catch (error) {
-            console.error('Błąd podczas restartowania Tor:', error.message);
-            continue;
-        }
+        restartTor();
 
         const browserType = getRandomBrowser();
         const userAgent = getRandomUserAgent();
@@ -85,7 +104,7 @@ const userAgents = [
             console.log(`Uruchamianie przeglądarki (${browserType.name}) z User-Agent: ${userAgent}`);
             browser = await browserType.launch({
                 headless: true,
-                proxy: { server: 'socks5://127.0.0.1:9050' }
+                proxy: { server: 'socks5://127.0.0.1:9059' }
             });
 
             context = await browser.newContext({
@@ -198,10 +217,13 @@ const userAgents = [
 
     console.log("Skrypt zakończony.");
     process.exit(0); // Wymuszone zakończenie skryptu
-    console.log('Przetwarzanie zakończone.');
+    console.log("-----------------------------------------------------------------------------------");
+
+
 
     
 })();
+
 
 
 
