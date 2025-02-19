@@ -1,0 +1,246 @@
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_blogs.js - 2025-02-18T23:58:03.088Z
+Przetwarzam blog ID: 1, URL: https://akwariuminhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://akwariuminhome.blogspot.com/
+Pobieranie recommended blogs...
+Znaleziono 10 blogow.
+Dodano blogs: O roślinach, ziołach i bylinach - zastosowanie w leczeniu
+Dodano blogs: Wiązówka błotna
+Dodano blogs: Podróże, poznawanie świata, wąchanie przestrzeni
+Dodano blogs: Kraków - zwiedzanie Starego Miasta
+Dodano blogs: Meandry osobowości, światopogląd, humor, żart
+Dodano blogs: Degustacja win – na co zwrócić uwagę
+Dodano blogs: Grzyby jadalne, niejadalne, trujące grzybki
+Dodano blogs: Smardz jadalny (Morchella esculenta)
+Dodano blogs: Norwegia, praca, życie, przyroda w Norwegii
+Dodano blogs: Norweska kuchnia: co warto spróbować, a co może zaskoczyć?
+Przetwarzam blog ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://rumien.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://rumien.blogspot.com/
+Przetwarzam blog ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://recenzjawiadomosci.blogspot.com/
+Pobieranie recommended blogs...
+Znaleziono 5 blogow.
+Dodano blogs: Mołdawia w pigułce, życie i praca w Mołdawii
+Dodano blogs: Zamek w Sorokach: Historia i współczesność mołdawskiej twierdzy
+Dodano blogs: Norwegia, praca, życie, przyroda w Norwegii
+Dodano blogs: Norweska kuchnia: co warto spróbować, a co może zaskoczyć?
+Dodano blogs: Meandry osobowości, światopogląd, humor, żart
+Przetwarzam blog ID: 4, URL: https://worldclones.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://worldclones.blogspot.com/
+Pobieranie recommended blogs...
+Znaleziono 9 blogow.
+Dodano blogs: O roślinach, ziołach i bylinach
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/"}
+Dodano blogs: Wiązówka błotna
+Dodano blogs: Meandry osobowości, światopogląd, humor, żart
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://ptasiejajo.blogspot.com/"}
+Dodano blogs: Degustacja win – na co zwrócić uwagę
+Dodano blogs: Notatki publiczne - recenzje wiadomości
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/"}
+Dodano blogs: Adrian Zandberg - opis kandydata | POLSKA
+Przetwarzam blog ID: 5, URL: https://technologiawieku.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://technologiawieku.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://technologiawieku.blogspot.com/
+Przetwarzam blog ID: 6, URL: https://swiatgrzybow.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://swiatgrzybow.blogspot.com/
+Pobieranie recommended blogs...
+Znaleziono 6 blogow.
+Dodano blogs: O roślinach, ziołach i bylinach - zastosowanie w leczeniu
+Dodano blogs: Wiązówka błotna
+Dodano blogs: Zioła, ziołolecznictwo, leki z Bożej apteki
+Dodano blogs: Bazylia pospolita (Ocimum basilicum)
+Dodano blogs: Medycyna naturalna, medycyna chińska, alternatywna 🌿
+Dodano blogs: Energia meridianów: mapa ciała według medycyny chińskiej
+Przetwarzam blog ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://strefainternetu.blogspot.com/
+Pobieranie recommended blogs...
+Znaleziono 18 blogow.
+Dodano blogs: Blog - tworzenie stron, pozycjonowanie, marketing, SEO, social media
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/"}
+Dodano blogs: Jak skutecznie prowadzić kampanie reklamowe w internecie?
+Dodano blogs: Meandry osobowości, światopogląd, humor, żart
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://ptasiejajo.blogspot.com/"}
+Dodano blogs: Degustacja win – na co zwrócić uwagę
+Dodano blogs: Modlitwy na każdy dzień
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/"}
+Dodano blogs: Litania do Najświętszego Imienia Jezus
+Dodano blogs: Notatki publiczne - recenzje wiadomości
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/"}
+Dodano blogs: Adrian Zandberg - opis kandydata | POLSKA
+Dodano blogs: O roślinach, ziołach i bylinach - zastosowanie w leczeniu
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/"}
+Dodano blogs: Wiązówka błotna
+Dodano blogs: Łuszczyca - leczenie, objawy, przyczyny
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://choraskora.blogspot.com/"}
+Dodano blogs: Przyczyny łuszczycy: Co wpływa na rozwój tej choroby?
+Przetwarzam blog ID: 8, URL: https://norwayinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://norwayinhome.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://norwayinhome.blogspot.com/
+Przetwarzam blog ID: 9, URL: https://domoweziololecznictwo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://domoweziololecznictwo.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://domoweziololecznictwo.blogspot.com/
+Przetwarzam blog ID: 10, URL: https://alternatywnamedycyna.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://alternatywnamedycyna.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://alternatywnamedycyna.blogspot.com/
+Przetwarzam blog ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://twojamodlitwa.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://twojamodlitwa.blogspot.com/
+Przetwarzam blog ID: 12, URL: https://gruzlica.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://gruzlica.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://gruzlica.blogspot.com/
+Przetwarzam blog ID: 13, URL: https://tytonie.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://tytonie.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://tytonie.blogspot.com/
+Przetwarzam blog ID: 14, URL: https://survivalinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://survivalinhome.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://survivalinhome.blogspot.com/
+Przetwarzam blog ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://poszedlem.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://poszedlem.blogspot.com/
+Przetwarzam blog ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://aptekazielona.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://aptekazielona.blogspot.com/
+Przetwarzam blog ID: 17, URL: https://panelfotowoltaiczny.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://panelfotowoltaiczny.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://panelfotowoltaiczny.blogspot.com/
+Przetwarzam blog ID: 18, URL: https://cryptocurrencyinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://cryptocurrencyinhome.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://cryptocurrencyinhome.blogspot.com/
+Przetwarzam blog ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://choraskora.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://choraskora.blogspot.com/
+Przetwarzam blog ID: 20, URL: https://tynkowy.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://tynkowy.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://tynkowy.blogspot.com/
+Przetwarzam blog ID: 21, URL: https://wyleczdepresje.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://wyleczdepresje.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://wyleczdepresje.blogspot.com/
+Przetwarzam blog ID: 22, URL: https://grzybicastop.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://grzybicastop.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://grzybicastop.blogspot.com/
+Przetwarzam blog ID: 23, URL: https://moldawiainhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://moldawiainhome.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://moldawiainhome.blogspot.com/
+Przetwarzam blog ID: 24, URL: https://homeherbalmedicine.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://homeherbalmedicine.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://homeherbalmedicine.blogspot.com/
+Przetwarzam blog ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://ptasiejajo.blogspot.com/
+Pobieranie recommended blogs...
+Znaleziono 12 blogow.
+Dodano blogs: O roślinach, ziołach i bylinach
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/"}
+Dodano blogs: Wiązówka błotna
+Dodano blogs: TYTONIE ŚWIATA - mieszanki, rodzaje, odkrycia, opisy
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://tytonie.blogspot.com/"}
+Dodano blogs: Rothmans Blue
+Dodano blogs: Modlitwy na każdy dzień
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/"}
+Dodano blogs: Litania do Najświętszego Imienia Jezus
+Dodano blogs: Notatki publiczne - recenzje wiadomości
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/"}
+Dodano blogs: Adrian Zandberg - opis kandydata | POLSKA
+Przetwarzam blog ID: 26, URL: https://linuxonhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://linuxonhome.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://linuxonhome.blogspot.com/
+Przetwarzam blog ID: 27, URL: https://strategygamesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://strategygamesinhome.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://strategygamesinhome.blogspot.com/
+Przetwarzam blog ID: 28, URL: https://vegatablesandfruits.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://vegatablesandfruits.blogspot.com/
+Pobieranie recommended blogs...
+Znaleziono 6 blogow.
+Dodano blogs: Games strategy, the best game on the world
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://strategygamesinhome.blogspot.com/"}
+Dodano blogs: StarCraft (1998): The RTS That Changed Gaming Forever
+Dodano blogs: Herbalism, herbs, Remedies from God's pharmacy
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://homeherbalmedicine.blogspot.com/"}
+Dodano blogs: Rugosa rose (Rosa rugosa)
+Przetwarzam blog ID: 29, URL: https://chineseheroesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://chineseheroesinhome.blogspot.com/
+Pobieranie recommended blogs...
+Brak recommended blogs dla bloga: https://chineseheroesinhome.blogspot.com/
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_blogs.js - 2025-02-19T00:01:09.358Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------

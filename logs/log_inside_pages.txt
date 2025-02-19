@@ -1,0 +1,560 @@
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_pages.js - 2025-02-18T23:01:03.537Z
+Przetwarzam stronę: http://akwariuminhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://akwariuminhome.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://akwariuminhome.blogspot.com/
+Przetwarzam stronę: https://akwariuminhome.blogspot.com/p/o-rybkach-akwariowych.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://akwariuminhome.blogspot.com/p/o-rybkach-akwariowych.html
+Brak linków w sekcji "post-body" dla strony: https://akwariuminhome.blogspot.com/p/o-rybkach-akwariowych.html
+Przetwarzam stronę: https://akwariuminhome.blogspot.com/p/akwaria.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://akwariuminhome.blogspot.com/p/akwaria.html
+Brak linków w sekcji "post-body" dla strony: https://akwariuminhome.blogspot.com/p/akwaria.html
+Przetwarzam stronę: http://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://rumien.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://rumien.blogspot.com/
+Przetwarzam stronę: https://rumien.blogspot.com/p/co-to-jest-rumien.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://rumien.blogspot.com/p/co-to-jest-rumien.html
+Brak linków w sekcji "post-body" dla strony: https://rumien.blogspot.com/p/co-to-jest-rumien.html
+Przetwarzam stronę: https://rumien.blogspot.com/p/przyczyny-rumienia.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://rumien.blogspot.com/p/przyczyny-rumienia.html
+Brak linków w sekcji "post-body" dla strony: https://rumien.blogspot.com/p/przyczyny-rumienia.html
+Przetwarzam stronę: https://rumien.blogspot.com/p/objawy-rumienia.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://rumien.blogspot.com/p/objawy-rumienia.html
+Brak linków w sekcji "post-body" dla strony: https://rumien.blogspot.com/p/objawy-rumienia.html
+Przetwarzam stronę: https://rumien.blogspot.com/p/leczenie-rumienia.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://rumien.blogspot.com/p/leczenie-rumienia.html
+Brak linków w sekcji "post-body" dla strony: https://rumien.blogspot.com/p/leczenie-rumienia.html
+Przetwarzam stronę: https://rumien.blogspot.com/p/gdzie-o-pomoc.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://rumien.blogspot.com/p/gdzie-o-pomoc.html
+Brak linków w sekcji "post-body" dla strony: https://rumien.blogspot.com/p/gdzie-o-pomoc.html
+Przetwarzam stronę: http://technologiawieku.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://technologiawieku.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://technologiawieku.blogspot.com/
+Przetwarzam stronę: https://technologiawieku.blogspot.com/p/historia-komputerow.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://technologiawieku.blogspot.com/p/historia-komputerow.html
+Brak linków w sekcji "post-body" dla strony: https://technologiawieku.blogspot.com/p/historia-komputerow.html
+Przetwarzam stronę: https://technologiawieku.blogspot.com/p/systemy-operacyjne.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://technologiawieku.blogspot.com/p/systemy-operacyjne.html
+Brak linków w sekcji "post-body" dla strony: https://technologiawieku.blogspot.com/p/systemy-operacyjne.html
+Przetwarzam stronę: https://technologiawieku.blogspot.com/p/jezyki-programowania.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://technologiawieku.blogspot.com/p/jezyki-programowania.html
+Brak linków w sekcji "post-body" dla strony: https://technologiawieku.blogspot.com/p/jezyki-programowania.html
+Przetwarzam stronę: http://norwayinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://norwayinhome.blogspot.com/
+Pominięto duplikat:  (https://norwayinhome.blogspot.com/2025/01/zycie-w-norwegii-oczami-polaka-roznice.html)
+Pominięto duplikat:  (https://norwayinhome.blogspot.com/2025/01/jak-znalezc-prace-w-norwegii-poradnik.html)
+Pominięto duplikat:  (https://norwayinhome.blogspot.com/2025/01/ekologiczna-norwegia-energia-odnawialna.html)
+Pominięto duplikat:  (https://norwayinhome.blogspot.com/2025/01/norweskie-smaki-co-warto-sprobowac.html)
+Pominięto duplikat:  (https://norwayinhome.blogspot.com/2024/12/norwegia-raj-dla-miosnikow-aktywnosci.html)
+Pominięto duplikat:  (https://norwayinhome.blogspot.com/2024/12/zorza-polarna-i-dzien-polarny-fenomeny.html)
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/o-norwegii.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/o-norwegii.html
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/o-norwegii.html
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/kultura-i-historia-norwegii.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/kultura-i-historia-norwegii.html
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/kultura-i-historia-norwegii.html
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/gospodarka.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/gospodarka.html
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/gospodarka.html
+Przetwarzam stronę: 
+Restartowanie Tora...
+Tor został zrestartowany.
+Błąd podczas przetwarzania strony:  page.goto: Protocol error (Page.navigate): Invalid url: ""
+Call log:
+  - navigating to "", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_inside_pages.js:123:28 {
+  name: 'Error'
+}
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/przyroda.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/przyroda.html
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/przyroda.html
+Przetwarzam stronę: http://alternatywnamedycyna.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://alternatywnamedycyna.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://alternatywnamedycyna.blogspot.com/
+Przetwarzam stronę: https://alternatywnamedycyna.blogspot.com/p/co-to-jest-medycyna-alternatywna.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://alternatywnamedycyna.blogspot.com/p/co-to-jest-medycyna-alternatywna.html
+Brak linków w sekcji "post-body" dla strony: https://alternatywnamedycyna.blogspot.com/p/co-to-jest-medycyna-alternatywna.html
+Przetwarzam stronę: https://alternatywnamedycyna.blogspot.com/p/zioolecznictwo.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://alternatywnamedycyna.blogspot.com/p/zioolecznictwo.html
+Brak linków w sekcji "post-body" dla strony: https://alternatywnamedycyna.blogspot.com/p/zioolecznictwo.html
+Przetwarzam stronę: https://alternatywnamedycyna.blogspot.com/p/homeopatia.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://alternatywnamedycyna.blogspot.com/p/homeopatia.html
+Brak linków w sekcji "post-body" dla strony: https://alternatywnamedycyna.blogspot.com/p/homeopatia.html
+Przetwarzam stronę: https://alternatywnamedycyna.blogspot.com/p/akupunktura.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://alternatywnamedycyna.blogspot.com/p/akupunktura.html
+Brak linków w sekcji "post-body" dla strony: https://alternatywnamedycyna.blogspot.com/p/akupunktura.html
+Przetwarzam stronę: https://alternatywnamedycyna.blogspot.com/p/tai-chi.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://alternatywnamedycyna.blogspot.com/p/tai-chi.html
+Brak linków w sekcji "post-body" dla strony: https://alternatywnamedycyna.blogspot.com/p/tai-chi.html
+Przetwarzam stronę: http://gruzlica.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://gruzlica.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://gruzlica.blogspot.com/
+Przetwarzam stronę: https://gruzlica.blogspot.com/p/co-to-jest-gruzlica.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://gruzlica.blogspot.com/p/co-to-jest-gruzlica.html
+Brak linków w sekcji "post-body" dla strony: https://gruzlica.blogspot.com/p/co-to-jest-gruzlica.html
+Przetwarzam stronę: https://gruzlica.blogspot.com/p/przyczyny-gruzlicy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://gruzlica.blogspot.com/p/przyczyny-gruzlicy.html
+Brak linków w sekcji "post-body" dla strony: https://gruzlica.blogspot.com/p/przyczyny-gruzlicy.html
+Przetwarzam stronę: https://gruzlica.blogspot.com/p/objawy-gruzlicy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://gruzlica.blogspot.com/p/objawy-gruzlicy.html
+Brak linków w sekcji "post-body" dla strony: https://gruzlica.blogspot.com/p/objawy-gruzlicy.html
+Przetwarzam stronę: https://gruzlica.blogspot.com/p/leczenie-gruzlicy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://gruzlica.blogspot.com/p/leczenie-gruzlicy.html
+Brak linków w sekcji "post-body" dla strony: https://gruzlica.blogspot.com/p/leczenie-gruzlicy.html
+Przetwarzam stronę: https://gruzlica.blogspot.com/p/gdzie-o-pomoc.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://gruzlica.blogspot.com/p/gdzie-o-pomoc.html
+Brak linków w sekcji "post-body" dla strony: https://gruzlica.blogspot.com/p/gdzie-o-pomoc.html
+Przetwarzam stronę: https://tytonie.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://tytonie.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: https://tytonie.blogspot.com/
+Przetwarzam stronę: https://tytonie.blogspot.com/p/akcesoria.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://tytonie.blogspot.com/p/akcesoria.html
+Brak linków w sekcji "post-body" dla strony: https://tytonie.blogspot.com/p/akcesoria.html
+Przetwarzam stronę: https://tytonie.blogspot.com/p/zapaliniczki.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://tytonie.blogspot.com/p/zapaliniczki.html
+Brak linków w sekcji "post-body" dla strony: https://tytonie.blogspot.com/p/zapaliniczki.html
+Przetwarzam stronę: https://tytonie.blogspot.com/p/roznosci.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://tytonie.blogspot.com/p/roznosci.html
+Brak linków w sekcji "post-body" dla strony: https://tytonie.blogspot.com/p/roznosci.html
+Przetwarzam stronę: https://aptekazielona.blogspot.com/p/katalogi.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://aptekazielona.blogspot.com/p/katalogi.html
+Pominięto duplikat: Katalog stron (http://cottaby.pl/)
+Przetwarzam stronę: http://panelfotowoltaiczny.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://panelfotowoltaiczny.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://panelfotowoltaiczny.blogspot.com/
+Przetwarzam stronę: https://panelfotowoltaiczny.blogspot.com/p/co-to-jest-fotowoltaika.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://panelfotowoltaiczny.blogspot.com/p/co-to-jest-fotowoltaika.html
+Brak linków w sekcji "post-body" dla strony: https://panelfotowoltaiczny.blogspot.com/p/co-to-jest-fotowoltaika.html
+Przetwarzam stronę: https://panelfotowoltaiczny.blogspot.com/p/jakie-koszty-instalacji.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://panelfotowoltaiczny.blogspot.com/p/jakie-koszty-instalacji.html
+Brak linków w sekcji "post-body" dla strony: https://panelfotowoltaiczny.blogspot.com/p/jakie-koszty-instalacji.html
+Przetwarzam stronę: https://panelfotowoltaiczny.blogspot.com/p/zwrot-inwestycji.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://panelfotowoltaiczny.blogspot.com/p/zwrot-inwestycji.html
+Brak linków w sekcji "post-body" dla strony: https://panelfotowoltaiczny.blogspot.com/p/zwrot-inwestycji.html
+Przetwarzam stronę: http://cryptocurrencyinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://cryptocurrencyinhome.blogspot.com/
+Pominięto duplikat: CoinATMRadar (https://coinatmradar.com/)
+Przetwarzam stronę: https://cryptocurrencyinhome.blogspot.com/p/co-to-sa-kryptowaluty.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://cryptocurrencyinhome.blogspot.com/p/co-to-sa-kryptowaluty.html
+Brak linków w sekcji "post-body" dla strony: https://cryptocurrencyinhome.blogspot.com/p/co-to-sa-kryptowaluty.html
+Przetwarzam stronę: https://cryptocurrencyinhome.blogspot.com/p/blockchain-technology.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://cryptocurrencyinhome.blogspot.com/p/blockchain-technology.html
+Brak linków w sekcji "post-body" dla strony: https://cryptocurrencyinhome.blogspot.com/p/blockchain-technology.html
+Przetwarzam stronę: https://cryptocurrencyinhome.blogspot.com/p/bitcoin.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://cryptocurrencyinhome.blogspot.com/p/bitcoin.html
+Brak linków w sekcji "post-body" dla strony: https://cryptocurrencyinhome.blogspot.com/p/bitcoin.html
+Przetwarzam stronę: http://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://choraskora.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://choraskora.blogspot.com/
+Przetwarzam stronę: https://choraskora.blogspot.com/p/co-to-jest-uszczyca.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://choraskora.blogspot.com/p/co-to-jest-uszczyca.html
+Brak linków w sekcji "post-body" dla strony: https://choraskora.blogspot.com/p/co-to-jest-uszczyca.html
+Przetwarzam stronę: https://choraskora.blogspot.com/p/objawy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://choraskora.blogspot.com/p/objawy.html
+Brak linków w sekcji "post-body" dla strony: https://choraskora.blogspot.com/p/objawy.html
+Przetwarzam stronę: https://choraskora.blogspot.com/p/przyczyny.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://choraskora.blogspot.com/p/przyczyny.html
+Brak linków w sekcji "post-body" dla strony: https://choraskora.blogspot.com/p/przyczyny.html
+Przetwarzam stronę: https://choraskora.blogspot.com/p/leczenie.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://choraskora.blogspot.com/p/leczenie.html
+Brak linków w sekcji "post-body" dla strony: https://choraskora.blogspot.com/p/leczenie.html
+Przetwarzam stronę: https://choraskora.blogspot.com/p/gdzie-o-pomoc.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://choraskora.blogspot.com/p/gdzie-o-pomoc.html
+Brak linków w sekcji "post-body" dla strony: https://choraskora.blogspot.com/p/gdzie-o-pomoc.html
+Przetwarzam stronę: http://wyleczdepresje.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://wyleczdepresje.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://wyleczdepresje.blogspot.com/
+Przetwarzam stronę: https://wyleczdepresje.blogspot.com/p/co-to-jest-depresja.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://wyleczdepresje.blogspot.com/p/co-to-jest-depresja.html
+Brak linków w sekcji "post-body" dla strony: https://wyleczdepresje.blogspot.com/p/co-to-jest-depresja.html
+Przetwarzam stronę: https://wyleczdepresje.blogspot.com/p/przyczyny-depresji.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://wyleczdepresje.blogspot.com/p/przyczyny-depresji.html
+Brak linków w sekcji "post-body" dla strony: https://wyleczdepresje.blogspot.com/p/przyczyny-depresji.html
+Przetwarzam stronę: https://wyleczdepresje.blogspot.com/p/objawy-depresji.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://wyleczdepresje.blogspot.com/p/objawy-depresji.html
+Brak linków w sekcji "post-body" dla strony: https://wyleczdepresje.blogspot.com/p/objawy-depresji.html
+Przetwarzam stronę: https://wyleczdepresje.blogspot.com/p/leczenie-depresji.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://wyleczdepresje.blogspot.com/p/leczenie-depresji.html
+Brak linków w sekcji "post-body" dla strony: https://wyleczdepresje.blogspot.com/p/leczenie-depresji.html
+Przetwarzam stronę: https://wyleczdepresje.blogspot.com/p/gdzie-o-pomoc.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://wyleczdepresje.blogspot.com/p/gdzie-o-pomoc.html
+Brak linków w sekcji "post-body" dla strony: https://wyleczdepresje.blogspot.com/p/gdzie-o-pomoc.html
+Przetwarzam stronę: http://grzybicastop.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://grzybicastop.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://grzybicastop.blogspot.com/
+Przetwarzam stronę: https://grzybicastop.blogspot.com/p/co-to-jest-grzybica-stop.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://grzybicastop.blogspot.com/p/co-to-jest-grzybica-stop.html
+Brak linków w sekcji "post-body" dla strony: https://grzybicastop.blogspot.com/p/co-to-jest-grzybica-stop.html
+Przetwarzam stronę: https://grzybicastop.blogspot.com/p/przyczyny-grzybicy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://grzybicastop.blogspot.com/p/przyczyny-grzybicy.html
+Brak linków w sekcji "post-body" dla strony: https://grzybicastop.blogspot.com/p/przyczyny-grzybicy.html
+Przetwarzam stronę: https://grzybicastop.blogspot.com/p/objawy-grzybicy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://grzybicastop.blogspot.com/p/objawy-grzybicy.html
+Brak linków w sekcji "post-body" dla strony: https://grzybicastop.blogspot.com/p/objawy-grzybicy.html
+Przetwarzam stronę: https://grzybicastop.blogspot.com/p/leczenie-grzybicy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://grzybicastop.blogspot.com/p/leczenie-grzybicy.html
+Brak linków w sekcji "post-body" dla strony: https://grzybicastop.blogspot.com/p/leczenie-grzybicy.html
+Przetwarzam stronę: https://grzybicastop.blogspot.com/p/gdzie-o-pomoc.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://grzybicastop.blogspot.com/p/gdzie-o-pomoc.html
+Brak linków w sekcji "post-body" dla strony: https://grzybicastop.blogspot.com/p/gdzie-o-pomoc.html
+Przetwarzam stronę: http://moldawiainhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://moldawiainhome.blogspot.com/
+Pominięto duplikat:  (https://moldawiainhome.blogspot.com/2025/01/naddniestrze-czy-warto-odwiedzic-ten.html)
+Pominięto duplikat:  (https://moldawiainhome.blogspot.com/2025/01/winnice-cricova-i-milestii-mici.html)
+Pominięto duplikat:  (https://moldawiainhome.blogspot.com/2025/01/codzienne-zycie-w-modawii-jak-wyglada.html)
+Pominięto duplikat:  (https://moldawiainhome.blogspot.com/2025/01/tyraspol-stolica-nieuznawanego.html)
+Pominięto duplikat:  (https://moldawiainhome.blogspot.com/2024/12/kiszyniow-7-miejsc-ktore-musisz_0182778209.html)
+Pominięto duplikat:  (https://moldawiainhome.blogspot.com/2024/12/kuchnia-modawska-5-tradycyjnych-potraw.html)
+Przetwarzam stronę: https://moldawiainhome.blogspot.com/p/o-modawii.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://moldawiainhome.blogspot.com/p/o-modawii.html
+Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/o-modawii.html
+Przetwarzam stronę: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.html
+Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.html
+Przetwarzam stronę: 
+Restartowanie Tora...
+Tor został zrestartowany.
+Błąd podczas przetwarzania strony:  page.goto: Protocol error (Page.navigate): Invalid url: ""
+Call log:
+  - navigating to "", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_inside_pages.js:123:28 {
+  name: 'Error'
+}
+Przetwarzam stronę: https://moldawiainhome.blogspot.com/p/kultura-modawii.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://moldawiainhome.blogspot.com/p/kultura-modawii.html
+Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/kultura-modawii.html
+Przetwarzam stronę: http://linuxonhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://linuxonhome.blogspot.com/
+Pominięto duplikat: lubuntu.me (https://lubuntu.me/)
+Pominięto duplikat: linuxliteos.com (https://linuxliteos.com/)
+Pominięto duplikat: puppylinux.com (https://puppylinux.com/)
+Pominięto duplikat: antixlinux.com (https://antixlinux.com/)
+Pominięto duplikat: mxlinux.org (https://mxlinux.org/)
+Pominięto duplikat: bodhilinux.com (https://bodhilinux.com/)
+Pominięto duplikat: slax.org (https://www.slax.org/)
+Pominięto duplikat: tinycorelinux.net (http://tinycorelinux.net/)
+Przetwarzam stronę: https://linuxonhome.blogspot.com/p/systemy-operacyjne.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://linuxonhome.blogspot.com/p/systemy-operacyjne.html
+Brak linków w sekcji "post-body" dla strony: https://linuxonhome.blogspot.com/p/systemy-operacyjne.html
+Przetwarzam stronę: https://linuxonhome.blogspot.com/p/windows.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://linuxonhome.blogspot.com/p/windows.html
+Brak linków w sekcji "post-body" dla strony: https://linuxonhome.blogspot.com/p/windows.html
+Przetwarzam stronę: https://linuxonhome.blogspot.com/p/linux.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://linuxonhome.blogspot.com/p/linux.html
+Brak linków w sekcji "post-body" dla strony: https://linuxonhome.blogspot.com/p/linux.html
+Przetwarzam stronę: https://linuxonhome.blogspot.com/p/macos.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://linuxonhome.blogspot.com/p/macos.html
+Brak linków w sekcji "post-body" dla strony: https://linuxonhome.blogspot.com/p/macos.html
+Przetwarzam stronę: https://linuxonhome.blogspot.com/p/ios.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://linuxonhome.blogspot.com/p/ios.html
+Brak linków w sekcji "post-body" dla strony: https://linuxonhome.blogspot.com/p/ios.html
+Przetwarzam stronę: https://linuxonhome.blogspot.com/p/android.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://linuxonhome.blogspot.com/p/android.html
+Brak linków w sekcji "post-body" dla strony: https://linuxonhome.blogspot.com/p/android.html
+Przetwarzam stronę: http://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://twojamodlitwa.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://twojamodlitwa.blogspot.com/
+Przetwarzam stronę: http://twojamodlitwa.blogspot.com/p/spis-modlitw_3.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://twojamodlitwa.blogspot.com/p/spis-modlitw_3.html
+Pominięto duplikat: Aniele Boży Stróżu mój (http://twojamodlitwa.blogspot.com/search/label/Aniele%20Bo%C5%BCy%20Str%C3%B3%C5%BCu%20m%C3%B3j)
+Pominięto duplikat: Anioł Pański (http://twojamodlitwa.blogspot.com/search/label/Anio%C5%82%20Pa%C5%84ski)
+Pominięto duplikat: Modlitwa do Św. Michała Archanioła (http://twojamodlitwa.blogspot.com/search/label/Modlitwa%20do%20%C5%9Aw.%20Micha%C5%82a%20Archanio%C5%82a)
+Pominięto duplikat: Ojcze nasz (http://twojamodlitwa.blogspot.com/search/label/Ojcze%20nasz)
+Pominięto duplikat: Pod Twoją obronę (http://twojamodlitwa.blogspot.com/search/label/Pod%20Twoj%C4%85%20obron%C4%99)
+Pominięto duplikat: Wyznanie wiary - Credo (http://twojamodlitwa.blogspot.com/search/label/Wyznanie%20wiary%20-%20Credo)
+Pominięto duplikat: Wyznanie wiary - Skład Apostolski (http://twojamodlitwa.blogspot.com/search/label/Wyznanie%20wiary%20-%20Sk%C5%82ad%20Apostolski)
+Pominięto duplikat: Zdrowaś Maryjo (http://twojamodlitwa.blogspot.com/search/label/Zdrowa%C5%9B%20Maryjo)
+Pominięto duplikat: Przybądź Duchu Święty (http://twojamodlitwa.blogspot.com/search/label/Przyb%C4%85d%C5%BA%20Duchu%20%C5%9Awi%C4%99ty%20%28Hymn%29)
+Pominięto duplikat: Różaniec Święty (http://twojamodlitwa.blogspot.com/search/label/R%C3%B3%C5%BCaniec%20%C5%9Awi%C4%99ty)
+Pominięto duplikat: Modlitwa za wstawiennictwem Św. Bernarda ze Sieny (https://twojamodlitwa.blogspot.com/2024/12/modlitwa-za-wstawiennictwem-sw.html)
+Pominięto duplikat: Modlitwa przed nauką (https://twojamodlitwa.blogspot.com/2024/12/modlitwa-przed-nauka.html)
+Pominięto duplikat: Modlitwa przed pracą (https://twojamodlitwa.blogspot.com/search/label/Modlitwa%20przed%20prac%C4%85)
+Pominięto duplikat: Litania do Ducha Świętego (http://twojamodlitwa.blogspot.com/search/label/Litania%20do%20Ducha%20%C5%9Awi%C4%99tego)
+Pominięto duplikat: Litania do Najświętszego Serca Pana Jezusa (http://twojamodlitwa.blogspot.com/search/label/Litania%20do%20Naj%C5%9Bwi%C4%99tszego%20Serca%20Pana%20Jezusa)
+Pominięto duplikat: Litania do Najświętszej Maryi Panny (Loretańska) (http://twojamodlitwa.blogspot.com/search/label/Litania%20do%20Naj%C5%9Bwi%C4%99tszej%20Maryi%20Panny%20%28Loreta%C5%84ska%29)
+Pominięto duplikat: Koronka do Miłosierdzia Bożego (http://twojamodlitwa.blogspot.com/search/label/Koronka%20do%20Mi%C5%82osierdzia%20Bo%C5%BCego)
+Przetwarzam stronę: http://twojamodlitwa.blogspot.com/p/nabozenstwa.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://twojamodlitwa.blogspot.com/p/nabozenstwa.html
+Brak linków w sekcji "post-body" dla strony: http://twojamodlitwa.blogspot.com/p/nabozenstwa.html
+Przetwarzam stronę: http://twojamodlitwa.blogspot.com/p/modlitwy-audio.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://twojamodlitwa.blogspot.com/p/modlitwy-audio.html
+Pominięto duplikat: Ojcze nasz (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Pominięto duplikat: Zdrowaś Maryjo (https://www.blogger.com/blogger.g?blogID=4858830739135328804)
+Pominięto duplikat: Anioł Pański (https://www.blogger.com/blogger.g?blogID=4858830739135328804)
+Pominięto duplikat: Wyznanie wiary - Credo (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Pominięto duplikat: Wyznanie wiary - Skład Apostolski (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Pominięto duplikat: Pod Twoją Obronę ... (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Pominięto duplikat: Modlitwa do Św. Michała Archanioła (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Pominięto duplikat: Aniele Boży Stróżu mój (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Pominięto duplikat: Koronka do Miłosierdzia Bożego (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Pominięto duplikat: Przybądź Duchu Święty (https://twojamodlitwa.blogspot.com/p/modlitwy-audio.html)
+Przetwarzam stronę: https://twojamodlitwa.blogspot.com/p/z-watykanu-newsy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://twojamodlitwa.blogspot.com/p/z-watykanu-newsy.html
+Brak linków w sekcji "post-body" dla strony: https://twojamodlitwa.blogspot.com/p/z-watykanu-newsy.html
+Przetwarzam stronę: http://twojamodlitwa.blogspot.com/p/artykuy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://twojamodlitwa.blogspot.com/p/artykuy.html
+Pominięto duplikat: O Aniele Stróżu (http://twojamodlitwa.blogspot.com/2014/08/o-aniele-strozu-artyku.html)
+Pominięto duplikat: Bez obaw - najsilniejsza tarcza, najsilniejsza "broń" - Różaniec Święty (http://twojamodlitwa.blogspot.com/2014/08/bez-obaw-najsilniejsza-tarcza.html)
+Pominięto duplikat: Chóry anielskie, cherubini, serafinowie, archaniołowie (http://twojamodlitwa.blogspot.com/2014/08/chory-anielskie-cherubini-serafinowie.html)
+Przetwarzam stronę: http://tynkowy.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://tynkowy.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://tynkowy.blogspot.com/
+Przetwarzam stronę: http://tynkowy.blogspot.com/p/tynk-akrylowy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://tynkowy.blogspot.com/p/tynk-akrylowy.html
+Brak linków w sekcji "post-body" dla strony: http://tynkowy.blogspot.com/p/tynk-akrylowy.html
+Przetwarzam stronę: http://tynkowy.blogspot.com/p/tynk-silikonowy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://tynkowy.blogspot.com/p/tynk-silikonowy.html
+Brak linków w sekcji "post-body" dla strony: http://tynkowy.blogspot.com/p/tynk-silikonowy.html
+Przetwarzam stronę: http://tynkowy.blogspot.com/p/tynk-silikatowy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://tynkowy.blogspot.com/p/tynk-silikatowy.html
+Brak linków w sekcji "post-body" dla strony: http://tynkowy.blogspot.com/p/tynk-silikatowy.html
+Przetwarzam stronę: http://tynkowy.blogspot.com/p/tynk-mozaikowy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://tynkowy.blogspot.com/p/tynk-mozaikowy.html
+Brak linków w sekcji "post-body" dla strony: http://tynkowy.blogspot.com/p/tynk-mozaikowy.html
+Przetwarzam stronę: http://tynkowy.blogspot.com/p/tynk-gipsowy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://tynkowy.blogspot.com/p/tynk-gipsowy.html
+Brak linków w sekcji "post-body" dla strony: http://tynkowy.blogspot.com/p/tynk-gipsowy.html
+Przetwarzam stronę: https://tynkowy.blogspot.com/p/tynk-glinowy.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://tynkowy.blogspot.com/p/tynk-glinowy.html
+Brak linków w sekcji "post-body" dla strony: https://tynkowy.blogspot.com/p/tynk-glinowy.html
+Przetwarzam stronę: https://tynkowy.blogspot.com/p/tynk-wapienny.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://tynkowy.blogspot.com/p/tynk-wapienny.html
+Brak linków w sekcji "post-body" dla strony: https://tynkowy.blogspot.com/p/tynk-wapienny.html
+Przetwarzam stronę: http://tynkowy.blogspot.com/p/styropian.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://tynkowy.blogspot.com/p/styropian.html
+Brak linków w sekcji "post-body" dla strony: http://tynkowy.blogspot.com/p/styropian.html
+Przetwarzam stronę: http://vegatablesandfruits.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: http://vegatablesandfruits.blogspot.com/
+Brak linków w sekcji "post-body" dla strony: http://vegatablesandfruits.blogspot.com/
+Przetwarzam stronę: https://vegatablesandfruits.blogspot.com/p/where-to-start.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://vegatablesandfruits.blogspot.com/p/where-to-start.html
+Brak linków w sekcji "post-body" dla strony: https://vegatablesandfruits.blogspot.com/p/where-to-start.html
+Przetwarzam stronę: https://vegatablesandfruits.blogspot.com/p/list-of-vegetables.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://vegatablesandfruits.blogspot.com/p/list-of-vegetables.html
+Brak linków w sekcji "post-body" dla strony: https://vegatablesandfruits.blogspot.com/p/list-of-vegetables.html
+Przetwarzam stronę: https://vegatablesandfruits.blogspot.com/p/why-is-it-worth-growing-vegetables.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://vegatablesandfruits.blogspot.com/p/why-is-it-worth-growing-vegetables.html
+Brak linków w sekcji "post-body" dla strony: https://vegatablesandfruits.blogspot.com/p/why-is-it-worth-growing-vegetables.html
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/o-norwegii.html?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/o-norwegii.html?m=1
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/o-norwegii.html?m=1
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/kultura-i-historia-norwegii.html?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/kultura-i-historia-norwegii.html?m=1
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/kultura-i-historia-norwegii.html?m=1
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/gospodarka.html?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/gospodarka.html?m=1
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/gospodarka.html?m=1
+Przetwarzam stronę: https://norwayinhome.blogspot.com/p/przyroda.html?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://norwayinhome.blogspot.com/p/przyroda.html?m=1
+Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/p/przyroda.html?m=1
+Przetwarzam stronę: https://moldawiainhome.blogspot.com/p/o-modawii.html?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://moldawiainhome.blogspot.com/p/o-modawii.html?m=1
+Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/o-modawii.html?m=1
+Przetwarzam stronę: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.html?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.html?m=1
+Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/gospodarka-modawii.html?m=1
+Przetwarzam stronę: https://moldawiainhome.blogspot.com/p/kultura-modawii.html?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Strona załadowana: https://moldawiainhome.blogspot.com/p/kultura-modawii.html?m=1
+Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/kultura-modawii.html?m=1
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_pages.js - 2025-02-18T23:12:20.042Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,179 @@
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_posts.js - 2025-02-18T23:40:02.678Z
+Przetwarzam blog: https://akwariuminhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://akwariuminhome.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Błazenek (Amphiprion ocellaris)
+Przetwarzam blog: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://rumien.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Loratadyna - leczenie
+Przetwarzam blog: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://recenzjawiadomosci.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Kim naprawde był Kolumb - Max Kolonko i tajemnica podpisu Columba | MaxTV
+Przetwarzam blog: https://worldclones.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://worldclones.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Oryginał
+Przetwarzam blog: https://technologiawieku.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://technologiawieku.blogspot.com/
+Brak polecanych postów dla bloga: https://technologiawieku.blogspot.com/
+Przetwarzam blog: https://swiatgrzybow.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://swiatgrzybow.blogspot.com/
+Brak polecanych postów dla bloga: https://swiatgrzybow.blogspot.com/
+Przetwarzam blog: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://strefainternetu.blogspot.com/
+Brak polecanych postów dla bloga: https://strefainternetu.blogspot.com/
+Przetwarzam blog: https://norwayinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://norwayinhome.blogspot.com/
+Znaleziono 5 postów.
+Dodano polecany post: Norweska kuchnia: co warto spróbować, a co może zaskoczyć?
+Rekord już istnieje w bazie: https://norwayinhome.blogspot.com/2025/02/norweska-kuchnia-co-warto-sprobowac-co.html
+Pominięto post z pustym tytułem lub URL: {"url":"https://norwayinhome.blogspot.com/2025/02/norweska-kuchnia-co-warto-sprobowac-co.html","title":""}
+Rekord już istnieje w bazie: https://norwayinhome.blogspot.com/2025/02/norweska-kuchnia-co-warto-sprobowac-co.html
+Rekord już istnieje w bazie: https://norwayinhome.blogspot.com/2025/02/norweska-kuchnia-co-warto-sprobowac-co.html
+Przetwarzam blog: https://domoweziololecznictwo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://domoweziololecznictwo.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Bazylia pospolita (Ocimum basilicum)
+Przetwarzam blog: https://alternatywnamedycyna.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://alternatywnamedycyna.blogspot.com/
+Brak polecanych postów dla bloga: https://alternatywnamedycyna.blogspot.com/
+Przetwarzam blog: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://twojamodlitwa.blogspot.com/
+Brak polecanych postów dla bloga: https://twojamodlitwa.blogspot.com/
+Przetwarzam blog: https://gruzlica.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://gruzlica.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Gruźlica
+Przetwarzam blog: https://tytonie.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://tytonie.blogspot.com/
+Brak polecanych postów dla bloga: https://tytonie.blogspot.com/
+Przetwarzam blog: https://survivalinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://survivalinhome.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: How to Identify Edible Plants and Mushrooms
+Przetwarzam blog: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://poszedlem.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Podróż z Warszawy do Kiszyniowa: Lot i pierwsze kroki w Mołdawii cz.1
+Przetwarzam blog: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://aptekazielona.blogspot.com/
+Brak polecanych postów dla bloga: https://aptekazielona.blogspot.com/
+Przetwarzam blog: https://panelfotowoltaiczny.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://panelfotowoltaiczny.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Ukryte koszty fotowoltaiki: na co zwrócić uwagę przy wyborze instalatora?
+Przetwarzam blog: https://cryptocurrencyinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://cryptocurrencyinhome.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Jak kupić swoje pierwsze kryptowaluty: przewodnik dla początkujących
+Przetwarzam blog: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://choraskora.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Specyfiki w walce z łuszczycą
+Przetwarzam blog: https://tynkowy.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://tynkowy.blogspot.com/
+Brak polecanych postów dla bloga: https://tynkowy.blogspot.com/
+Przetwarzam blog: https://wyleczdepresje.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://wyleczdepresje.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Wpływ stylu życia na zdrowie psychiczne: dieta, ruch i sen.
+Przetwarzam blog: https://grzybicastop.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://grzybicastop.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Odzież i higiena w profilaktyce grzybicy.
+Przetwarzam blog: https://moldawiainhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://moldawiainhome.blogspot.com/
+Znaleziono 5 postów.
+Dodano polecany post: Zamek w Sorokach: Historia i współczesność mołdawskiej twierdzy
+Rekord już istnieje w bazie: https://moldawiainhome.blogspot.com/2025/02/zamek-w-sorokach-historia-i.html
+Pominięto post z pustym tytułem lub URL: {"url":"https://moldawiainhome.blogspot.com/2025/02/zamek-w-sorokach-historia-i.html","title":""}
+Rekord już istnieje w bazie: https://moldawiainhome.blogspot.com/2025/02/zamek-w-sorokach-historia-i.html
+Rekord już istnieje w bazie: https://moldawiainhome.blogspot.com/2025/02/zamek-w-sorokach-historia-i.html
+Przetwarzam blog: https://homeherbalmedicine.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://homeherbalmedicine.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Rugosa rose (Rosa rugosa)
+Przetwarzam blog: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://ptasiejajo.blogspot.com/
+Brak polecanych postów dla bloga: https://ptasiejajo.blogspot.com/
+Przetwarzam blog: https://linuxonhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://linuxonhome.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Jak zmienić środowisko graficzne w Linuxie: Przewodnik krok po kroku
+Przetwarzam blog: https://strategygamesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://strategygamesinhome.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: StarCraft (1998): The RTS That Changed Gaming Forever
+Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://vegatablesandfruits.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: Sungold Tomatoes
+Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://chineseheroesinhome.blogspot.com/
+Znaleziono 1 postów.
+Dodano polecany post: 項羽（西楚霸王）
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_posts.js - 2025-02-18T23:43:34.649Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------
