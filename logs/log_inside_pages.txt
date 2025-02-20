@@ -1,5 +1,5 @@
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_pages.js - 2025-02-18T23:01:03.537Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_pages.js - 2025-02-19T23:01:03.262Z
 Przetwarzam stronę: http://akwariuminhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -93,7 +93,7 @@ Brak linków w sekcji "post-body" dla strony: https://norwayinhome.blogspot.com/
 Przetwarzam stronę: 
 Restartowanie Tora...
 Tor został zrestartowany.
-Błąd podczas przetwarzania strony:  page.goto: Protocol error (Page.navigate): Invalid url: ""
+Błąd podczas przetwarzania strony:  page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
 Call log:
   - navigating to "", waiting until "domcontentloaded"
 
@@ -343,7 +343,7 @@ Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.co
 Przetwarzam stronę: 
 Restartowanie Tora...
 Tor został zrestartowany.
-Błąd podczas przetwarzania strony:  page.goto: Protocol error (Page.navigate): Invalid url: ""
+Błąd podczas przetwarzania strony:  page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
 Call log:
   - navigating to "", waiting until "domcontentloaded"
 
@@ -555,6 +555,6 @@ Tor został zrestartowany.
 Strona załadowana: https://moldawiainhome.blogspot.com/p/kultura-modawii.html?m=1
 Brak linków w sekcji "post-body" dla strony: https://moldawiainhome.blogspot.com/p/kultura-modawii.html?m=1
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_pages.js - 2025-02-18T23:12:20.042Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_pages.js - 2025-02-19T23:12:22.359Z
 Skrypt zakończony.
 -----------------------------------------------------------------------------------

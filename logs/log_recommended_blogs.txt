@@ -1,17 +1,17 @@
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_blogs.js - 2025-02-18T23:58:03.088Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_recommended_blogs.js - 2025-02-19T23:58:02.754Z
 Przetwarzam blog ID: 1, URL: https://akwariuminhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Otwieram stronę: https://akwariuminhome.blogspot.com/
 Pobieranie recommended blogs...
 Znaleziono 10 blogow.
+Dodano blogs: Meandry osobowości, światopogląd, humor, żart
+Dodano blogs: Jak przygotować się do sezonu warzywnego. Luty 2025.
 Dodano blogs: O roślinach, ziołach i bylinach - zastosowanie w leczeniu
 Dodano blogs: Wiązówka błotna
 Dodano blogs: Podróże, poznawanie świata, wąchanie przestrzeni
 Dodano blogs: Kraków - zwiedzanie Starego Miasta
-Dodano blogs: Meandry osobowości, światopogląd, humor, żart
-Dodano blogs: Degustacja win – na co zwrócić uwagę
 Dodano blogs: Grzyby jadalne, niejadalne, trujące grzybki
 Dodano blogs: Smardz jadalny (Morchella esculenta)
 Dodano blogs: Norwegia, praca, życie, przyroda w Norwegii
@@ -39,12 +39,12 @@ Tor został zrestartowany.
 Otwieram stronę: https://worldclones.blogspot.com/
 Pobieranie recommended blogs...
 Znaleziono 9 blogow.
+Dodano blogs: Meandry osobowości, światopogląd, humor, żart
+Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://ptasiejajo.blogspot.com/"}
+Dodano blogs: Jak przygotować się do sezonu warzywnego. Luty 2025.
 Dodano blogs: O roślinach, ziołach i bylinach
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/"}
 Dodano blogs: Wiązówka błotna
-Dodano blogs: Meandry osobowości, światopogląd, humor, żart
-Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://ptasiejajo.blogspot.com/"}
-Dodano blogs: Degustacja win – na co zwrócić uwagę
 Dodano blogs: Notatki publiczne - recenzje wiadomości
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/"}
 Dodano blogs: Adrian Zandberg - opis kandydata | POLSKA
@@ -60,10 +60,10 @@ Tor został zrestartowany.
 Otwieram stronę: https://swiatgrzybow.blogspot.com/
 Pobieranie recommended blogs...
 Znaleziono 6 blogow.
+Dodano blogs: Zioła, ziołolecznictwo, leki z Bożej apteki
+Dodano blogs: Barwinek pospolity (Vinca minor)
 Dodano blogs: O roślinach, ziołach i bylinach - zastosowanie w leczeniu
 Dodano blogs: Wiązówka błotna
-Dodano blogs: Zioła, ziołolecznictwo, leki z Bożej apteki
-Dodano blogs: Bazylia pospolita (Ocimum basilicum)
 Dodano blogs: Medycyna naturalna, medycyna chińska, alternatywna 🌿
 Dodano blogs: Energia meridianów: mapa ciała według medycyny chińskiej
 Przetwarzam blog ID: 7, URL: https://strefainternetu.blogspot.com/
@@ -77,7 +77,7 @@ Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://strefainte
 Dodano blogs: Jak skutecznie prowadzić kampanie reklamowe w internecie?
 Dodano blogs: Meandry osobowości, światopogląd, humor, żart
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://ptasiejajo.blogspot.com/"}
-Dodano blogs: Degustacja win – na co zwrócić uwagę
+Dodano blogs: Jak przygotować się do sezonu warzywnego. Luty 2025.
 Dodano blogs: Modlitwy na każdy dzień
 Pominięto blog z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/"}
 Dodano blogs: Litania do Najświętszego Imienia Jezus
@@ -241,6 +241,6 @@ Otwieram stronę: https://chineseheroesinhome.blogspot.com/
 Pobieranie recommended blogs...
 Brak recommended blogs dla bloga: https://chineseheroesinhome.blogspot.com/
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_blogs.js - 2025-02-19T00:01:09.358Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_recommended_blogs.js - 2025-02-20T00:01:30.538Z
 Skrypt zakończony.
 -----------------------------------------------------------------------------------

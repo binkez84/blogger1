@@ -1,5 +1,5 @@
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_label_links2.js - 2025-02-19T00:15:03.070Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_label_links2.js - 2025-02-20T00:15:03.087Z
 Restartowanie Tora...
 Tor został zrestartowany.
 Przetwarzanie bloga ID: 1, URL: https://akwariuminhome.blogspot.com/
@@ -153,7 +153,7 @@ Pominięto duplikat: wędrówka (https://worldclones.blogspot.com/search/label/w
 Restartowanie Tora...
 Tor został zrestartowany.
 Przetwarzanie bloga ID: 5, URL: https://technologiawieku.blogspot.com/
-Liczba znalezionych linków: 21
+Liczba znalezionych linków: 23
 Pominięto duplikat: 128-bit (https://technologiawieku.blogspot.com/search/label/128-bit)
 Pominięto duplikat: 5G (https://technologiawieku.blogspot.com/search/label/5G)
 Pominięto duplikat: AI (https://technologiawieku.blogspot.com/search/label/AI)
@@ -163,12 +163,14 @@ Pominięto duplikat: Blockchain (https://technologiawieku.blogspot.com/search/la
 Pominięto duplikat: chmura obliczeniowa (https://technologiawieku.blogspot.com/search/label/chmura%20obliczeniowa)
 Pominięto duplikat: ciekawostki (https://technologiawieku.blogspot.com/search/label/ciekawostki)
 Pominięto duplikat: cloud (https://technologiawieku.blogspot.com/search/label/cloud)
+Dodano link: grafika (https://technologiawieku.blogspot.com/search/label/grafika) [internal]
 Pominięto duplikat: internet (https://technologiawieku.blogspot.com/search/label/internet)
 Pominięto duplikat: IT (https://technologiawieku.blogspot.com/search/label/IT)
 Pominięto duplikat: komputery (https://technologiawieku.blogspot.com/search/label/komputery)
 Pominięto duplikat: kryptowaluty (https://technologiawieku.blogspot.com/search/label/kryptowaluty)
 Pominięto duplikat: medycyna (https://technologiawieku.blogspot.com/search/label/medycyna)
 Pominięto duplikat: nauka (https://technologiawieku.blogspot.com/search/label/nauka)
+Dodano link: photoshop (https://technologiawieku.blogspot.com/search/label/photoshop) [internal]
 Pominięto duplikat: procesory (https://technologiawieku.blogspot.com/search/label/procesory)
 Pominięto duplikat: sztuczna inteligencja (https://technologiawieku.blogspot.com/search/label/sztuczna%20inteligencja)
 Pominięto duplikat: technologia (https://technologiawieku.blogspot.com/search/label/technologia)
@@ -226,9 +228,10 @@ Pominięto duplikat: zorza polarna (https://norwayinhome.blogspot.com/search/lab
 Restartowanie Tora...
 Tor został zrestartowany.
 Przetwarzanie bloga ID: 9, URL: https://domoweziololecznictwo.blogspot.com/
-Liczba znalezionych linków: 23
+Liczba znalezionych linków: 24
 Pominięto duplikat: apteka (https://domoweziololecznictwo.blogspot.com/search/label/apteka)
 Pominięto duplikat: Babka lancetowata (https://domoweziololecznictwo.blogspot.com/search/label/Babka%20lancetowata)
+Dodano link: Barwinek pospolity (https://domoweziololecznictwo.blogspot.com/search/label/Barwinek%20pospolity) [internal]
 Pominięto duplikat: Bazylia pospolita (https://domoweziololecznictwo.blogspot.com/search/label/Bazylia%20pospolita)
 Pominięto duplikat: bluszczyk kurdybanek (https://domoweziololecznictwo.blogspot.com/search/label/bluszczyk%20kurdybanek)
 Pominięto duplikat: brzoza (https://domoweziololecznictwo.blogspot.com/search/label/brzoza)
@@ -581,7 +584,7 @@ Pominięto duplikat: White Dead-Nettle (https://homeherbalmedicine.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
-Liczba znalezionych linków: 120
+Liczba znalezionych linków: 124
 Pominięto duplikat: agresja (https://ptasiejajo.blogspot.com/search/label/agresja)
 Pominięto duplikat: badania (https://ptasiejajo.blogspot.com/search/label/badania)
 Pominięto duplikat: bagaże (https://ptasiejajo.blogspot.com/search/label/baga%C5%BCe)
@@ -633,6 +636,7 @@ Pominięto duplikat: mężczyzna (https://ptasiejajo.blogspot.com/search/label/m
 Pominięto duplikat: mieszkanie (https://ptasiejajo.blogspot.com/search/label/mieszkanie)
 Pominięto duplikat: Mojżesz (https://ptasiejajo.blogspot.com/search/label/Moj%C5%BCesz)
 Pominięto duplikat: muzyka (https://ptasiejajo.blogspot.com/search/label/muzyka)
+Dodano link: nasiona (https://ptasiejajo.blogspot.com/search/label/nasiona) [internal]
 Pominięto duplikat: natura (https://ptasiejajo.blogspot.com/search/label/natura)
 Pominięto duplikat: nierząd (https://ptasiejajo.blogspot.com/search/label/nierz%C4%85d)
 Pominięto duplikat: nietoperze (https://ptasiejajo.blogspot.com/search/label/nietoperze)
@@ -644,6 +648,7 @@ Pominięto duplikat: odkrycia (https://ptasiejajo.blogspot.com/search/label/odkr
 Pominięto duplikat: odpoczynek (https://ptasiejajo.blogspot.com/search/label/odpoczynek)
 Pominięto duplikat: odświeżanie (https://ptasiejajo.blogspot.com/search/label/od%C5%9Bwie%C5%BCanie)
 Pominięto duplikat: ogród (https://ptasiejajo.blogspot.com/search/label/ogr%C3%B3d)
+Dodano link: ogródek (https://ptasiejajo.blogspot.com/search/label/ogr%C3%B3dek) [internal]
 Pominięto duplikat: opalanie (https://ptasiejajo.blogspot.com/search/label/opalanie)
 Pominięto duplikat: pakunek (https://ptasiejajo.blogspot.com/search/label/pakunek)
 Pominięto duplikat: pento (https://ptasiejajo.blogspot.com/search/label/pento)
@@ -668,6 +673,7 @@ Pominięto duplikat: remonty (https://ptasiejajo.blogspot.com/search/label/remon
 Pominięto duplikat: restauracja (https://ptasiejajo.blogspot.com/search/label/restauracja)
 Pominięto duplikat: rocznice (https://ptasiejajo.blogspot.com/search/label/rocznice)
 Pominięto duplikat: równość (https://ptasiejajo.blogspot.com/search/label/r%C3%B3wno%C5%9B%C4%87)
+Dodano link: sadzenie (https://ptasiejajo.blogspot.com/search/label/sadzenie) [internal]
 Pominięto duplikat: savoi vivre (https://ptasiejajo.blogspot.com/search/label/savoi%20vivre)
 Pominięto duplikat: sedes (https://ptasiejajo.blogspot.com/search/label/sedes)
 Pominięto duplikat: social media (https://ptasiejajo.blogspot.com/search/label/social%20media)
@@ -686,6 +692,7 @@ Pominięto duplikat: travell (https://ptasiejajo.blogspot.com/search/label/trave
 Pominięto duplikat: trawnik (https://ptasiejajo.blogspot.com/search/label/trawnik)
 Pominięto duplikat: Trzech Króli (https://ptasiejajo.blogspot.com/search/label/Trzech%20Kr%C3%B3li)
 Pominięto duplikat: walizka (https://ptasiejajo.blogspot.com/search/label/walizka)
+Dodano link: warzywa (https://ptasiejajo.blogspot.com/search/label/warzywa) [internal]
 Pominięto duplikat: wiara (https://ptasiejajo.blogspot.com/search/label/wiara)
 Pominięto duplikat: wino nierządnicy (https://ptasiejajo.blogspot.com/search/label/wino%20nierz%C4%85dnicy)
 Pominięto duplikat: wirtualna rzeczywistość (https://ptasiejajo.blogspot.com/search/label/wirtualna%20rzeczywisto%C5%9B%C4%87)
@@ -731,7 +738,7 @@ Pominięto duplikat: optymalizacja (https://linuxonhome.blogspot.com/search/labe
 Pominięto duplikat: pamięć ram (https://linuxonhome.blogspot.com/search/label/pami%C4%99%C4%87%20ram)
 Pominięto duplikat: stare komputery (https://linuxonhome.blogspot.com/search/label/stare%20komputery)
 Pominięto duplikat: system operacyjny (https://linuxonhome.blogspot.com/search/label/system%20operacyjny)
-Dodano link: środowisko (https://linuxonhome.blogspot.com/search/label/%C5%9Brodowisko) [internal]
+Pominięto duplikat: środowisko (https://linuxonhome.blogspot.com/search/label/%C5%9Brodowisko)
 Pominięto duplikat: terminal (https://linuxonhome.blogspot.com/search/label/terminal)
 Pominięto duplikat: ubuntu (https://linuxonhome.blogspot.com/search/label/ubuntu)
 Pominięto duplikat: virtual Box (https://linuxonhome.blogspot.com/search/label/virtual%20Box)
@@ -767,6 +774,6 @@ Pominięto duplikat: 花木蘭是中國古代傳說中的巾幗英雄 (https://c
 Pominięto duplikat: 孫中山 (https://chineseheroesinhome.blogspot.com/search/label/%E5%AD%AB%E4%B8%AD%E5%B1%B1)
 Pominięto duplikat: 項羽（西楚霸王） (https://chineseheroesinhome.blogspot.com/search/label/%E9%A0%85%E7%BE%BD%EF%BC%88%E8%A5%BF%E6%A5%9A%E9%9C%B8%E7%8E%8B%EF%BC%89)
 Pominięto duplikat: 諸葛亮 (https://chineseheroesinhome.blogspot.com/search/label/%E8%AB%B8%E8%91%9B%E4%BA%AE)
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_label_links2.js - 2025-02-19T00:18:28.886Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_label_links2.js - 2025-02-20T00:18:26.789Z
 Skrypt zakończony.
 -----------------------------------------------------------------------------------

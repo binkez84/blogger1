@@ -1,4 +1,4 @@
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_archives1.js - 2025-02-18T22:10:03.182Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_archives1.js - 2025-02-19T22:10:02.279Z
 Znaleziono 29 blogów do przetworzenia.
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -42,7 +42,8 @@ Przetwarzanie bloga ID: 5, URL: https://technologiawieku.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 5
-Pobrano 5 postów dla bloga ID: 5
+Pobrano 6 postów dla bloga ID: 5
+Zapisano nowy post: Jak komputerowa grafika zmieniła świat reklamy?
 Post już istnieje: Wpływ komputerów na przemiany w medycynie
 Post już istnieje: Internet rzeczy (IoT) – jak urządzenia łączą się z...
 Post już istnieje: Sztuczna inteligencja w analizie danych – jak AI z...
@@ -79,7 +80,8 @@ Przetwarzanie bloga ID: 9, URL: https://domoweziololecznictwo.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 9
-Pobrano 2 postów dla bloga ID: 9
+Pobrano 3 postów dla bloga ID: 9
+Zapisano nowy post: Barwinek pospolity (Vinca minor)
 Post już istnieje: Bazylia pospolita (Ocimum basilicum)
 Post już istnieje: Robinia akacjowa (Robinia pseudoacacia)
 Restartowanie Tora...
@@ -215,7 +217,8 @@ Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 25
-Pobrano 2 postów dla bloga ID: 25
+Pobrano 3 postów dla bloga ID: 25
+Zapisano nowy post: Jak przygotować się do sezonu warzywnego. Luty 2025.
 Post już istnieje: Degustacja win – na co zwrócić uwagę
 Post już istnieje: Jak zachować się w renomowanej restauracji? Savoir...
 Restartowanie Tora...
@@ -225,7 +228,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Załadowano stronę bloga ID: 26
 Pobrano 6 postów dla bloga ID: 26
-Zapisano nowy post: Jak zmienić środowisko graficzne w Linuxie: Przewo...
+Post już istnieje: Jak zmienić środowisko graficzne w Linuxie: Przewo...
 Post już istnieje: Najlepsze dystrybucje Linuxa na stare komputery: T...
 Post już istnieje: Najlepsze środowiska graficzne na Linuxa: Wybierz ...
 Post już istnieje: Najlepsze aplikacje open-source na Androida: Alter...
@@ -259,6 +262,6 @@ Pobrano 2 postów dla bloga ID: 29
 Post już istnieje: 項羽（西楚霸王）
 Post już istnieje: 花木蘭是中國古代傳說中的巾幗英雄
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_archives1.js - 2025-02-18T22:13:21.620Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_archives1.js - 2025-02-19T22:13:06.417Z
 Skrypt zakończony.
 -----------------------------------------------------------------------------------

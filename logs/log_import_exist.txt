@@ -1,5 +1,5 @@
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_exist.js - 2025-02-18T22:09:02.843Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_exist.js - 2025-02-19T22:09:03.129Z
 Przetwarzam blog: https://akwariuminhome.blogspot.com/
 Brak Eksternal_sites.
 Brak Inside_pages.
@@ -320,5 +320,5 @@ Brak Recommended_blogs.
 Jest Sitemain_posts.
 Jest Posts.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_exist.js - 2025-02-18T22:09:03.857Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_exist.js - 2025-02-19T22:09:04.035Z
 Skrypt zakończony.

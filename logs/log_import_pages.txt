@@ -1,11 +1,11 @@
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_pages.js - 2025-02-18T22:45:03.397Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_pages.js - 2025-02-19T22:45:02.510Z
 Znaleziono 29 blogów do przetworzenia.
 Przetwarzanie bloga ID: 1, URL: https://akwariuminhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://akwariuminhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -19,7 +19,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://rumien.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -47,7 +47,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://worldclones.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -73,7 +73,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://swiatgrzybow.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -84,7 +84,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://strefainternetu.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -95,7 +95,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://norwayinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -122,7 +122,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://domoweziololecznictwo.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -133,7 +133,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://alternatywnamedycyna.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -150,17 +150,11 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
 Otwieranie strony: https://twojamodlitwa.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 6 stron dla bloga ID: 11
-Strona już istnieje: Strona główna
-Strona już istnieje: Spis modlitw
-Strona już istnieje: Nabożeństwa
-Strona już istnieje: Modlitwy audio
-Strona już istnieje: Z Watykanu - newsy
-Strona już istnieje: Artykuły
+Pobrano 0 stron dla bloga ID: 11
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 12, URL: https://gruzlica.blogspot.com/
 Restartowanie Tora...
@@ -178,22 +172,18 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
 Otwieranie strony: https://tytonie.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 4 stron dla bloga ID: 13
-Strona już istnieje: Strona główna
-Strona już istnieje: Akcesoria do robienia papierosów
-Strona już istnieje: Historia tytoniu
-Strona już istnieje: Różności
+Pobrano 0 stron dla bloga ID: 13
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 14, URL: https://survivalinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
 Otwieranie strony: https://survivalinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -204,7 +194,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://poszedlem.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -241,7 +231,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://cryptocurrencyinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -256,18 +246,24 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://choraskora.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 0 stron dla bloga ID: 19
+Pobrano 6 stron dla bloga ID: 19
+Strona już istnieje: Strona główna
+Strona już istnieje: Co to jest łuszczyca
+Strona już istnieje: Objawy
+Strona już istnieje: Przyczyny
+Strona już istnieje: Leczenie
+Strona już istnieje: Gdzie o pomoc
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 20, URL: https://tynkowy.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://tynkowy.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -287,7 +283,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
 Otwieranie strony: https://wyleczdepresje.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -304,18 +300,24 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://grzybicastop.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 0 stron dla bloga ID: 22
+Pobrano 6 stron dla bloga ID: 22
+Strona już istnieje: Strona główna
+Strona już istnieje: Co to jest grzybica stóp
+Strona już istnieje: Przyczyny grzybicy
+Strona już istnieje: Objawy grzybicy
+Strona już istnieje: Leczenie grzybicy
+Strona już istnieje: Gdzie o pomoc
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 23, URL: https://moldawiainhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://moldawiainhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -339,7 +341,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://homeherbalmedicine.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -361,7 +363,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://linuxonhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -379,7 +381,7 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://strategygamesinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
@@ -390,27 +392,23 @@ Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
 Otwieranie strony: https://vegatablesandfruits.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
-Pobrano 4 stron dla bloga ID: 28
-Strona już istnieje: Home
-Strona już istnieje: Where to start
-Strona już istnieje: List of vegetables
-Strona już istnieje: Why Is It Worth Growing Vegetables?
+Pobrano 0 stron dla bloga ID: 28
 Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 29, URL: https://chineseheroesinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki (name() {
     return this._initializer.name;
-  }) z User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+  }) z User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 Otwieranie strony: https://chineseheroesinhome.blogspot.com/
 Strona załadowana pomyślnie.
 Pobieranie linków z menu...
 Pobrano 0 stron dla bloga ID: 29
 Przeglądarka zamknięta.
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_pages.js - 2025-02-18T22:49:09.901Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_pages.js - 2025-02-19T22:49:39.756Z
 Skrypt zakończony.

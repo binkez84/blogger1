@@ -1,5 +1,5 @@
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_popular_posts.js - 2025-02-18T23:25:02.579Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_popular_posts.js - 2025-02-19T23:25:02.948Z
 Przetwarzam blog ID: 1, URL: https://akwariuminhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -26,8 +26,8 @@ Pobieranie popularnych postów...
 Znaleziono 4 postów.
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/2025/01/adrian-zandberg.html"}
 Dodano post: Adrian Zandberg - opis kandydata | POLSKA
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/2024/12/igrzyska-olimpijskie-paryz-2024-polska.html"}
-Dodano post: Igrzyska olimpijskie Paryż 2024 | POLSKA
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/2025/01/magdalena-biejat-opis-kandydata-polska.html"}
+Dodano post: Magdalena Biejat - opis kandydata | POLSKA
 Przetwarzam blog ID: 4, URL: https://worldclones.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -64,16 +64,16 @@ Pobieranie popularnych postów...
 Znaleziono 20 postów.
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/maslak-zwyczajny-suillus-luteus.html"}
 Dodano post: Maślak zwyczajny (Suillus luteus)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/02/smardz-jadalny-morchella-esculenta.html"}
+Dodano post: Smardz jadalny (Morchella esculenta)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/podgrzybek-brunatny-imleria-badia.html"}
 Dodano post: Podgrzybek brunatny (Imleria badia)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/pieprznik-jadalny-cantharellus-cibarius.html"}
 Dodano post: Pieprznik jadalny (Cantharellus cibarius)
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/02/smardz-jadalny-morchella-esculenta.html"}
-Dodano post: Smardz jadalny (Morchella esculenta)
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/czubajka-kania-macrolepiota-procera.html"}
-Dodano post: Czubajka kania (Macrolepiota procera)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/kozlarz-czerwony-leccinum-aurantiacum.html"}
 Dodano post: Koźlarz czerwony (Leccinum aurantiacum)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/czubajka-kania-macrolepiota-procera.html"}
+Dodano post: Czubajka kania (Macrolepiota procera)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/01/gaska-zielonka-tricholoma-equestre.html"}
 Dodano post: Gąska zielonka (Tricholoma equestre)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/borowik-szlachetny-boletus-edulis.html"}
@@ -144,10 +144,10 @@ Pobieranie popularnych postów...
 Znaleziono 9 postów.
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2014/08/rozaniec-swiety.html"}
 Dodano post: Różaniec Święty
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2014/08/chory-anielskie-cherubini-serafinowie.html"}
-Dodano post: Chóry anielskie, cherubini, serafinowie, archaniołowie | ARTYKUŁ
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2025/02/litania-do-najswietszego-imienia-jezus.html"}
 Dodano post: Litania do Najświętszego Imienia Jezus
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2014/08/chory-anielskie-cherubini-serafinowie.html"}
+Dodano post: Chóry anielskie, cherubini, serafinowie, archaniołowie | ARTYKUŁ
 Dodano post: Bez obaw - najsilniejsza tarcza, najsilniejsza "broń" - Różaniec Święty | Artykuł
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2014/06/przybadz-duchu-swiety.html"}
 Dodano post: Przybądź Duchu Święty
@@ -199,6 +199,8 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.
 Dodano post: Na Kopiec Kościuszki | Kraków
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/03/rzeka-checho.html"}
 Dodano post: Rzeka Chechło
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2025/01/wycieczka-do-koobrzegu-spacer-nad.html"}
+Dodano post: Wycieczka do Kołobrzegu: Spacer nad morzem i wizyta w muzeum lotnictwa
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/05/tuz-tuz-san-sebastian-san-pedro-i.html"}
 Dodano post: Tuż tuż San Sebastian - San Pedro i przeprawa promowa
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/06/wawoz-homole-szczawnica-i-okloce.html"}
@@ -207,8 +209,6 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.
 Dodano post: San Sebastian
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/05/cel-san-sebastian-w-drodze-do-santiago.html"}
 Dodano post: Cel San Sebastian - w drodze do Santiago de Compostela
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2025/01/wycieczka-do-koobrzegu-spacer-nad.html"}
-Dodano post: Wycieczka do Kołobrzegu: Spacer nad morzem i wizyta w muzeum lotnictwa
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2024/12/wycieczka-piesza-z-chrzanowa-do.html"}
 Dodano post: Wycieczka piesza z Chrzanowa do Wygiełzowa i zwiedzanie zamku
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2024/12/wizyta-w-palmiarni-w-poznaniu.html"}
@@ -223,10 +223,10 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekaziel
 Dodano post: Dzika róża
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/10/bylica-pioun.html"}
 Dodano post: Bylica piołun
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/06/grzybien-biay-lilia-wodna-nenufar.html"}
-Dodano post: Grzybień (Lilia wodna, Nenufar)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2025/02/wiazowka-botna.html"}
 Dodano post: Wiązówka błotna
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/06/grzybien-biay-lilia-wodna-nenufar.html"}
+Dodano post: Grzybień (Lilia wodna, Nenufar)
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/08/bobrek-trojlistkowy.html"}
 Dodano post: Bobrek trójlistkowy
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/08/arcydziegiel-litwor.html"}
@@ -285,6 +285,8 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepr
 Dodano post: Citalopram - leczenie
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/paroksetyna.html"}
 Dodano post: Paroksetyna
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2025/02/wpyw-stylu-zycia-na-zdrowie-psychiczne.html"}
+Dodano post: Wpływ stylu życia na zdrowie psychiczne: dieta, ruch i sen.
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/powszechnosc-depresji.html"}
 Dodano post: Powszechność depresji
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/fluoksetyna-leczenie.html"}
@@ -297,8 +299,6 @@ Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepr
 Dodano post: Różnice między depresją a chwilowym złym samopoczuciem
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/wenlafaksyna.html"}
 Dodano post: Wenlafaksyna
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2025/02/wpyw-stylu-zycia-na-zdrowie-psychiczne.html"}
-Dodano post: Wpływ stylu życia na zdrowie psychiczne: dieta, ruch i sen.
 Przetwarzam blog ID: 22, URL: https://grzybicastop.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -371,10 +371,10 @@ Pobieranie popularnych postów...
 Znaleziono 6 postów.
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/01/181234.html"}
 Dodano post: 諸葛亮（181年－234年）
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/02/blog-post_13.html"}
+Dodano post: 項羽（西楚霸王）
 Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/02/blog-post.html"}
 Dodano post: 花木蘭是中國古代傳說中的巾幗英雄
-Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/01/551-479.html"}
-Dodano post: 孔子（公元前551年-公元前479年）
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_popular_posts.js - 2025-02-18T23:28:13.041Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_popular_posts.js - 2025-02-19T23:28:19.191Z
 Skrypt zakończony.

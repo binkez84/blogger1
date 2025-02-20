@@ -1,5 +1,5 @@
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_sitemain_posts.js - 2025-02-19T00:30:03.691Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_sitemain_posts.js - 2025-02-20T00:30:03.453Z
 Przetwarzam blog: https://akwariuminhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -36,9 +36,9 @@ Przetwarzam blog: https://technologiawieku.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Jak komputerowa grafika zmieniła świat reklamy?
 Dodano post: Wpływ komputerów na przemiany w medycynie
 Dodano post: Internet rzeczy (IoT) – jak urządzenia łączą się ze sobą, by poprawić nasze życie
-Dodano post: Sztuczna inteligencja w analizie danych – jak AI zmienia sposób podejmowania decyzji
 Przetwarzam blog: https://swiatgrzybow.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -69,9 +69,9 @@ Przetwarzam blog: https://domoweziololecznictwo.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Barwinek pospolity (Vinca minor)
 Dodano post: Bazylia pospolita (Ocimum basilicum)
 Dodano post: Robinia akacjowa (Robinia pseudoacacia)
-Dodano post: Jasnota biała (Lamium album)
 Przetwarzam blog: https://alternatywnamedycyna.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -207,9 +207,9 @@ Przetwarzam blog: https://ptasiejajo.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Jak przygotować się do sezonu warzywnego. Luty 2025.
 Dodano post: Degustacja win – na co zwrócić uwagę
 Dodano post: Jak zachować się w renomowanej restauracji? Savoir-vivre i praktyczne wskazówki
-Dodano post: Przegląd architektury: walizki podróżne
 Przetwarzam blog: https://linuxonhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
@@ -248,6 +248,6 @@ Dodano post: 孫中山（1866年－1925年）
 Dodano post: 毛澤東
 Dodano post: 孔子（公元前551年-公元前479年）
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_sitemain_posts.js - 2025-02-19T00:33:27.683Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_sitemain_posts.js - 2025-02-20T00:33:36.575Z
 Skrypt zakończony.
 -----------------------------------------------------------------------------------
