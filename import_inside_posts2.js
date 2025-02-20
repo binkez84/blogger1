@@ -100,6 +100,9 @@ const pool = mysql.createPool({
         }
 
         for (const post of posts) {
+
+
+            console.log('==================>');            
             console.log(`Przetwarzam post: ${post.url}`);
 
             restartTor();
@@ -221,6 +224,7 @@ const pool = mysql.createPool({
     
     process.exit(0);
 })();
+
 
 
 

@@ -81,6 +81,9 @@ const restartTor = () => {
         }
 
         for (const blog of blogs) {
+
+
+            console.log('==================>');            
             restartTor();
 
             const { id: blogId, url: blogUrl } = blog;
@@ -220,4 +223,5 @@ const restartTor = () => {
         process.exit(0); // Wymuszone zakończenie skryptu
     }
 })();
+
 

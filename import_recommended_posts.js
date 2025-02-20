@@ -102,6 +102,9 @@ const normalizeUrl = (url) => {
     await connection.execute('ALTER TABLE Recommended_posts AUTO_INCREMENT = 1');
 
     for (const blog of blogs) {
+
+
+        console.log('==================>');        
         console.log(`Przetwarzam blog: ${blog.url}`);
         
         restartTor(); // Restart Tor przed każdą iteracją
@@ -237,6 +240,7 @@ const normalizeUrl = (url) => {
 
     
 })();
+
 
 
 

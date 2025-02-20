@@ -92,6 +92,9 @@ const getRandomBrowser = () => {
 
 
     for (const blog of blogs) {
+
+
+        console.log('==================>');        
         console.log(`Przetwarzam blog ID: ${blog.id}, URL: ${blog.url}`);
         
         restartTor(); // Restart Tor przed każdą iteracją
@@ -216,6 +219,7 @@ const getRandomBrowser = () => {
 
     
 })();
+
 
 
 

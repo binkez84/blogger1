@@ -96,6 +96,9 @@ function getRandomBrowser() {
     }
 
     for (const blog of blogs) {
+
+
+        console.log('==================>');        
         console.log(`Przetwarzam blog: ${blog.url}`);
 
         restartTor(); // Restart TOR
@@ -236,6 +239,7 @@ function getRandomBrowser() {
     process.exit(0); // Wymuszone zakończenie skryptu   
 
 })();
+
 
 
 

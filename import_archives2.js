@@ -92,6 +92,9 @@ const restartTor = () => {
     const getRandomUserAgent = () => userAgents[Math.floor(Math.random() * userAgents.length)];
 
     for (const blog of blogs) {
+
+
+        console.log('==================>');
         const { id: blogId, url: blogUrl } = blog;
 
         console.log(`Restarting Tor before processing blog ID: ${blogId}`);
@@ -228,6 +231,7 @@ const restartTor = () => {
 
     process.exit(0); // Wymuszone zakończenie skryptu
 })();
+
 
 
 

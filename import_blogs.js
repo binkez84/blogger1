@@ -103,6 +103,10 @@ const mobileUserAgent = 'Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit
 
         for (const blog of blogs) {
             try {
+
+                console.log('==================>');
+
+
                 // Sprawdź ostateczny URL dla desktopu
                 await desktopPage.goto(blog.url, { waitUntil: 'domcontentloaded' });
                 const desktopUrl = desktopPage.url();
@@ -170,6 +174,7 @@ const mobileUserAgent = 'Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit
 
 
 })();
+
 
 
 

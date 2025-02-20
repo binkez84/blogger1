@@ -108,6 +108,9 @@ const restartTor = () => {
 
 
     for (const blog of blogs) {
+
+
+        console.log('==================>');        
         const { id: blogId, url: blogUrl } = blog;
         console.log(`Przetwarzanie bloga ID: ${blogId}, URL: ${blogUrl}`);
 
@@ -204,6 +207,7 @@ const restartTor = () => {
 
 
 })();
+
 
 
 

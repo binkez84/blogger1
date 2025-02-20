@@ -87,6 +87,9 @@ const restartTor = () => {
     const getRandomUserAgent = () => userAgents[Math.floor(Math.random() * userAgents.length)];
 
     for (const blog of blogs) {
+
+        console.log('==================>');
+
         const { id: blogId, mobile_url: blogMobileUrl } = blog;
         console.log(`Przetwarzanie bloga ID: ${blogId}, URL: ${blogMobileUrl}`);
 
@@ -195,5 +198,6 @@ const restartTor = () => {
 
 
 })();
+
 
 

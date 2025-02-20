@@ -63,6 +63,9 @@ const { exec } = require('child_process');
 
 
     for (const blog of blogs) {
+
+        console.log('==================>');
+
         console.log(`Przetwarzam blog: ${blog.url}`);
 
         //////////Exist External_ites////////////
@@ -274,6 +277,7 @@ const { exec } = require('child_process');
     console.log('Przetwarzanie zakończone.');
     
 })();
+
 
 
 

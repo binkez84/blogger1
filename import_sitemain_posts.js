@@ -93,6 +93,9 @@ const getRandomBrowser = () => {
     await connection.execute('ALTER TABLE Sitemain_posts AUTO_INCREMENT = 1');
 
     for (const blog of blogs) {
+
+
+        console.log('==================>');        
         console.log(`Przetwarzam blog: ${blog.url}`);
 
         // Restart Tor przed każdą iteracją
@@ -241,6 +244,7 @@ const getRandomBrowser = () => {
 
 
 })();
+
 
 
 

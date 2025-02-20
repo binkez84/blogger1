@@ -95,6 +95,9 @@ const restartTor = () => {
     const getRandomUserAgent = () => userAgents[Math.floor(Math.random() * userAgents.length)];
 
     for (const pageRecord of pages) {
+
+
+        console.log('==================>');        
         console.log(`Przetwarzam stronę: ${pageRecord.url}`);
 
         restartTor();
@@ -216,6 +219,7 @@ const restartTor = () => {
     process.exit(0); // Wymuszone zakończenie skryptu
 
 })();
+
 
 
 

@@ -86,6 +86,8 @@ function getRandomBrowser() {
     const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0';
 
     for (const post of posts) {
+
+        console.log('==================>');        
         console.log(`Przetwarzam post: ${post.url}`);
 
         restartTor();
@@ -198,6 +200,7 @@ function getRandomBrowser() {
 
     
 })();
+
 
 
 
