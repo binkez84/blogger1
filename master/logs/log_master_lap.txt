@@ -145,3 +145,24 @@ Przeglądarka zamknięta.
 Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.

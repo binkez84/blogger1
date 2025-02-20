@@ -314,3 +314,22 @@ Error: ENOENT: no such file or directory, unlink '/tmp/tor_restart.lock'
 }
 
 Node.js v18.19.1
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_kom2.js - 2025-02-20T09:07:03.764Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (Linux; Android 9; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36
+Otwieranie strony: https://rumien.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Klikam losowy link: https://rumien.blogspot.com/2025/02/klarytromycyna-leczenie.html?m=1
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (Linux; Android 11; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Klikam losowy link: https://recenzjawiadomosci.blogspot.com/2025/01/adrian-zandberg.html?m=1

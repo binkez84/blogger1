@@ -665,3 +665,22 @@ Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/?m=1
 Restartowanie Tora...
 Tor został zrestartowany.
 Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://choraskora.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Klikam pierwszy link dotykiem: https://choraskora.blogspot.com/2025/02/przyczyny-uszczycy-co-wpywa-na-rozwoj.html?m=1
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://ptasiejajo.blogspot.com/?m=1
+Błąd podczas przetwarzania bloga ID: 25: page.goto: net::ERR_CONNECTION_RESET at https://ptasiejajo.blogspot.com/?m=1
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/?m=1", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas zakończenia (end) dla skryptu: meet_ads_kom.js - 2025-02-20T09:06:59.251Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
