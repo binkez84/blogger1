@@ -1,0 +1,181 @@
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_inside_posts2.js - 2025-02-24T22:25:03.999Z
+Przetwarzanie postów dla blog_id: 1
+==================>
+Przetwarzam post: https://akwariuminhome.blogspot.com/2025/02/pokolet-zoty-zebrasoma-flavescens.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://akwariuminhome.blogspot.com/2025/02/pokolet-zoty-zebrasoma-flavescens.html
+Przetwarzanie postów dla blog_id: 2
+==================>
+Przetwarzam post: https://rumien.blogspot.com/2025/02/objawy-rumienia-kiedy-warto-udac-sie-do.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://rumien.blogspot.com/2025/02/objawy-rumienia-kiedy-warto-udac-sie-do.html
+Przetwarzanie postów dla blog_id: 3
+==================>
+Przetwarzam post: https://recenzjawiadomosci.blogspot.com/2025/01/magdalena-biejat-opis-kandydata-polska.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://recenzjawiadomosci.blogspot.com/2025/01/magdalena-biejat-opis-kandydata-polska.html
+Przetwarzanie postów dla blog_id: 4
+==================>
+Przetwarzam post: https://worldclones.blogspot.com/2025/02/ku-nowej-epoce.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://worldclones.blogspot.com/2025/02/ku-nowej-epoce.html
+Przetwarzanie postów dla blog_id: 5
+==================>
+Przetwarzam post: https://technologiawieku.blogspot.com/2025/02/jak-powsta-i-rozwina-sie-system-linux.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://technologiawieku.blogspot.com/2025/02/jak-powsta-i-rozwina-sie-system-linux.html
+Przetwarzanie postów dla blog_id: 6
+==================>
+Przetwarzam post: https://swiatgrzybow.blogspot.com/2025/02/pachetka-zwyczajna-rozites-caperata.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://swiatgrzybow.blogspot.com/2025/02/pachetka-zwyczajna-rozites-caperata.html
+Przetwarzanie postów dla blog_id: 7
+==================>
+Przetwarzam post: https://strefainternetu.blogspot.com/2025/02/projektowanie-stron-www-od-pomysu-do.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://strefainternetu.blogspot.com/2025/02/projektowanie-stron-www-od-pomysu-do.html
+Przetwarzanie postów dla blog_id: 8
+==================>
+Przetwarzam post: https://norwayinhome.blogspot.com/2025/02/koszty-zycia-w-norwegii-w-2025-roku-jak.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://norwayinhome.blogspot.com/2025/02/koszty-zycia-w-norwegii-w-2025-roku-jak.html
+Przetwarzanie postów dla blog_id: 9
+==================>
+Przetwarzam post: https://domoweziololecznictwo.blogspot.com/2025/02/barwinek-pospolity-vinca-minor.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://domoweziololecznictwo.blogspot.com/2025/02/barwinek-pospolity-vinca-minor.html
+Przetwarzanie postów dla blog_id: 10
+==================>
+Przetwarzam post: https://alternatywnamedycyna.blogspot.com/2025/02/zioowe-apteczki-swiata-od-chinskich.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://alternatywnamedycyna.blogspot.com/2025/02/zioowe-apteczki-swiata-od-chinskich.html
+Przetwarzanie postów dla blog_id: 11
+==================>
+Przetwarzam post: https://twojamodlitwa.blogspot.com/2025/02/akt-pokuty.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://twojamodlitwa.blogspot.com/2025/02/akt-pokuty.html
+Przetwarzanie postów dla blog_id: 12
+==================>
+Przetwarzam post: https://gruzlica.blogspot.com/2025/02/jak-diagnozowana-jest-gruzlica-badania.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://gruzlica.blogspot.com/2025/02/jak-diagnozowana-jest-gruzlica-badania.html
+Przetwarzanie postów dla blog_id: 13
+==================>
+Przetwarzam post: https://tytonie.blogspot.com/2025/02/rothmans-blue.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://tytonie.blogspot.com/2025/02/rothmans-blue.html
+Przetwarzanie postów dla blog_id: 14
+==================>
+Przetwarzam post: https://survivalinhome.blogspot.com/2025/02/how-to-identify-edible-plants-and.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://survivalinhome.blogspot.com/2025/02/how-to-identify-edible-plants-and.html
+Przetwarzanie postów dla blog_id: 15
+==================>
+Przetwarzam post: https://poszedlem.blogspot.com/2025/02/krakow-zwiedzanie-starego-miasta.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://poszedlem.blogspot.com/2025/02/krakow-zwiedzanie-starego-miasta.html
+Przetwarzanie postów dla blog_id: 16
+==================>
+Przetwarzam post: https://aptekazielona.blogspot.com/2025/02/wiazowka-botna.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://aptekazielona.blogspot.com/2025/02/wiazowka-botna.html
+Przetwarzanie postów dla blog_id: 17
+==================>
+Przetwarzam post: https://panelfotowoltaiczny.blogspot.com/2025/02/czy-warto-inwestowac-w-system.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://panelfotowoltaiczny.blogspot.com/2025/02/czy-warto-inwestowac-w-system.html
+Przetwarzanie postów dla blog_id: 18
+==================>
+Przetwarzam post: https://cryptocurrencyinhome.blogspot.com/2025/02/jak-kupic-swoje-pierwsze-kryptowaluty.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://cryptocurrencyinhome.blogspot.com/2025/02/jak-kupic-swoje-pierwsze-kryptowaluty.html
+Przetwarzanie postów dla blog_id: 19
+==================>
+Przetwarzam post: https://choraskora.blogspot.com/2025/02/uszczyca-genetyka-czy-choroba-jest.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://choraskora.blogspot.com/2025/02/uszczyca-genetyka-czy-choroba-jest.html
+Przetwarzanie postów dla blog_id: 20
+==================>
+Przetwarzam post: https://tynkowy.blogspot.com/2014/06/images.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://tynkowy.blogspot.com/2014/06/images.html
+Przetwarzanie postów dla blog_id: 21
+==================>
+Przetwarzam post: https://wyleczdepresje.blogspot.com/2025/02/depresja-u-mezczyzn-dlaczego-czesto.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://wyleczdepresje.blogspot.com/2025/02/depresja-u-mezczyzn-dlaczego-czesto.html
+Przetwarzanie postów dla blog_id: 22
+==================>
+Przetwarzam post: https://grzybicastop.blogspot.com/2025/02/grzybica-u-dzieci-na-co-zwrocic-uwage-i.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://grzybicastop.blogspot.com/2025/02/grzybica-u-dzieci-na-co-zwrocic-uwage-i.html
+Przetwarzanie postów dla blog_id: 23
+==================>
+Przetwarzam post: https://moldawiainhome.blogspot.com/2025/02/modawska-goscinnosc-tradycje-i-zwyczaje.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://moldawiainhome.blogspot.com/2025/02/modawska-goscinnosc-tradycje-i-zwyczaje.html
+Przetwarzanie postów dla blog_id: 24
+==================>
+Przetwarzam post: https://homeherbalmedicine.blogspot.com/2025/02/comfrey-symphytum-officinale.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://homeherbalmedicine.blogspot.com/2025/02/comfrey-symphytum-officinale.html
+Przetwarzanie postów dla blog_id: 25
+==================>
+Przetwarzam post: https://ptasiejajo.blogspot.com/2025/02/jak-przygotowac-sie-do-sezonu.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://ptasiejajo.blogspot.com/2025/02/jak-przygotowac-sie-do-sezonu.html
+Przetwarzanie postów dla blog_id: 26
+==================>
+Przetwarzam post: https://linuxonhome.blogspot.com/2025/02/linux-na-komputerach-apple-jak.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: https://ubuntu.com/download
+Przetwarzanie postów dla blog_id: 27
+==================>
+Przetwarzam post: https://strategygamesinhome.blogspot.com/2025/02/starcraft-brood-war-1998-expansion-that.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://strategygamesinhome.blogspot.com/2025/02/starcraft-brood-war-1998-expansion-that.html
+Przetwarzanie postów dla blog_id: 28
+==================>
+Przetwarzam post: https://vegatablesandfruits.blogspot.com/2025/02/black-cherry.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://vegatablesandfruits.blogspot.com/2025/02/black-cherry.html
+Przetwarzanie postów dla blog_id: 29
+==================>
+Przetwarzam post: https://chineseheroesinhome.blogspot.com/2025/02/blog-post_13.html
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w sekcji "post-body" dla posta: https://chineseheroesinhome.blogspot.com/2025/02/blog-post_13.html
+Pula połączeń do bazy danych zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_inside_posts2.js - 2025-02-24T22:31:03.462Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------

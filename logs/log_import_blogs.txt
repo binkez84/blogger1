@@ -1,0 +1,62 @@
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_blogs.js - 2025-02-24T22:00:03.202Z
+==================>
+Blog już istnieje w bazie: Ryby akwariowe, akwarystyka, akwarium (Desktop: https://akwariuminhome.blogspot.com/, Mobile: https://akwariuminhome.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Rumień - leczenie, przyczyny, objawy (Desktop: https://rumien.blogspot.com/, Mobile: https://rumien.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Notatki publiczne - recenzje wiadomości (Desktop: https://recenzjawiadomosci.blogspot.com/, Mobile: https://recenzjawiadomosci.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: ŚWIAT KLONÓW | Opowiadania science-fiction (Desktop: https://worldclones.blogspot.com/, Mobile: https://worldclones.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Technologia, sprzęt, komputery (Desktop: https://technologiawieku.blogspot.com/, Mobile: https://technologiawieku.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Grzyby jadalne, niejadalne, trujące grzybki (Desktop: https://swiatgrzybow.blogspot.com/, Mobile: https://swiatgrzybow.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Blog - tworzenie stron, pozycjonowanie, marketing, SEO, social media (Desktop: https://strefainternetu.blogspot.com/, Mobile: https://strefainternetu.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Norwegia, praca, życie, przyroda w Norwegii (Desktop: https://norwayinhome.blogspot.com/, Mobile: https://norwayinhome.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Zioła, ziołolecznictwo, leki z Bożej apteki (Desktop: https://domoweziololecznictwo.blogspot.com/, Mobile: https://domoweziololecznictwo.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Medycyna naturalna, medycyna chińska, alternatywna 🌿 (Desktop: https://alternatywnamedycyna.blogspot.com/, Mobile: https://alternatywnamedycyna.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Modlitwy na każdy dzień (Desktop: https://twojamodlitwa.blogspot.com/, Mobile: https://twojamodlitwa.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Gruźlica - leczenie, objawy, przyczyny (Desktop: https://gruzlica.blogspot.com/, Mobile: https://gruzlica.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: 中國英雄、中國歷史等等 (Desktop: https://chineseheroesinhome.blogspot.com/, Mobile: https://chineseheroesinhome.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: TYTONIE ŚWIATA - mieszanki, rodzaje, odkrycia, opisy (Desktop: https://tytonie.blogspot.com/, Mobile: https://tytonie.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Survival,  camping, how to cope (Desktop: https://survivalinhome.blogspot.com/, Mobile: https://survivalinhome.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Podróże, poznawanie świata, wąchanie przestrzeni (Desktop: https://poszedlem.blogspot.com/, Mobile: https://poszedlem.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: O roślinach, ziołach i bylinach - zastosowanie w leczeniu (Desktop: https://aptekazielona.blogspot.com/, Mobile: https://aptekazielona.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Fotowoltaika, energia słoneczna, elektrownia, prąd (Desktop: https://panelfotowoltaiczny.blogspot.com/, Mobile: https://panelfotowoltaiczny.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Games strategy, the best game on the world (Desktop: https://strategygamesinhome.blogspot.com/, Mobile: https://strategygamesinhome.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Vegetables and fruits - home cultivation 🌽 🍅 (Desktop: https://vegatablesandfruits.blogspot.com/, Mobile: https://vegatablesandfruits.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: kryptowaluty, bitcoin, altcoiny, cryptocurrency (Desktop: https://cryptocurrencyinhome.blogspot.com/, Mobile: https://cryptocurrencyinhome.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Łuszczyca - leczenie, objawy, przyczyny (Desktop: https://choraskora.blogspot.com/, Mobile: https://choraskora.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Tynki - wszystko o tynkach, rodzaje (Desktop: https://tynkowy.blogspot.com/, Mobile: https://tynkowy.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Depresja, melancholia, choroba - leczenie,objawy (Desktop: https://wyleczdepresje.blogspot.com/, Mobile: https://wyleczdepresje.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Grzybica stóp - leczenie, objawy, przyczyny (Desktop: https://grzybicastop.blogspot.com/, Mobile: https://grzybicastop.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Mołdawia w pigułce, życie i praca w Mołdawii (Desktop: https://moldawiainhome.blogspot.com/, Mobile: https://moldawiainhome.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Herbalism, herbs, Remedies from God's pharmacy (Desktop: https://homeherbalmedicine.blogspot.com/, Mobile: https://homeherbalmedicine.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Meandry osobowości, światopogląd, humor, żart (Desktop: https://ptasiejajo.blogspot.com/, Mobile: https://ptasiejajo.blogspot.com/?m=1)
+==================>
+Blog już istnieje w bazie: Linux, system operacyjny, Windows, Android (Desktop: https://linuxonhome.blogspot.com/, Mobile: https://linuxonhome.blogspot.com/?m=1)
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_blogs.js - 2025-02-24T22:01:30.783Z
+Skrypt zakończony.

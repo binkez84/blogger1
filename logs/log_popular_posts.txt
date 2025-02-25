@@ -1,0 +1,409 @@
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_popular_posts.js - 2025-02-24T23:25:04.029Z
+==================>
+Przetwarzam blog ID: 1, URL: https://akwariuminhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://akwariuminhome.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://akwariuminhome.blogspot.com/2024/12/skalar-pterophyllum-scalare.html"}
+Dodano post: Skalar (Pterophyllum scalare)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://akwariuminhome.blogspot.com/2024/12/neon-innesa-paracheirodon-innesi.html"}
+Dodano post: Neon Innesa (Paracheirodon innesi)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://akwariuminhome.blogspot.com/2024/12/gupik-poecilia-reticulata.html"}
+Dodano post: Gupik (Poecilia reticulata)
+==================>
+Przetwarzam blog ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://rumien.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://rumien.blogspot.com/
+==================>
+Przetwarzam blog ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://recenzjawiadomosci.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 4 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/2025/01/adrian-zandberg.html"}
+Dodano post: Adrian Zandberg - opis kandydata | POLSKA
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://recenzjawiadomosci.blogspot.com/2025/01/magdalena-biejat-opis-kandydata-polska.html"}
+Dodano post: Magdalena Biejat - opis kandydata | POLSKA
+==================>
+Przetwarzam blog ID: 4, URL: https://worldclones.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://worldclones.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 10 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://worldclones.blogspot.com/2025/02/ku-nowej-epoce.html"}
+Dodano post: Ku Nowej Epoce
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://worldclones.blogspot.com/2015/10/jak-zyc-czyli-codzienne-rozterki.html"}
+Dodano post: Jak żyć, czyli codzienne rozterki mieszkańca Ziemi. | Klony cz.21 Opowiadania science-fiction
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://worldclones.blogspot.com/2024/12/podziemia-luminy.html"}
+Dodano post: Podziemia Luminy
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://worldclones.blogspot.com/2015/06/kto-gdzie-i-jak-odnajduje-sie-w.html"}
+Dodano post: Kto, gdzie i jak odnajduje się w systemie | Klony cz.14 Opowiadania science-fiction
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://worldclones.blogspot.com/2015/10/gwiazdy-sportu-w-drodze-na-sam-szczyt.html"}
+Dodano post: Gwiazdy sportu - w drodze na sam szczyt | Klony cz.23 Opowiadania science-fiction
+==================>
+Przetwarzam blog ID: 5, URL: https://technologiawieku.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://technologiawieku.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://technologiawieku.blogspot.com/2024/12/jak-powstay-pierwsze-mikroprocesory.html"}
+Dodano post: Jak powstały pierwsze mikroprocesory?
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://technologiawieku.blogspot.com/2024/12/bity-w-komputarze-32-64-128-256.html"}
+Dodano post: Bity w komputarze 32-bit, 64-bit, 128-bit, 256-bit ...?
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://technologiawieku.blogspot.com/2024/12/sztuczna-inteligencja-automatyzacja.html"}
+Dodano post: Sztuczna inteligencja a automatyzacja procesów
+==================>
+Przetwarzam blog ID: 6, URL: https://swiatgrzybow.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://swiatgrzybow.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 20 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/maslak-zwyczajny-suillus-luteus.html"}
+Dodano post: Maślak zwyczajny (Suillus luteus)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/02/smardz-jadalny-morchella-esculenta.html"}
+Dodano post: Smardz jadalny (Morchella esculenta)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/podgrzybek-brunatny-imleria-badia.html"}
+Dodano post: Podgrzybek brunatny (Imleria badia)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/pieprznik-jadalny-cantharellus-cibarius.html"}
+Dodano post: Pieprznik jadalny (Cantharellus cibarius)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/kozlarz-czerwony-leccinum-aurantiacum.html"}
+Dodano post: Koźlarz czerwony (Leccinum aurantiacum)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/czubajka-kania-macrolepiota-procera.html"}
+Dodano post: Czubajka kania (Macrolepiota procera)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/01/gaska-zielonka-tricholoma-equestre.html"}
+Dodano post: Gąska zielonka (Tricholoma equestre)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/borowik-szlachetny-boletus-edulis.html"}
+Dodano post: Borowik szlachetny (Boletus edulis)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2024/12/kozlarz-babka-leccinum-scabrum.html"}
+Dodano post: Koźlarz babka (Leccinum scabrum)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://swiatgrzybow.blogspot.com/2025/01/goabek-zielonawy-russula-virescens.html"}
+Dodano post: Gołąbek zielonawy (Russula virescens)
+==================>
+Przetwarzam blog ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://strefainternetu.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 20 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2025/02/jak-skutecznie-prowadzic-kampanie.html"}
+Dodano post: Jak skutecznie prowadzić kampanie reklamowe w internecie?
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2025/02/projektowanie-stron-www-od-pomysu-do.html"}
+Dodano post: Projektowanie stron www: Od pomysłu do realizacji
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/10/jak-napisac-dobrego-tweeta-social-media.html"}
+Dodano post: Jak napisać dobrego tweeta ? | SOCIAL MEDIA, TWITTER
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/06/dokumenty-pdf-na-stronie-pomocne-w.html"}
+Dodano post: Dokumenty PDF na stronie pomocne w dotarciu do użytkownika | POZYCJONOWANIE, SEO
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/07/darmowy-i-patny-hosting-www-porada.html"}
+Dodano post: Darmowy i płatny hosting WWW | PORADA, SERWERY, WEBMASTERING
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/06/remarketing-z-adwords-google-adwords.html"}
+Dodano post: Remarketing z Adwords | GOOGLE ADWORDS, REKLAMA
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/05/patnosci-internetowe-e-biznes-sklep.html"}
+Dodano post: Płatności internetowe | E-biznes, sklep internetowy
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/06/katalogowanie-stron-czy-to-dobry-sposob.html"}
+Dodano post: Katalogowanie stron - czy to dobry sposób na podniesienie wartości swojej strony | SEO, POZYCJONOWANIE
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/10/copywriting-rozne-ma-twarze-copywriting.html"}
+Dodano post: Copywriting różne ma twarze | COPYWRITING, CONTENT MARKETING
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strefainternetu.blogspot.com/2015/06/pisanie-tekstow-copywriting-copywriting.html"}
+Dodano post: Pisanie tekstów - copywriting | PORADA, COPYWRITING, CONTENT MARKETING
+==================>
+Przetwarzam blog ID: 8, URL: https://norwayinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://norwayinhome.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://norwayinhome.blogspot.com/
+==================>
+Przetwarzam blog ID: 9, URL: https://domoweziololecznictwo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://domoweziololecznictwo.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 10 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://domoweziololecznictwo.blogspot.com/2024/11/gwiazdnica-pospolita-stellaria-media.html"}
+Dodano post: Gwiazdnica pospolita (Stellaria media)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://domoweziololecznictwo.blogspot.com/2025/02/bazylia-pospolita-ocimum-basilicum.html"}
+Dodano post: Bazylia pospolita (Ocimum basilicum)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://domoweziololecznictwo.blogspot.com/2024/11/podbia-pospolity-tussilago-farfara.html"}
+Dodano post: Podbiał pospolity (Tussilago farfara)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://domoweziololecznictwo.blogspot.com/2024/12/czarna-porzeczka-ribes-nigrum.html"}
+Dodano post: Czarna porzeczka (Ribes nigrum)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://domoweziololecznictwo.blogspot.com/2024/12/stokrotka-pospolita-bellis-perennis.html"}
+Dodano post: Stokrotka pospolita (Bellis perennis)
+==================>
+Przetwarzam blog ID: 10, URL: https://alternatywnamedycyna.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://alternatywnamedycyna.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://alternatywnamedycyna.blogspot.com/
+==================>
+Przetwarzam blog ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://twojamodlitwa.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 9 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2014/08/rozaniec-swiety.html"}
+Dodano post: Różaniec Święty
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2025/02/litania-do-najswietszego-imienia-jezus.html"}
+Dodano post: Litania do Najświętszego Imienia Jezus
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2014/08/chory-anielskie-cherubini-serafinowie.html"}
+Dodano post: Chóry anielskie, cherubini, serafinowie, archaniołowie | ARTYKUŁ
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://twojamodlitwa.blogspot.com/2025/02/akt-pokuty.html"}
+Dodano post: Akt pokuty
+Dodano post: Bez obaw - najsilniejsza tarcza, najsilniejsza "broń" - Różaniec Święty | Artykuł
+==================>
+Przetwarzam blog ID: 12, URL: https://gruzlica.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://gruzlica.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://gruzlica.blogspot.com/
+==================>
+Przetwarzam blog ID: 13, URL: https://tytonie.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://tytonie.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 12 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://tytonie.blogspot.com/2014/05/topal.html"}
+Dodano post: Topal
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://tytonie.blogspot.com/2014/05/tennesie.html"}
+Dodano post: Tennesie
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://tytonie.blogspot.com/2014/08/santiago.html"}
+Dodano post: Santiago
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://tytonie.blogspot.com/2014/04/ld.html"}
+Dodano post: LD
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://tytonie.blogspot.com/2014/09/rodzaje-korsarz-czerwony-notka.html"}
+Dodano post: Korsarz
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://tytonie.blogspot.com/2014/08/grodzki.html"}
+Dodano post: Grodzki
+==================>
+Przetwarzam blog ID: 14, URL: https://survivalinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://survivalinhome.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://survivalinhome.blogspot.com/2025/02/how-to-identify-edible-plants-and.html"}
+Dodano post: How to Identify Edible Plants and Mushrooms
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://survivalinhome.blogspot.com/2025/02/how-to-make-survival-kit.html"}
+Dodano post: How to Make a Survival Kit
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://survivalinhome.blogspot.com/2025/01/top-10-survival-skills-everyone-should.html"}
+Dodano post: Top 10 Survival Skills Everyone Should Know
+==================>
+Przetwarzam blog ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://poszedlem.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 20 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2025/02/krakow-zwiedzanie-starego-miasta.html"}
+Dodano post: Kraków - zwiedzanie Starego Miasta
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2025/01/wycieczka-do-koobrzegu-spacer-nad.html"}
+Dodano post: Wycieczka do Kołobrzegu: Spacer nad morzem i wizyta w muzeum lotnictwa
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/05/na-kopiec-kosciuszki-krakow.html"}
+Dodano post: Na Kopiec Kościuszki | Kraków
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/03/rzeka-checho.html"}
+Dodano post: Rzeka Chechło
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/05/tuz-tuz-san-sebastian-san-pedro-i.html"}
+Dodano post: Tuż tuż San Sebastian - San Pedro i przeprawa promowa
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/06/wawoz-homole-szczawnica-i-okloce.html"}
+Dodano post: Wąwóz Homole | SZCZAWNICA I OKLOCE
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/05/san-sebastian.html"}
+Dodano post: San Sebastian
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2014/05/cel-san-sebastian-w-drodze-do-santiago.html"}
+Dodano post: Cel San Sebastian - w drodze do Santiago de Compostela
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2024/12/wycieczka-piesza-z-chrzanowa-do.html"}
+Dodano post: Wycieczka piesza z Chrzanowa do Wygiełzowa i zwiedzanie zamku
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://poszedlem.blogspot.com/2024/12/wizyta-w-palmiarni-w-poznaniu.html"}
+Dodano post: Wizyta w Palmiarni w Poznaniu
+==================>
+Przetwarzam blog ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://aptekazielona.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 12 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2025/02/wiazowka-botna.html"}
+Dodano post: Wiązówka błotna
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/05/dzika-roza.html"}
+Dodano post: Dzika róża
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/10/bylica-pioun.html"}
+Dodano post: Bylica piołun
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/06/grzybien-biay-lilia-wodna-nenufar.html"}
+Dodano post: Grzybień (Lilia wodna, Nenufar)
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/08/bobrek-trojlistkowy.html"}
+Dodano post: Bobrek trójlistkowy
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://aptekazielona.blogspot.com/2014/08/arcydziegiel-litwor.html"}
+Dodano post: Arcydzięgiel litwor
+==================>
+Przetwarzam blog ID: 17, URL: https://panelfotowoltaiczny.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://panelfotowoltaiczny.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 12 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/jak-dziaa-instalacja-fotowoltaiczna.html"}
+Dodano post: Jak działa instalacja fotowoltaiczna? Proste wyjaśnienie dla każdego
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2025/02/ukryte-koszty-fotowoltaiki-na-co.html"}
+Dodano post: Ukryte koszty fotowoltaiki: na co zwrócić uwagę przy wyborze instalatora?
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/czy-warto-inwestowac-w-panele.html"}
+Dodano post: Czy warto inwestować w panele fotowoltaiczne w 2024 roku?
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/jak-dziaa-instalacja-fotowoltaiczna.html"}
+Dodano post: Jak działa instalacja fotowoltaiczna? Proste wyjaśnienie dla każdego
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2025/02/ukryte-koszty-fotowoltaiki-na-co.html"}
+Dodano post: Ukryte koszty fotowoltaiki: na co zwrócić uwagę przy wyborze instalatora?
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://panelfotowoltaiczny.blogspot.com/2024/12/czy-warto-inwestowac-w-panele.html"}
+Dodano post: Czy warto inwestować w panele fotowoltaiczne w 2024 roku?
+==================>
+Przetwarzam blog ID: 18, URL: https://cryptocurrencyinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://cryptocurrencyinhome.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://cryptocurrencyinhome.blogspot.com/2024/12/mining-kryptowalut-czy-to-jeszcze.html"}
+Dodano post: Mining kryptowalut – czy to jeszcze opłacalne? Przegląd sprzętu i kosztów w 2024 roku
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://cryptocurrencyinhome.blogspot.com/2024/12/czym-sa-altcoiny-5-mniej-znanych.html"}
+Dodano post: Czym są altcoiny? 5 mniej znanych kryptowalut, które mogą zyskać na wartości
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://cryptocurrencyinhome.blogspot.com/2025/02/jak-kupic-swoje-pierwsze-kryptowaluty.html"}
+Dodano post: Jak kupić swoje pierwsze kryptowaluty: przewodnik dla początkujących
+==================>
+Przetwarzam blog ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://choraskora.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://choraskora.blogspot.com/
+==================>
+Przetwarzam blog ID: 20, URL: https://tynkowy.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://tynkowy.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://tynkowy.blogspot.com/
+==================>
+Przetwarzam blog ID: 21, URL: https://wyleczdepresje.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://wyleczdepresje.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 20 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/czym-jest-depresja.html"}
+Dodano post: Czym jest depresja
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/citalopram-leczenie.html"}
+Dodano post: Citalopram - leczenie
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/paroksetyna.html"}
+Dodano post: Paroksetyna
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2025/02/wpyw-stylu-zycia-na-zdrowie-psychiczne.html"}
+Dodano post: Wpływ stylu życia na zdrowie psychiczne: dieta, ruch i sen.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/powszechnosc-depresji.html"}
+Dodano post: Powszechność depresji
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/fluoksetyna-leczenie.html"}
+Dodano post: Fluoksetyna - leczenie
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/sertralina-leczenie.html"}
+Dodano post: Sertralina - leczenie
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/escitalopram-leczenie.html"}
+Dodano post: Escitalopram - leczenie
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2025/01/roznice-miedzy-depresja-chwilowym-zym.html"}
+Dodano post: Różnice między depresją a chwilowym złym samopoczuciem
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://wyleczdepresje.blogspot.com/2024/12/wenlafaksyna.html"}
+Dodano post: Wenlafaksyna
+==================>
+Przetwarzam blog ID: 22, URL: https://grzybicastop.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://grzybicastop.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://grzybicastop.blogspot.com/
+==================>
+Przetwarzam blog ID: 23, URL: https://moldawiainhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://moldawiainhome.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://moldawiainhome.blogspot.com/
+==================>
+Przetwarzam blog ID: 24, URL: https://homeherbalmedicine.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://homeherbalmedicine.blogspot.com/
+Pobieranie popularnych postów...
+Brak popularnych postów dla bloga: https://homeherbalmedicine.blogspot.com/
+==================>
+Przetwarzam blog ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://ptasiejajo.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 4 postów.
+Dodano post: Jak odstraszyć ptactwo (czyt.wrony i kruki) z naszego podwórka ...
+Dodano post: Efekt Pawłowa - odruchy bezwarunkowe | PSYCHOLOGIA SPOŁECZNA
+Dodano post: Cela więzienna - czyli jak poradzić sobie na dołku
+Dodano post: Degustacja win – na co zwrócić uwagę
+==================>
+Przetwarzam blog ID: 26, URL: https://linuxonhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://linuxonhome.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://linuxonhome.blogspot.com/2024/12/jak-zainstalowac-ubuntu-na-starym.html"}
+Dodano post: Jak zainstalować Ubuntu na starym laptopie?
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://linuxonhome.blogspot.com/2024/12/instalacja-linux-na-wirtualnej-maszynie.html"}
+Dodano post: Instalacja Linux na wirtualnej maszynie | VIRTUAL BOX
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://linuxonhome.blogspot.com/2025/01/najlepsze-srodowiska-graficzne-na.html"}
+Dodano post: Najlepsze środowiska graficzne na Linuxa: Które wybrać?
+==================>
+Przetwarzam blog ID: 27, URL: https://strategygamesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://strategygamesinhome.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strategygamesinhome.blogspot.com/2025/01/civilization-1991-birth-of-legendary.html"}
+Dodano post: Civilization (1991): The Birth of a Legendary Strategy Series
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strategygamesinhome.blogspot.com/2025/02/starcraft-1998-rts-that-changed-gaming.html"}
+Dodano post: StarCraft (1998): The RTS That Changed Gaming Forever
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://strategygamesinhome.blogspot.com/2025/02/civilization-iii-2001-new-era-of.html"}
+Dodano post: Civilization III (2001): A New Era of Strategy and Diplomacy
+==================>
+Przetwarzam blog ID: 28, URL: https://vegatablesandfruits.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://vegatablesandfruits.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://vegatablesandfruits.blogspot.com/2025/01/sungold-tomatoes.html"}
+Dodano post: Sungold Tomatoes
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://vegatablesandfruits.blogspot.com/2025/02/deer-tongue.html"}
+Dodano post: Deer Tongue
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://vegatablesandfruits.blogspot.com/2025/01/growing-sweet-100-tomatoes-at-home.html"}
+Dodano post: Growing Sweet 100 Tomatoes at Home
+==================>
+Przetwarzam blog ID: 29, URL: https://chineseheroesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieram stronę: https://chineseheroesinhome.blogspot.com/
+Pobieranie popularnych postów...
+Znaleziono 6 postów.
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/01/181234.html"}
+Dodano post: 諸葛亮（181年－234年）
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/02/blog-post_13.html"}
+Dodano post: 項羽（西楚霸王）
+Pominięto post z pustym tytułem lub URL: {"title":"","url":"https://chineseheroesinhome.blogspot.com/2025/02/blog-post.html"}
+Dodano post: 花木蘭是中國古代傳說中的巾幗英雄
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_popular_posts.js - 2025-02-24T23:30:48.267Z
+Skrypt zakończony.

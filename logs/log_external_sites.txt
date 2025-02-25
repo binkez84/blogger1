@@ -1,0 +1,191 @@
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_external_sites.js - 2025-02-25T00:45:03.401Z
+==================>
+Przetwarzam blog: https://akwariuminhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://akwariuminhome.blogspot.com/
+==================>
+Przetwarzam blog: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: ziołolecznictwo (https://domoweziololecznictwo.blogspot.com/)
+Pominięto duplikat: medycyna chińska (https://alternatywnamedycyna.blogspot.com/)
+Pominięto duplikat: Gruźlica (https://gruzlica.blogspot.com/)
+Pominięto duplikat: łuszczyca (https://choraskora.blogspot.com/)
+Pominięto duplikat: grzybica (https://grzybicastop.blogspot.com/)
+Pominięto duplikat: herbal medicine (https://homeherbalmedicine.blogspot.com/)
+==================>
+Przetwarzam blog: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Seo marketing (https://strefainternetu.blogspot.com/)
+Pominięto duplikat: Remont łazienki Jaworzno (https://elerem.pl/oferta)
+Pominięto duplikat: Linux - systemy (https://linuxonhome.blogspot.com/)
+Pominięto duplikat: Sprzęt komputerowy (https://technologiawieku.blogspot.com/)
+Pominięto duplikat: Chińscy bohaterowie (https://chineseheroesinhome.blogspot.com/)
+==================>
+Przetwarzam blog: https://worldclones.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://worldclones.blogspot.com/
+==================>
+Przetwarzam blog: https://technologiawieku.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Linux (https://linuxonhome.blogspot.com/)
+Pominięto duplikat: Kryptowaluty (https://cryptocurrencyinhome.blogspot.com/)
+Pominięto duplikat: Fotowoltaika (https://panelfotowoltaiczny.blogspot.com/)
+Pominięto duplikat: Seo, e-marketing (https://strefainternetu.blogspot.com/)
+==================>
+Przetwarzam blog: https://swiatgrzybow.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://swiatgrzybow.blogspot.com/
+==================>
+Przetwarzam blog: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://strefainternetu.blogspot.com/
+==================>
+Przetwarzam blog: https://norwayinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://norwayinhome.blogspot.com/
+==================>
+Przetwarzam blog: https://domoweziololecznictwo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://domoweziololecznictwo.blogspot.com/
+==================>
+Przetwarzam blog: https://alternatywnamedycyna.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://alternatywnamedycyna.blogspot.com/
+==================>
+Przetwarzam blog: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Rybki akwariowe (https://akwariuminhome.blogspot.com/)
+Pominięto duplikat: Grzyby (https://swiatgrzybow.blogspot.com/)
+Pominięto duplikat: Ziołolecznictwo (https://domoweziololecznictwo.blogspot.com/)
+Pominięto duplikat: Życie w Mołdawi (https://moldawiainhome.blogspot.com/)
+Pominięto duplikat: Leczenie ziołami (https://aptekazielona.blogspot.com/)
+==================>
+Przetwarzam blog: https://gruzlica.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://gruzlica.blogspot.com/
+==================>
+Przetwarzam blog: https://tytonie.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Zioła (https://aptekazielona.blogspot.com/)
+Pominięto duplikat: Humor (https://ptasiejajo.blogspot.com/)
+==================>
+Przetwarzam blog: https://survivalinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://survivalinhome.blogspot.com/
+==================>
+Przetwarzam blog: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Apteka zielona (https://aptekazielona.blogspot.com/)
+Pominięto duplikat: Grzybica paznokci (https://choraskora.blogspot.com/)
+Pominięto duplikat: Humor (https://ptasiejajo.blogspot.com/)
+Pominięto duplikat: Notatki publiczne (https://recenzjawiadomosci.blogspot.com/)
+Pominięto duplikat: Seo marketing (https://strefainternetu.blogspot.com/)
+Pominięto duplikat: Modlitwa na każdy dzień (https://twojamodlitwa.blogspot.com/)
+Pominięto duplikat: Tynki (https://tynkowy.blogspot.com/)
+Pominięto duplikat: Rumień (https://rumien.blogspot.com/)
+==================>
+Przetwarzam blog: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://aptekazielona.blogspot.com/
+==================>
+Przetwarzam blog: https://panelfotowoltaiczny.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://panelfotowoltaiczny.blogspot.com/
+==================>
+Przetwarzam blog: https://cryptocurrencyinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://cryptocurrencyinhome.blogspot.com/
+==================>
+Przetwarzam blog: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://choraskora.blogspot.com/
+==================>
+Przetwarzam blog: https://tynkowy.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://tynkowy.blogspot.com/
+==================>
+Przetwarzam blog: https://wyleczdepresje.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Leczenie ziołami (https://aptekazielona.blogspot.com/)
+Pominięto duplikat: Zapobieganie łuszczycy (https://choraskora.blogspot.com/)
+Pominięto duplikat: Medycyna alternatywna (https://alternatywnamedycyna.blogspot.com/)
+Pominięto duplikat: Opis rzeczywistości humor (https://ptasiejajo.blogspot.com/)
+Pominięto duplikat: Książeczka internetowa (https://twojamodlitwa.blogspot.com/)
+Pominięto duplikat: Remont łazienki Jaworzno (https://elerem.pl/)
+Pominięto duplikat: Tutoriale www (https://strefainternetu.blogspot.com/)
+Pominięto duplikat: Tynki nieorganiczne (https://tynkowy.blogspot.com/)
+Pominięto duplikat: Notatki publicystyczne (https://recenzjawiadomosci.blogspot.com/)
+==================>
+Przetwarzam blog: https://grzybicastop.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://grzybicastop.blogspot.com/
+==================>
+Przetwarzam blog: https://moldawiainhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://moldawiainhome.blogspot.com/
+==================>
+Przetwarzam blog: https://homeherbalmedicine.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: łuszczyca - leczenie (https://choraskora.blogspot.com/)
+Pominięto duplikat: Pół żartem (https://ptasiejajo.blogspot.com/)
+Pominięto duplikat: Newsy (https://recenzjawiadomosci.blogspot.com/)
+Pominięto duplikat: Create www (https://strefainternetu.blogspot.com/)
+Pominięto duplikat: Modlitwy online (https://twojamodlitwa.blogspot.com/)
+Pominięto duplikat: Tynki organiczne (https://tynkowy.blogspot.com/)
+==================>
+Przetwarzam blog: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Pozycjonowanie stron (https://strefainternetu.blogspot.com/)
+Pominięto duplikat: ziołolecznictwo (https://domoweziololecznictwo.blogspot.com/)
+==================>
+Przetwarzam blog: https://linuxonhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://linuxonhome.blogspot.com/
+==================>
+Przetwarzam blog: https://strategygamesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://strategygamesinhome.blogspot.com/
+==================>
+Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Pominięto duplikat: Remont łazienki Jaworzno (https://elerem.pl/oferta)
+Pominięto duplikat: Jokes (https://ptasiejajo.blogspot.com/)
+Pominięto duplikat: Building (https://tynkowy.blogspot.com/)
+==================>
+Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Brak linków w LinkList1/LinkList2 na blogu: https://chineseheroesinhome.blogspot.com/
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_external_sites.js - 2025-02-25T00:50:58.833Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------
