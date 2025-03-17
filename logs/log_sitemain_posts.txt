@@ -1,22 +1,21 @@
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (start) dla skryptu: import_sitemain_posts.js - 2025-02-25T00:30:04.235Z
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_sitemain_posts.js - 2025-03-16T00:30:13.277Z
 ==================>
 Przetwarzam blog: https://akwariuminhome.blogspot.com/
-Restartowanie Tora...
-Tor został zrestartowany.
+Tor jest już restartowany.
 Znaleziono 3 postów.
+Dodano post: Korys błękitny (Paracanthurus hepatus)
 Dodano post: Pokolet żółty (Zebrasoma flavescens)
 Dodano post: Błazenek (Amphiprion ocellaris)
-Dodano post: Danio pręgowany (Danio rerio)
 ==================>
 Przetwarzam blog: https://rumien.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 4 postów.
+Dodano post: Pasta z kurkumy na rumień: jak ją zrobić i stosować?
+Dodano post: Domowe sposoby na łagodzenie objawów rumienia
 Dodano post: Objawy rumienia: kiedy warto udać się do lekarza?
 Dodano post: Co to jest rumień? Rodzaje i podstawowe informacje
-Dodano post: Klarytromycyna - leczenie
-Dodano post: Leczenie rumienia za pomocą Penicylina
 ==================>
 Przetwarzam blog: https://recenzjawiadomosci.blogspot.com/
 Restartowanie Tora...
@@ -41,149 +40,154 @@ Przetwarzam blog: https://technologiawieku.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Złota era komputerów w latach 80-90: Commodore, Amiga, Atari
+Dodano post: Historia kart graficznych
 Dodano post: Jak powstał i rozwinął się system Linux?
-Dodano post: Jak komputerowa grafika zmieniła świat reklamy?
-Dodano post: Wpływ komputerów na przemiany w medycynie
 ==================>
 Przetwarzam blog: https://swiatgrzybow.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Trufla letnia (Tuber aestivum)
 Dodano post: Płachetka zwyczajna (Rozites caperata)
 Dodano post: Smardz jadalny (Morchella esculenta)
-Dodano post: Gołąbek zielonawy (Russula virescens)
 ==================>
 Przetwarzam blog: https://strefainternetu.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
-Znaleziono 4 postów.
-Dodano post: Projektowanie stron www: Od pomysłu do realizacji
-Dodano post: Jak skutecznie prowadzić kampanie reklamowe w internecie?
-Dodano post: SEO 2024: Najnowsze trendy i techniki optymalizacji
-Dodano post: Tworzenie responsywnych stron www – krok po kroku
+Błąd podczas przetwarzania bloga: https://strefainternetu.blogspot.com/ page.goto: Peer failed to perform TLS handshake: The TLS connection was non-properly terminated.
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24 {
+  name: 'Error'
+}
 ==================>
 Przetwarzam blog: https://norwayinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Najpiękniejsze fiordy Norwegii, które musisz zobaczyć
 Dodano post: Koszty życia w Norwegii w 2025 roku: jak planować budżet?
 Dodano post: Norweska kuchnia: co warto spróbować, a co może zaskoczyć?
 Dodano post: Życie w Norwegii oczami Polaka: różnice kulturowe i codzienność
 Dodano post: Jak znaleźć pracę w Norwegii: poradnik dla początkujących
 Dodano post: Ekologiczna Norwegia: energia odnawialna i ochrona przyrody
 Dodano post: Norweskie smaki: co warto spróbować?
-Dodano post: Norwegia – raj dla miłośników aktywności na świeżym powietrzu
 ==================>
 Przetwarzam blog: https://domoweziololecznictwo.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Chaber bławatek (Centaurea cyanus)
+Dodano post: Berberys zwyczajny (Berberis vulgaris)
 Dodano post: Barwinek pospolity (Vinca minor)
-Dodano post: Bazylia pospolita (Ocimum basilicum)
-Dodano post: Robinia akacjowa (Robinia pseudoacacia)
 ==================>
 Przetwarzam blog: https://alternatywnamedycyna.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Detoksykacja organizmu: fakty i mity
 Dodano post: Ziołowe apteczki świata – od chińskich korzeni po polskie łąki
 Dodano post: Energia meridianów: mapa ciała według medycyny chińskiej
 Dodano post: Aromaterapia – jak zapachy mogą poprawić zdrowie?
 Dodano post: Naturalne sposoby na wzmocnienie odporności
 Dodano post: Tai chi i qigong – medytacja w ruchu dla każdego
 Dodano post: Technika oddechowa - koci grzbiet
-Dodano post: 5 prostych technik oddechowych na lepsze zdrowie i spokój
 ==================>
 Przetwarzam blog: https://twojamodlitwa.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 1 postów.
-Dodano post: Akt pokuty
+Dodano post: Psalm 121
 ==================>
 Przetwarzam blog: https://gruzlica.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 4 postów.
+Dodano post: Profilaktyka gruźlicy: Jak się chronić?
+Dodano post: Gruźlica wśród dzieci: Jak rozpoznać i leczyć?
 Dodano post: Jak diagnozowana jest gruźlica? Badania i testy
 Dodano post: Wyzwania w leczeniu gruźlicy opornej na leki
-Dodano post: Leczenie gruźlicy: Jakie metody są obecnie stosowane?
-Dodano post: Gruźlica płucna vs gruźlica pozapłucna: Różnice i diagnoza
 ==================>
 Przetwarzam blog: https://tytonie.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 5 postów.
+Dodano post: West Red
+Dodano post: Pueblo Classic
 Dodano post: Rothmans Blue
 Dodano post: Camel
 Dodano post: L&M
-Dodano post: P&S Black
-Dodano post: TURNER DARK
 ==================>
 Przetwarzam blog: https://survivalinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Surviving a Wilderness Emergency: Step-by-Step Guide
+Dodano post: What to Do If You Get Lost in the Wild
 Dodano post: How to Identify Edible Plants and Mushrooms
 Dodano post: How to Navigate Using a Compass and Map
 Dodano post: How to Make a Survival Kit
 Dodano post: Basic First Aid Skills for Campers
 Dodano post: How to Start a Fire Without Matches
-Dodano post: How to Find Water in the Wild
-Dodano post: Top 10 Survival Skills Everyone Should Know
 ==================>
 Przetwarzam blog: https://poszedlem.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Wizyta w Kościele Mariackim w Krakowie: Msza, koncert i zwiedzanie
 Dodano post: Kraków - zwiedzanie Starego Miasta
 Dodano post: Wycieczka do Kołobrzegu: Spacer nad morzem i wizyta w muzeum lotnictwa
 Dodano post: Hostel Budda: Powitanie i pierwsze wrażenia cz.2
 Dodano post: Podróż z Warszawy do Kiszyniowa: Lot i pierwsze kroki w Mołdawii cz.1
 Dodano post: Wizyta w Kryspinowie nad zalewem: Wycieczka rowerowa z Chrzanowa
 Dodano post: Wizyta w Czernej: Wędrówka, klasztor i Dolina Eljasza
-Dodano post: Spacer nad Balatonem w Trzebinii: Leżakowanie i zapiekanka
 ==================>
 Przetwarzam blog: https://aptekazielona.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 5 postów.
+Dodano post: Pięciornik - kurze ziele
 Dodano post: Wiązówka błotna
 Dodano post: Śliwa tarnina
 Dodano post: Podbiał pospolity
 Dodano post: Bluszczyk kurdybanek
-Dodano post: Prawoślaz
 ==================>
 Przetwarzam blog: https://panelfotowoltaiczny.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Panele fotowoltaiczne a ochrona środowiska – dlaczego to ma znaczenie?
 Dodano post: Czy warto inwestować w system magazynowania energii przy fotowoltaice?
 Dodano post: Ukryte koszty fotowoltaiki: na co zwrócić uwagę przy wyborze instalatora?
 Dodano post: Wybór inwertera fotowoltaicznego: najważniejsze parametry i rodzaje
 Dodano post: Jak przebiega instalacja fotowoltaiki krok po kroku?
 Dodano post: Ile kosztuje instalacja fotowoltaiczna? Przegląd kosztów w 2024 roku
 Dodano post: Porównanie: system opustów a net-billing – co się zmieniło?
-Dodano post: Programy dofinansowania fotowoltaiki w Polsce – jak z nich skorzystać?
 ==================>
 Przetwarzam blog: https://cryptocurrencyinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Porównanie popularnych portfeli kryptowalutowych (hardware i software)
+Dodano post: Bezpieczeństwo w świecie kryptowalut: Jak chronić swoje inwestycje?
 Dodano post: Jak kupić swoje pierwsze kryptowaluty: przewodnik dla początkujących
 Dodano post: Najpopularniejsze kryptowaluty w 2025 roku: przegląd rynku
 Dodano post: Bitomaty: Jak działają i gdzie je znaleźć?
 Dodano post: Historia Bitcoina: od idei do rewolucji finansowej
 Dodano post: Jak zacząć inwestować w kryptowaluty? Poradnik dla początkujących
-Dodano post: Blockchain w praktyce – jak kryptowaluty zmieniają świat finansów i nie tylko
-Dodano post: Mining kryptowalut – czy to jeszcze opłacalne? Przegląd sprzętu i kosztów w 2024 roku
 ==================>
 Przetwarzam blog: https://choraskora.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
-Znaleziono 3 postów.
-Dodano post: Łuszczyca a genetyka: Czy choroba jest dziedziczna?
-Dodano post: Przyczyny łuszczycy: Co wpływa na rozwój tej choroby?
-Dodano post: Objawy łuszczycy: Jak rozpoznać tę chorobę?
+Błąd podczas przetwarzania bloga: https://choraskora.blogspot.com/ page.goto: net::ERR_SOCKS_CONNECTION_FAILED at https://choraskora.blogspot.com/
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24 {
+  name: 'Error'
+}
 ==================>
 Przetwarzam blog: https://tynkowy.blogspot.com/
 Restartowanie Tora...
@@ -195,88 +199,379 @@ Przetwarzam blog: https://wyleczdepresje.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
-Dodano post: Depresja u mężczyzn – dlaczego często jest niezauważalna?
-Dodano post: Wpływ stylu życia na zdrowie psychiczne: dieta, ruch i sen.
-Dodano post: Jak radzić sobie z porannym uczuciem smutku i apatii?
+Dodano post: Terapia Behawioralna: Skuteczna Metoda Walki z Depresją
+Dodano post: Samotność w tłumie: jak unikać izolacji emocjonalnej?
+Dodano post: Lęk i depresja: jak często występują razem?
 ==================>
 Przetwarzam blog: https://grzybicastop.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 2 postów.
-Dodano post: Grzybica u dzieci - na co zwrócić uwagę i jak leczyć?
-Dodano post: Odzież i higiena w profilaktyce grzybicy.
+Dodano post: Grzybica pochwy – objawy, leczenie i mity
+Dodano post: Jak wybrać skuteczny preparat przeciwgrzybiczy?
 ==================>
 Przetwarzam blog: https://moldawiainhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Transport w Mołdawii: Jak poruszać się po kraju? (pociągi, marszrutki, wynajem auta)
 Dodano post: Mołdawska gościnność: Tradycje i zwyczaje w relacjach z mieszkańcami
 Dodano post: Zamek w Sorokach: Historia i współczesność mołdawskiej twierdzy
 Dodano post: Naddniestrze: Czy warto odwiedzić ten separatystyczny region?
 Dodano post: Winnice Cricova i Mileștii Mici: Odkrywanie podziemnych korytarzy wina
 Dodano post: Codzienne życie w Mołdawii: Jak wygląda praca, zarobki i koszty życia?
 Dodano post: Tyraspol: Stolica nieuznawanego Naddniestrza – co warto zobaczyć?
-Dodano post: Kiszyniów: 7 miejsc, które musisz zobaczyć w stolicy Mołdawii
 ==================>
 Przetwarzam blog: https://homeherbalmedicine.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
-Znaleziono 5 postów.
-Dodano post: Comfrey (Symphytum officinale)
-Dodano post: Rugosa rose (Rosa rugosa)
-Dodano post: Black Locust (Robinia pseudoacacia)
-Dodano post: White Dead-Nettle (Lamium album)
-Dodano post: Ribwort Plantain (Plantago lanceolata)
+Błąd podczas przetwarzania bloga: https://homeherbalmedicine.blogspot.com/ page.goto: NS_ERROR_PROXY_CONNECTION_REFUSED
+Call log:
+  - navigating to "https://homeherbalmedicine.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24 {
+  name: 'Error'
+}
 ==================>
 Przetwarzam blog: https://ptasiejajo.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
-Dodano post: Jak przygotować się do sezonu warzywnego. Luty 2025.
-Dodano post: Degustacja win – na co zwrócić uwagę
-Dodano post: Jak zachować się w renomowanej restauracji? Savoir-vivre i praktyczne wskazówki
+Dodano post: Pierwsze podrygi wiosny – zrobiło się cieplej! 😊
+Dodano post: Pomysł na ściany w kuchni – pomoc przy remoncie
+Dodano post: Przegląd 10 narzędzi, które mogą przydać się w kuchni
 ==================>
 Przetwarzam blog: https://linuxonhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 3 postów.
+Dodano post: Najlepsze lekkie dystrybucje Linuxa dla starszych komputerów
+Dodano post: Najlepsze aplikacje terminalowe na Linuxa: 10 narzędzi, które warto znać
 Dodano post: Linux na komputerach Apple: Jak zainstalować Linuxa na MacBooku?
-Dodano post: Jak zmienić środowisko graficzne w Linuxie: Przewodnik krok po kroku
-Dodano post: Najlepsze dystrybucje Linuxa na stare komputery: Tchnij nowe życie w swój sprzęt
 ==================>
 Przetwarzam blog: https://strategygamesinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: Civilization V (2010): A Bold Reinvention of the Strategy Classic
 Dodano post: StarCraft: Brood War (1998): The Expansion That Perfected a Legend
 Dodano post: StarCraft (1998): The RTS That Changed Gaming Forever
 Dodano post: Civilization IV (2005): A Masterpiece in Strategy Gaming
 Dodano post: Civilization III (2001): A New Era of Strategy and Diplomacy
 Dodano post: Civilization II (1996): A Worthy Successor to a Legend
 Dodano post: Civilization (1991): The Birth of a Legendary Strategy Series
-Dodano post: Age of Mythology (2002): Where Legends Come to Life
 ==================>
 Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 4 postów.
+Dodano post: Yellow Pear
 Dodano post: Black Cherry
 Dodano post: Deer Tongue
 Dodano post: Batavia Lettuce (Summer Crisp)
-Dodano post: Crisphead Lettuce (Iceberg)
 ==================>
 Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
 Znaleziono 7 postów.
+Dodano post: 杜甫（詩聖）
+Dodano post: 李白（詩仙）
 Dodano post: 項羽（西楚霸王）
 Dodano post: 花木蘭是中國古代傳說中的巾幗英雄
 Dodano post: 諸葛亮（181年－234年）
 Dodano post: 諸葛亮（181年－234年）
 Dodano post: 孫中山（1866年－1925年）
-Dodano post: 毛澤東
-Dodano post: 孔子（公元前551年-公元前479年）
 Połączono z bazą danych.
-Zaktualizowano czas uruchomienia (end) dla skryptu: import_sitemain_posts.js - 2025-02-25T00:35:51.350Z
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_sitemain_posts.js - 2025-03-16T00:39:26.153Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (start) dla skryptu: import_sitemain_posts.js - 2025-03-17T00:30:14.881Z
+==================>
+Przetwarzam blog: https://akwariuminhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Błąd podczas przetwarzania bloga: https://akwariuminhome.blogspot.com/ page.goto: NS_ERROR_ABORT
+Call log:
+  - navigating to "https://akwariuminhome.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24 {
+  name: 'Error'
+}
+==================>
+Przetwarzam blog: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 4 postów.
+Dodano post: Pasta z kurkumy na rumień: jak ją zrobić i stosować?
+Dodano post: Domowe sposoby na łagodzenie objawów rumienia
+Dodano post: Objawy rumienia: kiedy warto udać się do lekarza?
+Dodano post: Co to jest rumień? Rodzaje i podstawowe informacje
+==================>
+Przetwarzam blog: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 4 postów.
+Dodano post: Adrian Zandberg - opis kandydata | POLSKA
+Dodano post: Magdalena Biejat - opis kandydata | POLSKA
+Dodano post: Marek Jakubiak - opis kandydata | POLSKA
+Dodano post: Szymon Hołownia - opis kandydata | POLSKA
+==================>
+Przetwarzam blog: https://worldclones.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Błąd podczas przetwarzania bloga: https://worldclones.blogspot.com/ page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://worldclones.blogspot.com/
+Call log:
+  - navigating to "https://worldclones.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24 {
+  name: 'Error'
+}
+==================>
+Przetwarzam blog: https://technologiawieku.blogspot.com/
+Tor jest już restartowany.
+Znaleziono 3 postów.
+Dodano post: Złota era komputerów w latach 80-90: Commodore, Amiga, Atari
+Dodano post: Historia kart graficznych
+Dodano post: Jak powstał i rozwinął się system Linux?
+==================>
+Przetwarzam blog: https://swiatgrzybow.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Błąd podczas przetwarzania bloga: https://swiatgrzybow.blogspot.com/ page.goto: Could not connect to proxy server 127.0.0.1: Connection refused
+Call log:
+  - navigating to "https://swiatgrzybow.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24 {
+  name: 'Error'
+}
+==================>
+Przetwarzam blog: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 4 postów.
+Dodano post: E-marketing i content marketing: Jak połączyć je dla lepszych wyników
+Dodano post: Narzędzia SEO, które ułatwią Ci pozycjonowanie
+Dodano post: Projektowanie stron www: Od pomysłu do realizacji
+Dodano post: Jak skutecznie prowadzić kampanie reklamowe w internecie?
+==================>
+Przetwarzam blog: https://norwayinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Błąd podczas przetwarzania bloga: https://norwayinhome.blogspot.com/ page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://norwayinhome.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24
+==================>
+Przetwarzam blog: https://domoweziololecznictwo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 3 postów.
+Dodano post: Chaber bławatek (Centaurea cyanus)
+Dodano post: Berberys zwyczajny (Berberis vulgaris)
+Dodano post: Barwinek pospolity (Vinca minor)
+==================>
+Przetwarzam blog: https://alternatywnamedycyna.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: Detoksykacja organizmu: fakty i mity
+Dodano post: Ziołowe apteczki świata – od chińskich korzeni po polskie łąki
+Dodano post: Energia meridianów: mapa ciała według medycyny chińskiej
+Dodano post: Aromaterapia – jak zapachy mogą poprawić zdrowie?
+Dodano post: Naturalne sposoby na wzmocnienie odporności
+Dodano post: Tai chi i qigong – medytacja w ruchu dla każdego
+Dodano post: Technika oddechowa - koci grzbiet
+==================>
+Przetwarzam blog: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Błąd podczas przetwarzania bloga: https://twojamodlitwa.blogspot.com/ page.goto: NS_ERROR_ABORT
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+    at /home/ubuntu/test1/import_sitemain_posts.js:130:24 {
+  name: 'Error'
+}
+==================>
+Przetwarzam blog: https://gruzlica.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 4 postów.
+Dodano post: Profilaktyka gruźlicy: Jak się chronić?
+Dodano post: Gruźlica wśród dzieci: Jak rozpoznać i leczyć?
+Dodano post: Jak diagnozowana jest gruźlica? Badania i testy
+Dodano post: Wyzwania w leczeniu gruźlicy opornej na leki
+==================>
+Przetwarzam blog: https://tytonie.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 5 postów.
+Dodano post: West Red
+Dodano post: Pueblo Classic
+Dodano post: Rothmans Blue
+Dodano post: Camel
+Dodano post: L&M
+==================>
+Przetwarzam blog: https://survivalinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: Surviving a Wilderness Emergency: Step-by-Step Guide
+Dodano post: What to Do If You Get Lost in the Wild
+Dodano post: How to Identify Edible Plants and Mushrooms
+Dodano post: How to Navigate Using a Compass and Map
+Dodano post: How to Make a Survival Kit
+Dodano post: Basic First Aid Skills for Campers
+Dodano post: How to Start a Fire Without Matches
+==================>
+Przetwarzam blog: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: Wizyta w Kościele Mariackim w Krakowie: Msza, koncert i zwiedzanie
+Dodano post: Kraków - zwiedzanie Starego Miasta
+Dodano post: Wycieczka do Kołobrzegu: Spacer nad morzem i wizyta w muzeum lotnictwa
+Dodano post: Hostel Budda: Powitanie i pierwsze wrażenia cz.2
+Dodano post: Podróż z Warszawy do Kiszyniowa: Lot i pierwsze kroki w Mołdawii cz.1
+Dodano post: Wizyta w Kryspinowie nad zalewem: Wycieczka rowerowa z Chrzanowa
+Dodano post: Wizyta w Czernej: Wędrówka, klasztor i Dolina Eljasza
+==================>
+Przetwarzam blog: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 5 postów.
+Dodano post: Pięciornik - kurze ziele
+Dodano post: Wiązówka błotna
+Dodano post: Śliwa tarnina
+Dodano post: Podbiał pospolity
+Dodano post: Bluszczyk kurdybanek
+==================>
+Przetwarzam blog: https://panelfotowoltaiczny.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: Panele fotowoltaiczne a ochrona środowiska – dlaczego to ma znaczenie?
+Dodano post: Czy warto inwestować w system magazynowania energii przy fotowoltaice?
+Dodano post: Ukryte koszty fotowoltaiki: na co zwrócić uwagę przy wyborze instalatora?
+Dodano post: Wybór inwertera fotowoltaicznego: najważniejsze parametry i rodzaje
+Dodano post: Jak przebiega instalacja fotowoltaiki krok po kroku?
+Dodano post: Ile kosztuje instalacja fotowoltaiczna? Przegląd kosztów w 2024 roku
+Dodano post: Porównanie: system opustów a net-billing – co się zmieniło?
+==================>
+Przetwarzam blog: https://cryptocurrencyinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: Porównanie popularnych portfeli kryptowalutowych (hardware i software)
+Dodano post: Bezpieczeństwo w świecie kryptowalut: Jak chronić swoje inwestycje?
+Dodano post: Jak kupić swoje pierwsze kryptowaluty: przewodnik dla początkujących
+Dodano post: Najpopularniejsze kryptowaluty w 2025 roku: przegląd rynku
+Dodano post: Bitomaty: Jak działają i gdzie je znaleźć?
+Dodano post: Historia Bitcoina: od idei do rewolucji finansowej
+Dodano post: Jak zacząć inwestować w kryptowaluty? Poradnik dla początkujących
+==================>
+Przetwarzam blog: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 3 postów.
+Dodano post: Leczenie łuszczycy: Przegląd dostępnych metod terapeutycznych.
+Dodano post: Łuszczyca a genetyka: Czy choroba jest dziedziczna?
+Dodano post: Przyczyny łuszczycy: Co wpływa na rozwój tej choroby?
+==================>
+Przetwarzam blog: https://tynkowy.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 1 postów.
+Dodano post: Zdjęcia poglądowe
+==================>
+Przetwarzam blog: https://wyleczdepresje.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 3 postów.
+Dodano post: Terapia Behawioralna: Skuteczna Metoda Walki z Depresją
+Dodano post: Samotność w tłumie: jak unikać izolacji emocjonalnej?
+Dodano post: Lęk i depresja: jak często występują razem?
+==================>
+Przetwarzam blog: https://grzybicastop.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 2 postów.
+Dodano post: Grzybica pochwy – objawy, leczenie i mity
+Dodano post: Jak wybrać skuteczny preparat przeciwgrzybiczy?
+==================>
+Przetwarzam blog: https://moldawiainhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: Transport w Mołdawii: Jak poruszać się po kraju? (pociągi, marszrutki, wynajem auta)
+Dodano post: Mołdawska gościnność: Tradycje i zwyczaje w relacjach z mieszkańcami
+Dodano post: Zamek w Sorokach: Historia i współczesność mołdawskiej twierdzy
+Dodano post: Naddniestrze: Czy warto odwiedzić ten separatystyczny region?
+Dodano post: Winnice Cricova i Mileștii Mici: Odkrywanie podziemnych korytarzy wina
+Dodano post: Codzienne życie w Mołdawii: Jak wygląda praca, zarobki i koszty życia?
+Dodano post: Tyraspol: Stolica nieuznawanego Naddniestrza – co warto zobaczyć?
+==================>
+Przetwarzam blog: https://homeherbalmedicine.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 5 postów.
+Dodano post: Ginger (Zingiber officinale)
+Dodano post: Tormentil (Potentilla erecta)
+Dodano post: Comfrey (Symphytum officinale)
+Dodano post: Rugosa rose (Rosa rugosa)
+Dodano post: Black Locust (Robinia pseudoacacia)
+==================>
+Przetwarzam blog: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 3 postów.
+Dodano post: Pierwsze podrygi wiosny – zrobiło się cieplej! 😊
+Dodano post: Pomysł na ściany w kuchni – pomoc przy remoncie
+Dodano post: Przegląd 10 narzędzi, które mogą przydać się w kuchni
+==================>
+Przetwarzam blog: https://linuxonhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 3 postów.
+Dodano post: Najlepsze lekkie dystrybucje Linuxa dla starszych komputerów
+Dodano post: Najlepsze aplikacje terminalowe na Linuxa: 10 narzędzi, które warto znać
+Dodano post: Linux na komputerach Apple: Jak zainstalować Linuxa na MacBooku?
+==================>
+Przetwarzam blog: https://strategygamesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: Civilization V (2010): A Bold Reinvention of the Strategy Classic
+Dodano post: StarCraft: Brood War (1998): The Expansion That Perfected a Legend
+Dodano post: StarCraft (1998): The RTS That Changed Gaming Forever
+Dodano post: Civilization IV (2005): A Masterpiece in Strategy Gaming
+Dodano post: Civilization III (2001): A New Era of Strategy and Diplomacy
+Dodano post: Civilization II (1996): A Worthy Successor to a Legend
+Dodano post: Civilization (1991): The Birth of a Legendary Strategy Series
+==================>
+Przetwarzam blog: https://vegatablesandfruits.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 4 postów.
+Dodano post: Yellow Pear
+Dodano post: Black Cherry
+Dodano post: Deer Tongue
+Dodano post: Batavia Lettuce (Summer Crisp)
+==================>
+Przetwarzam blog: https://chineseheroesinhome.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Znaleziono 7 postów.
+Dodano post: 杜甫（詩聖）
+Dodano post: 李白（詩仙）
+Dodano post: 項羽（西楚霸王）
+Dodano post: 花木蘭是中國古代傳說中的巾幗英雄
+Dodano post: 諸葛亮（181年－234年）
+Dodano post: 諸葛亮（181年－234年）
+Dodano post: 孫中山（1866年－1925年）
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: import_sitemain_posts.js - 2025-03-17T00:39:41.168Z
 Skrypt zakończony.
 -----------------------------------------------------------------------------------
