@@ -36419,3 +36419,3400 @@ Znaleziono 8 blogów z ads do przetworzenia.
 Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
 Restartowanie Tora...
 Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:12:48.057Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:15:03.224Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: net::ERR_CONNECTION_RESET at https://aptekazielona.blogspot.com/
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:17:29.342Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:20:09.124Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: net::ERR_CONNECTION_RESET at https://recenzjawiadomosci.blogspot.com/
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: net::ERR_CONNECTION_RESET at https://aptekazielona.blogspot.com/
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:22:26.566Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:25:09.629Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:27:44.854Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:30:10.439Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: net::ERR_CONNECTION_RESET at https://twojamodlitwa.blogspot.com/
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:32:41.209Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:35:04.565Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: net::ERR_SOCKS_CONNECTION_FAILED at https://twojamodlitwa.blogspot.com/
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:37:46.563Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:40:05.943Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: net::ERR_CONNECTION_RESET at https://choraskora.blogspot.com/
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:42:38.346Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:45:07.131Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:47:47.211Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:50:07.057Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:52:27.433Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:55:07.672Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: net::ERR_CONNECTION_RESET at https://strefainternetu.blogspot.com/
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:58:09.926Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:00:09.587Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: net::ERR_CONNECTION_RESET at https://ptasiejajo.blogspot.com/
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:02:43.970Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:05:06.750Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: Connection to SOCKSv5 proxy server lost
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:09:25.560Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:10:05.006Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:12:46.533Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:15:03.311Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: net::ERR_CONNECTION_RESET at https://ptasiejajo.blogspot.com/
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:18:01.714Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:20:09.387Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://choraskora.blogspot.com/
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:23:21.682Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:25:08.990Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: net::ERR_CONNECTION_RESET at https://rumien.blogspot.com/
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: net::ERR_CONNECTION_RESET at https://strefainternetu.blogspot.com/
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:27:05.179Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:30:07.969Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:32:35.059Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:35:04.107Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: net::ERR_CONNECTION_RESET at https://ptasiejajo.blogspot.com/
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:37:49.567Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:40:06.899Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: Connection to SOCKSv5 proxy server lost
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://twojamodlitwa.blogspot.com/
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: net::ERR_CONNECTION_RESET at https://choraskora.blogspot.com/
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:42:49.856Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:45:10.204Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:47:48.462Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:50:05.615Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:53:18.067Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T09:55:05.523Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T09:58:07.685Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:00:09.971Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:02:28.600Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:05:05.239Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: NS_ERROR_ABORT
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: Connection terminated unexpectedly
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:07:48.267Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:10:04.017Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: net::ERR_CONNECTION_RESET at https://ptasiejajo.blogspot.com/
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:13:09.620Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:15:04.534Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:18:14.704Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:20:11.839Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: NS_ERROR_PROXY_CONNECTION_REFUSED
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:22:39.219Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:25:08.079Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 15: page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://poszedlem.blogspot.com/
+Call log:
+  - navigating to "https://poszedlem.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:27:33.226Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:30:09.733Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: Connection to SOCKSv5 proxy server lost
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: Could not connect to proxy server 127.0.0.1: Connection refused
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:32:59.208Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:35:04.460Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:37:22.293Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:40:07.117Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: Connection terminated unexpectedly
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:42:38.893Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:45:08.411Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: net::ERR_CONNECTION_RESET at https://rumien.blogspot.com/
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+node:fs:1881
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, unlink '/tmp/tor_restart.lock'
+    at Object.unlinkSync (node:fs:1881:3)
+    at restartTor (/home/ubuntu/test1/master/meet_ads_lap.js:51:12)
+    at /home/ubuntu/test1/master/meet_ads_lap.js:117:9 {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '/tmp/tor_restart.lock'
+}
+
+Node.js v18.19.1
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:50:07.941Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: Could not connect to proxy server 127.0.0.1: Connection refused
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:52:50.489Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T10:55:07.540Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: NS_ERROR_CONNECTION_REFUSED
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 16: page.goto: net::ERR_CONNECTION_RESET at https://aptekazielona.blogspot.com/
+Call log:
+  - navigating to "https://aptekazielona.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T10:58:43.151Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:00:09.010Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+node:fs:1881
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, unlink '/tmp/tor_restart.lock'
+    at Object.unlinkSync (node:fs:1881:3)
+    at restartTor (/home/ubuntu/test1/master/meet_ads_lap.js:51:12)
+    at /home/ubuntu/test1/master/meet_ads_lap.js:117:9 {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '/tmp/tor_restart.lock'
+}
+
+Node.js v18.19.1
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:05:05.685Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: Peer failed to perform TLS handshake: The TLS connection was non-properly terminated.
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:08:13.707Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:10:05.923Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+node:fs:1881
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, unlink '/tmp/tor_restart.lock'
+    at Object.unlinkSync (node:fs:1881:3)
+    at restartTor (/home/ubuntu/test1/master/meet_ads_lap.js:51:12)
+    at /home/ubuntu/test1/master/meet_ads_lap.js:117:9 {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '/tmp/tor_restart.lock'
+}
+
+Node.js v18.19.1
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:15:03.497Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: net::ERR_CONNECTION_RESET at https://twojamodlitwa.blogspot.com/
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:17:50.585Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:20:09.270Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: NS_ERROR_CONNECTION_REFUSED
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: net::ERR_CONNECTION_RESET at https://strefainternetu.blogspot.com/
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 15: page.goto: net::ERR_CONNECTION_RESET at https://poszedlem.blogspot.com/
+Call log:
+  - navigating to "https://poszedlem.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:22:52.233Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:25:03.698Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: net::ERR_SOCKS_CONNECTION_FAILED at https://rumien.blogspot.com/
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: NS_ERROR_ABORT
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 15: page.goto: net::ERR_CONNECTION_RESET at https://poszedlem.blogspot.com/
+Call log:
+  - navigating to "https://poszedlem.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:27:03.766Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:30:09.304Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: net::ERR_SOCKS_CONNECTION_FAILED at https://recenzjawiadomosci.blogspot.com/
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: Connection to SOCKSv5 proxy server lost
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:33:07.146Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:35:10.044Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: Peer failed to perform TLS handshake: Error decoding the received TLS packet.
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:37:48.956Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:40:06.979Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: net::ERR_CONNECTION_RESET at https://recenzjawiadomosci.blogspot.com/
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: Peer failed to perform TLS handshake: The TLS connection was non-properly terminated.
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:42:29.361Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:45:07.683Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:47:52.110Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:50:06.142Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: net::ERR_CONNECTION_RESET at https://rumien.blogspot.com/
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T11:52:53.219Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T11:55:05.806Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: NS_ERROR_PROXY_CONNECTION_REFUSED
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+node:fs:1881
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, unlink '/tmp/tor_restart.lock'
+    at Object.unlinkSync (node:fs:1881:3)
+    at restartTor (/home/ubuntu/test1/master/meet_ads_lap.js:51:12)
+    at /home/ubuntu/test1/master/meet_ads_lap.js:117:9 {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '/tmp/tor_restart.lock'
+}
+
+Node.js v18.19.1
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:00:08.796Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 19: page.goto: NS_ERROR_PROXY_CONNECTION_REFUSED
+Call log:
+  - navigating to "https://choraskora.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T12:03:07.440Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:05:07.565Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: net::ERR_CONNECTION_RESET at https://rumien.blogspot.com/
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 7: page.goto: Error receiving data: Connection reset by peer
+Call log:
+  - navigating to "https://strefainternetu.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T12:08:14.647Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:10:09.512Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Tor jest już restartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T12:13:20.892Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:15:03.626Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 15: page.goto: net::ERR_CONNECTION_RESET at https://poszedlem.blogspot.com/
+Call log:
+  - navigating to "https://poszedlem.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://ptasiejajo.blogspot.com/
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T12:17:47.324Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:20:12.605Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: net::ERR_CONNECTION_RESET at https://rumien.blogspot.com/
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+node:fs:1881
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, unlink '/tmp/tor_restart.lock'
+    at Object.unlinkSync (node:fs:1881:3)
+    at restartTor (/home/ubuntu/test1/master/meet_ads_lap.js:51:12)
+    at /home/ubuntu/test1/master/meet_ads_lap.js:117:9 {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '/tmp/tor_restart.lock'
+}
+
+Node.js v18.19.1
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:25:07.911Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 2: page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://rumien.blogspot.com/
+Call log:
+  - navigating to "https://rumien.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+node:fs:1881
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, unlink '/tmp/tor_restart.lock'
+    at Object.unlinkSync (node:fs:1881:3)
+    at restartTor (/home/ubuntu/test1/master/meet_ads_lap.js:51:12)
+    at /home/ubuntu/test1/master/meet_ads_lap.js:117:9 {
+  errno: -2,
+  syscall: 'unlink',
+  code: 'ENOENT',
+  path: '/tmp/tor_restart.lock'
+}
+
+Node.js v18.19.1
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:30:08.264Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 3: page.goto: net::ERR_CONNECTION_RESET at https://recenzjawiadomosci.blogspot.com/
+Call log:
+  - navigating to "https://recenzjawiadomosci.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 11: page.goto: net::ERR_SOCKS_CONNECTION_FAILED at https://twojamodlitwa.blogspot.com/
+Call log:
+  - navigating to "https://twojamodlitwa.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://poszedlem.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://aptekazielona.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://choraskora.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 25, URL: https://ptasiejajo.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://ptasiejajo.blogspot.com/
+Błąd podczas przetwarzania bloga ID: 25: page.goto: NS_ERROR_PROXY_CONNECTION_REFUSED
+Call log:
+  - navigating to "https://ptasiejajo.blogspot.com/", waiting until "domcontentloaded"
+
+Przeglądarka zamknięta.
+Połączono z bazą danych.
+Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T12:32:32.569Z
+Skrypt zakończony.
+-----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T12:35:04.483Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://rumien.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 3, URL: https://recenzjawiadomosci.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://recenzjawiadomosci.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 7, URL: https://strefainternetu.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://strefainternetu.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 11, URL: https://twojamodlitwa.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
+Otwieranie strony: https://twojamodlitwa.blogspot.com/
+Strona załadowana pomyślnie.
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 15, URL: https://poszedlem.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
