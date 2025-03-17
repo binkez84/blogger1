@@ -69167,3 +69167,19 @@ Tor został zrestartowany.
 Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
 Otwieranie strony: https://poszedlem.blogspot.com/?m=1
 Strona załadowana pomyślnie.
+Klikam pierwszy link dotykiem: https://poszedlem.blogspot.com/2025/03/wizyta-w-kosciele-mariackim-w-krakowie.html?m=1
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 16, URL: https://aptekazielona.blogspot.com/?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36
+Otwieranie strony: https://aptekazielona.blogspot.com/?m=1
+Strona załadowana pomyślnie.
+Klikam pierwszy link dotykiem: https://aptekazielona.blogspot.com/2025/03/pieciornik-kurze-ziele.html?m=1
+Przeglądarka zamknięta.
+==================>
+Przetwarzanie bloga ID: 19, URL: https://choraskora.blogspot.com/?m=1
+Restartowanie Tora...
+Tor został zrestartowany.
+Uruchamianie przeglądarki z User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36

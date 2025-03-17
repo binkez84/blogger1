@@ -36413,3 +36413,9 @@ Połączono z bazą danych.
 Zaktualizowano czas uruchomienia (end) dla skryptu: meet_ads_lap.js - 2025-03-17T08:02:27.772Z
 Skrypt zakończony.
 -----------------------------------------------------------------------------------------
+Zaktualizowano czas uruchomienia (start) dla skryptu: meet_ads_lap.js - 2025-03-17T08:10:06.083Z
+Znaleziono 8 blogów z ads do przetworzenia.
+==================>
+Przetwarzanie bloga ID: 2, URL: https://rumien.blogspot.com/
+Restartowanie Tora...
+Tor został zrestartowany.
